@@ -1,0 +1,436 @@
+product_id|label|value|value_min|value_max|unit|type
+1000166|Spécification électrique|à sinus modifié||||SIMPLE
+1000166|Applications|pour applications solaires||||SIMPLE
+1000166|Puissance||100,000|500,000|W|MIN_MAX
+1000167|Technologie|hors réseau||||SIMPLE
+1000167|Spécification électrique|à sinus modifié||||SIMPLE
+1000167|Applications|pour applications industrielles,pour applications nucléaires,||||LIST
+1000167|Tension|230,380,220,240,400,|||V|LIST
+1000167|Puissance kVA||5|200|kVA|MIN_MAX
+1000168|Technologie|hors réseau||||SIMPLE
+1000168|Spécification électrique|sinusoïdal||||SIMPLE
+1000168|Applications|pour applications professionnelle,pour applications mobiles,||||LIST
+1000168|Autres caractéristiques|compact||||SIMPLE
+1000168|Puissance||100|2,500|W|MIN_MAX
+1000168|Tension|110,230,|||V|LIST
+1000169|Technologie|hors réseau||||SIMPLE
+1000169|Spécification électrique|pur sinus||||SIMPLE
+1000169|Applications|pour applications industrielles||||SIMPLE
+1000169|Puissance||200|3,000|W|MIN_MAX
+1000170|Type|d'harmonique||||SIMPLE
+1000170|Autres caractéristiques|actif||||SIMPLE
+1000171|Technologie|parallèle||||SIMPLE
+1000171|Spécification électrique|triphasé||||SIMPLE
+1000171|Applications|industriel,pour environnement difficile,pour applications lourdes,||||LIST
+1000171|Tension|240|||V|SIMPLE
+1000171|Puissance kVA||10|100|kVA|MIN_MAX
+1000172|Technologie|parallèle||||SIMPLE
+1000172|Spécification électrique|monophasé||||SIMPLE
+1000172|Applications|pour applications nucléaires||||SIMPLE
+1000172|Tension||220|415|V|MIN_MAX
+1000172|Puissance kVA||5|200|kVA|MIN_MAX
+1000173|Technologie|parallèle||||SIMPLE
+1000173|Spécification électrique|triphasé||||SIMPLE
+1000173|Applications|pour applications nucléaires||||SIMPLE
+1000173|Tension||220|415|V|MIN_MAX
+1000173|Puissance kVA||5|220|kVA|MIN_MAX
+1000174|Technologie|parallèle||||SIMPLE
+1000174|Applications|industriel||||SIMPLE
+1000174|Autre caractéristique|avec compensation du facteur de puissance (PFC)||||SIMPLE
+1000175|Technologie|off-line||||SIMPLE
+1000175|Spécification électrique|monophasé||||SIMPLE
+1000175|Applications|pour point de vente,pour salle serveur,réseau,||||LIST
+1000175|Autre caractéristique|pur sinus,rack 19"",redondant,||||LIST
+1000175|Puissance||100|230|W|MIN_MAX
+1000175|Puissance kVA||0.5|5|kVA|MIN_MAX
+1000211|Technologie|à vessie||||SIMPLE
+1000212|Fluide|à air,à eau,||||LIST
+1000212|Élément filtrant|à cartouche||||SIMPLE
+1000212|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000212|Taille de filtration||1|450|µm|MIN_MAX
+1000212|Pression de fonctionnement|134,120,79,69,,943.506,|||psi)|LIST
+1000213|Fluide|hydraulique||||SIMPLE
+1000213|Élément filtrant|à cartouche||||SIMPLE
+1000213|Autre caractéristique|écologique,haute pression,||||LIST
+1000213|Taille de filtration|20,5,10,2,|||µm|LIST
+1000213|Pression de fonctionnement||0|450|bar|MIN_MAX
+1000213|Débit||0|700|l/min|MIN_MAX
+1000214|Fluide|hydraulique||||SIMPLE
+1000214|Élément filtrant|à cartouche||||SIMPLE
+1000214|Autre caractéristique|semi-immergé,basse pression,retour,magnétique,bypass,||||LIST
+1000214|Taille de filtration|2,10,20,5,|||µm|LIST
+1000214|Pression de fonctionnement||0|Max: 1,000,000 Pa (145.038 psi)|Pa|MIN_MAX
+1000214|Débit||0|500|l/min|MIN_MAX
+1000215|Fluide|hydraulique||||SIMPLE
+1000215|Élément filtrant|à cartouche||||SIMPLE
+1000215|Autre caractéristique|compact,moyenne pression,||||LIST
+1000215|Taille de filtration|10,5,20,2,|||µm|LIST
+1000215|Pression de fonctionnement||0|70|bar|MIN_MAX
+1000215|Débit||0|600|l/min|MIN_MAX
+1000216|Fluide|hydraulique||||SIMPLE
+1000216|Élément filtrant|à cartouche||||SIMPLE
+1000216|Autre caractéristique|moyenne pression,en aluminium,||||LIST
+1000216|Pression de fonctionnement||0|70|bar|MIN_MAX
+1000216|Débit||0|0.01|m³/s|MIN_MAX
+1000217|Fluide|à air comprimé||||SIMPLE
+1000217|Élément filtrant|à panier||||SIMPLE
+1000217|Autre caractéristique|modulaire,automatique,||||LIST
+1000217|Taille de filtration|5,40,|||µm|LIST
+1000217|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000217|Débit||1,000|16,000|l/min|MIN_MAX
+1000218|Fluide|à air comprimé||||SIMPLE
+1000218|Élément filtrant|à panier||||SIMPLE
+1000218|Autre caractéristique|automatique,filtration fine,||||LIST
+1000218|Taille de filtration||0.01|1|µm|MIN_MAX
+1000218|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000218|Débit||54|23,000|l/min|MIN_MAX
+1000219|Fluide|à air comprimé||||SIMPLE
+1000219|Élément filtrant|au charbon actif||||SIMPLE
+1000219|Taille de filtration|0.01|||µm|SIMPLE
+1000219|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000219|Débit||250|7,090|l/min|MIN_MAX
+1000220|Fluide|à air,à eau,||||LIST
+1000220|Élément filtrant|à cartouche||||SIMPLE
+1000220|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000220|Taille de filtration||1|450|µm|MIN_MAX
+1000220|Pression de fonctionnement|134,120,79,69,,943.506,|||psi)|LIST
+1000221|Fluide|à air||||SIMPLE
+1000221|Autre caractéristique|écologique,à particules,||||LIST
+1000221|Pression de fonctionnement|||||SIMPLE
+1000221|Débit||0|2,000|l/min|MIN_MAX
+1000222|Fluide|à air||||SIMPLE
+1000222|Autre caractéristique|à grande capacité,à visser,à particules,||||LIST
+1000222|Taille de filtration|3,5,|||µm|LIST
+1000222|Pression de fonctionnement|0.35,0.7,|||bar|LIST
+1000222|Débit|3,000,|||l/min|SIMPLE
+1000223|Fluide|à air||||SIMPLE
+1000223|Élément filtrant|à panier simple||||SIMPLE
+1000223|Autre caractéristique|de grande capacité,haute performance,pour moteur thermique,coalesceur,à particules,||||LIST
+1000223|Débit||0|1,416|l/min|MIN_MAX
+1000224|Fluide|à air||||SIMPLE
+1000224|Élément filtrant|à cartouche||||SIMPLE
+1000224|Autre caractéristique|jetable,industriel,pour moteur marin,pour moteur,||||LIST
+1000225|Fluide|à air comprimé||||SIMPLE
+1000225|Élément filtrant|à panier||||SIMPLE
+1000225|Autre caractéristique|en T,haute performance,||||LIST
+1000225|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000226|Fluide|à air comprimé||||SIMPLE
+1000226|Élément filtrant|à panier||||SIMPLE
+1000226|Autre caractéristique|haute performance||||SIMPLE
+1000226|Taille de filtration||0.1|5|µm|MIN_MAX
+1000226|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000226|Débit||36|2,232|m³/h|MIN_MAX
+1000227|Fluide|à air comprimé||||SIMPLE
+1000227|Élément filtrant|à panier||||SIMPLE
+1000227|Autre caractéristique|à particules||||SIMPLE
+1000227|Taille de filtration||0.01|40|µm|MIN_MAX
+1000227|Pression de fonctionnement||0|16|bar|MIN_MAX
+1000227|Débit||0.53|450|m³/min|MIN_MAX
+1000228|Fluide|à air comprimé||||SIMPLE
+1000228|Élément filtrant|à panier||||SIMPLE
+1000228|Autre caractéristique|modulaire,automatique,||||LIST
+1000228|Taille de filtration|5,40,|||µm|LIST
+1000228|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000228|Débit||1,000|16,000|l/min|MIN_MAX
+1000229|Fluide|à air comprimé||||SIMPLE
+1000229|Élément filtrant|à panier||||SIMPLE
+1000229|Autre caractéristique|automatique,filtration fine,||||LIST
+1000229|Taille de filtration||0.01|1|µm|MIN_MAX
+1000229|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000229|Débit||54|23,000|l/min|MIN_MAX
+1000230|Fluide|à air comprimé||||SIMPLE
+1000230|Élément filtrant|au charbon actif||||SIMPLE
+1000230|Taille de filtration|0.01|||µm|SIMPLE
+1000230|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000230|Débit||250|7,090|l/min|MIN_MAX
+1000231|Fluide|hydraulique,à carburant,||||LIST
+1000231|Élément filtrant|à cartouche||||SIMPLE
+1000231|Autre caractéristique|en ligne,moyenne pression,en fonte,à montage à bride,||||LIST
+1000231|Pression de fonctionnement||0|40|bar|MIN_MAX
+1000231|Débit||0|350|l/min|MIN_MAX
+1000232|Fluide|à air,à eau,||||LIST
+1000232|Élément filtrant|à cartouche||||SIMPLE
+1000232|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000232|Taille de filtration||1|450|µm|MIN_MAX
+1000232|Pression de fonctionnement|134,120,79,69,,943.506,|||psi)|LIST
+1000233|Fluide|hydraulique||||SIMPLE
+1000233|Élément filtrant|à cartouche||||SIMPLE
+1000233|Autre caractéristique|écologique,haute pression,||||LIST
+1000233|Taille de filtration|20,5,10,2,|||µm|LIST
+1000233|Pression de fonctionnement||0|450|bar|MIN_MAX
+1000233|Débit||0|700|l/min|MIN_MAX
+1000234|Fluide|hydraulique||||SIMPLE
+1000234|Élément filtrant|à cartouche||||SIMPLE
+1000234|Autre caractéristique|semi-immergé,basse pression,retour,magnétique,bypass,||||LIST
+1000234|Taille de filtration|2,10,20,5,|||µm|LIST
+1000234|Pression de fonctionnement||0|Max: 1,000,000 Pa (145.038 psi)|Pa|MIN_MAX
+1000234|Débit||0|500|l/min|MIN_MAX
+1000235|Fluide|hydraulique||||SIMPLE
+1000235|Élément filtrant|à cartouche||||SIMPLE
+1000235|Autre caractéristique|compact,moyenne pression,||||LIST
+1000235|Taille de filtration|10,5,20,2,|||µm|LIST
+1000235|Pression de fonctionnement||0|70|bar|MIN_MAX
+1000235|Débit||0|600|l/min|MIN_MAX
+1000236|Fluide|hydraulique||||SIMPLE
+1000236|Élément filtrant|à cartouche||||SIMPLE
+1000236|Autre caractéristique|écologique,haute pression,||||LIST
+1000236|Taille de filtration|20,5,10,2,|||µm|LIST
+1000236|Pression de fonctionnement||0|450|bar|MIN_MAX
+1000236|Débit||0|700|l/min|MIN_MAX
+1000237|Fluide|hydraulique||||SIMPLE
+1000237|Élément filtrant|à cartouche||||SIMPLE
+1000237|Autre caractéristique|semi-immergé,basse pression,retour,magnétique,bypass,||||LIST
+1000237|Taille de filtration|2,10,20,5,|||µm|LIST
+1000237|Pression de fonctionnement||0|Max: 1,000,000 Pa (145.038 psi)|Pa|MIN_MAX
+1000237|Débit||0|500|l/min|MIN_MAX
+1000238|Fluide|hydraulique||||SIMPLE
+1000238|Élément filtrant|à cartouche||||SIMPLE
+1000238|Autre caractéristique|compact,moyenne pression,||||LIST
+1000238|Taille de filtration|10,5,20,2,|||µm|LIST
+1000238|Pression de fonctionnement||0|70|bar|MIN_MAX
+1000238|Débit||0|600|l/min|MIN_MAX
+1000239|Fluide|hydraulique||||SIMPLE
+1000239|Élément filtrant|à cartouche||||SIMPLE
+1000239|Autre caractéristique|moyenne pression,en aluminium,||||LIST
+1000239|Pression de fonctionnement||0|70|bar|MIN_MAX
+1000239|Débit||0|0.01|m³/s|MIN_MAX
+1000240|Fluide|hydraulique||||SIMPLE
+1000240|Élément filtrant|à cartouche||||SIMPLE
+1000240|Autre caractéristique|en ligne,d'aspiration,basse pression,retour,||||LIST
+1000240|Taille de filtration|3,10,|||µm|LIST
+1000240|Pression de fonctionnement||0|10|bar|MIN_MAX
+1000240|Débit||0|360|l/min|MIN_MAX
+1000241|Fluide|à liquide,à gaz,||||LIST
+1000241|Élément filtrant|à cartouche||||SIMPLE
+1000241|Autre caractéristique|pour applications biopharmaceutiques||||SIMPLE
+1000241|Taille de filtration||0.1|100|µm|MIN_MAX
+1000242|Fluide|à gaz||||SIMPLE
+1000242|Élément filtrant|à cartouche||||SIMPLE
+1000242|Autre caractéristique|haute performance,stérile,||||LIST
+1000242|Pression de fonctionnement|||||SIMPLE
+1000242|Débit||0.6|49.5|l/min|MIN_MAX
+1000243|Fluide|à air,à eau,||||LIST
+1000243|Élément filtrant|à cartouche||||SIMPLE
+1000243|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000243|Taille de filtration||1|450|µm|MIN_MAX
+1000243|Pression de fonctionnement|134,120,79,69,,943.506,|||psi)|LIST
+1000244|Fluide|hydraulique||||SIMPLE
+1000244|Élément filtrant|à cartouche||||SIMPLE
+1000244|Autre caractéristique|écologique,haute pression,||||LIST
+1000244|Taille de filtration|20,5,10,2,|||µm|LIST
+1000244|Pression de fonctionnement||0|450|bar|MIN_MAX
+1000244|Débit||0|700|l/min|MIN_MAX
+1000245|Fluide|hydraulique||||SIMPLE
+1000245|Élément filtrant|à cartouche||||SIMPLE
+1000245|Autre caractéristique|semi-immergé,basse pression,retour,magnétique,bypass,||||LIST
+1000245|Taille de filtration|2,10,20,5,|||µm|LIST
+1000245|Pression de fonctionnement||0|Max: 1,000,000 Pa (145.038 psi)|Pa|MIN_MAX
+1000245|Débit||0|500|l/min|MIN_MAX
+1000246|Fluide|hydraulique||||SIMPLE
+1000246|Élément filtrant|à cartouche||||SIMPLE
+1000246|Autre caractéristique|compact,moyenne pression,||||LIST
+1000246|Taille de filtration|10,5,20,2,|||µm|LIST
+1000246|Pression de fonctionnement||0|70|bar|MIN_MAX
+1000246|Débit||0|600|l/min|MIN_MAX
+1000247|Fluide|hydraulique||||SIMPLE
+1000247|Élément filtrant|à cartouche||||SIMPLE
+1000247|Autre caractéristique|moyenne pression,en aluminium,||||LIST
+1000247|Pression de fonctionnement||0|70|bar|MIN_MAX
+1000247|Débit||0|0.01|m³/s|MIN_MAX
+1000248|Fluide|à air comprimé||||SIMPLE
+1000248|Élément filtrant|à panier||||SIMPLE
+1000248|Autre caractéristique|modulaire,automatique,||||LIST
+1000248|Taille de filtration|5,40,|||µm|LIST
+1000248|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000248|Débit||1,000|16,000|l/min|MIN_MAX
+1000249|Fluide|à air comprimé||||SIMPLE
+1000249|Élément filtrant|à panier||||SIMPLE
+1000249|Autre caractéristique|automatique,filtration fine,||||LIST
+1000249|Taille de filtration||0.01|1|µm|MIN_MAX
+1000249|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000249|Débit||54|23,000|l/min|MIN_MAX
+1000250|Fluide|à air comprimé||||SIMPLE
+1000250|Élément filtrant|au charbon actif||||SIMPLE
+1000250|Taille de filtration|0.01|||µm|SIMPLE
+1000250|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000250|Débit||250|7,090|l/min|MIN_MAX
+1000251|Fluide|à air,à eau,||||LIST
+1000251|Élément filtrant|à cartouche||||SIMPLE
+1000251|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000251|Taille de filtration||1|450|µm|MIN_MAX
+1000251|Pression de fonctionnement|134,120,79,69,,943.506,|||psi)|LIST
+1000252|Fluide|hydraulique||||SIMPLE
+1000252|Élément filtrant|à cartouche||||SIMPLE
+1000252|Autre caractéristique|écologique,haute pression,||||LIST
+1000252|Taille de filtration|20,5,10,2,|||µm|LIST
+1000252|Pression de fonctionnement||0|450|bar|MIN_MAX
+1000252|Débit||0|700|l/min|MIN_MAX
+1000253|Fluide|hydraulique||||SIMPLE
+1000253|Élément filtrant|à cartouche||||SIMPLE
+1000253|Autre caractéristique|semi-immergé,basse pression,retour,magnétique,bypass,||||LIST
+1000253|Taille de filtration|2,10,20,5,|||µm|LIST
+1000253|Pression de fonctionnement||0|Max: 1,000,000 Pa (145.038 psi)|Pa|MIN_MAX
+1000253|Débit||0|500|l/min|MIN_MAX
+1000254|Fluide|hydraulique||||SIMPLE
+1000254|Élément filtrant|à cartouche||||SIMPLE
+1000254|Autre caractéristique|compact,moyenne pression,||||LIST
+1000254|Taille de filtration|10,5,20,2,|||µm|LIST
+1000254|Pression de fonctionnement||0|70|bar|MIN_MAX
+1000254|Débit||0|600|l/min|MIN_MAX
+1000255|Fluide|hydraulique||||SIMPLE
+1000255|Élément filtrant|à cartouche||||SIMPLE
+1000255|Autre caractéristique|moyenne pression,en aluminium,||||LIST
+1000255|Pression de fonctionnement||0|70|bar|MIN_MAX
+1000255|Débit||0|0.01|m³/s|MIN_MAX
+1000256|Fluide|à air comprimé||||SIMPLE
+1000256|Élément filtrant|à panier||||SIMPLE
+1000256|Autre caractéristique|en T,haute performance,||||LIST
+1000256|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000257|Fluide|à air comprimé||||SIMPLE
+1000257|Élément filtrant|à panier||||SIMPLE
+1000257|Autre caractéristique|haute performance||||SIMPLE
+1000257|Taille de filtration||0.1|5|µm|MIN_MAX
+1000257|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000257|Débit||36|2,232|m³/h|MIN_MAX
+1000258|Fluide|à air comprimé||||SIMPLE
+1000258|Élément filtrant|à panier||||SIMPLE
+1000258|Autre caractéristique|à particules||||SIMPLE
+1000258|Taille de filtration||0.01|40|µm|MIN_MAX
+1000258|Pression de fonctionnement||0|16|bar|MIN_MAX
+1000258|Débit||0.53|450|m³/min|MIN_MAX
+1000259|Fluide|à air||||SIMPLE
+1000259|Élément filtrant|à panier simple||||SIMPLE
+1000259|Autre caractéristique|de grande capacité,haute performance,pour moteur thermique,coalesceur,à particules,||||LIST
+1000259|Débit||0|1,416|l/min|MIN_MAX
+1000260|Fluide|à air comprimé||||SIMPLE
+1000260|Élément filtrant|à panier||||SIMPLE
+1000260|Autre caractéristique|modulaire,automatique,||||LIST
+1000260|Taille de filtration|5,40,|||µm|LIST
+1000260|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000260|Débit||1,000|16,000|l/min|MIN_MAX
+1000261|Fluide|à air comprimé||||SIMPLE
+1000261|Élément filtrant|à panier||||SIMPLE
+1000261|Autre caractéristique|automatique,filtration fine,||||LIST
+1000261|Taille de filtration||0.01|1|µm|MIN_MAX
+1000261|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000261|Débit||54|23,000|l/min|MIN_MAX
+1000262|Media|de condensat||||SIMPLE
+1000262|Mode de fonctionnement|automatique||||SIMPLE
+1000262|Type|électronique||||SIMPLE
+1000262|Pression||1|16|bar|MIN_MAX
+1000262|Température||1|60|°C|MIN_MAX
+1000263|Media|de condensat||||SIMPLE
+1000263|Mode de fonctionnement|automatique||||SIMPLE
+1000263|Type|mécanique||||SIMPLE
+1000263|Pression||0|16|bar|MIN_MAX
+1000263|Température||0|60|°C|MIN_MAX
+1000264|Technologie|pour air comprimé||||SIMPLE
+1000264|Pression||1|16|bar|MIN_MAX
+1000264|Débit||2,500|7,200|l/min|MIN_MAX
+1000265|Applications|pour air comprimé||||SIMPLE
+1000266|Applications|pour air comprimé||||SIMPLE
+1000267|Applications|pour air comprimé||||SIMPLE
+1000268|.forme|rond||||SIMPLE
+1000268|Type|mâle||||SIMPLE
+1000268|Matériau|en nylon||||SIMPLE
+1000269|Type|racleur||||SIMPLE
+1000269|Forme|circulaire||||SIMPLE
+1000269|Matériau*|en élastomère||||SIMPLE
+1000269|Application|pour pompe,pour actionneur,pour bride,pour applications hydrauliques,||||LIST
+1000269|Autres caractéristiques|hydraulique||||SIMPLE
+1000270|Type|torique||||SIMPLE
+1000270|Forme|circulaire||||SIMPLE
+1000270|Matériau*|en PTFE||||SIMPLE
+1000270|Autres caractéristiques|haute température,résistant aux produits chimiques,||||LIST
+1000271|Forme|circulaire||||SIMPLE
+1000271|Matériau*|en polyuréthane||||SIMPLE
+1000272|Type|torique||||SIMPLE
+1000272|Forme|circulaire||||SIMPLE
+1000272|Matériau*|en PTFE||||SIMPLE
+1000272|Autres caractéristiques|haute température,résistant aux produits chimiques,||||LIST
+1000273|Actionnement|entraîné par moteur||||SIMPLE
+1000273|Applications|pour machine-outil||||SIMPLE
+1000273|Diamètre||65|220|mm|MIN_MAX
+1000274|Configuration|horizontale||||SIMPLE
+1000274|Diamètre|16,25,20,32,|||mm|LIST
+1000275|Forme|carré||||SIMPLE
+1000276|Interface|à écran tactile||||SIMPLE
+1000276|Montage|à montage VESA||||SIMPLE
+1000276|Résolution|800 x 480,1024 x 768,480 x 272,||||LIST
+1000276|Processeur|ARM Cortex-A8||||SIMPLE
+1000276|Autres caractéristiques|TFT LCD,TCP/IP,Modbus,||||LIST
+1000276|Applications|de contrôle||||SIMPLE
+1000276|Taille d'écran|10,7,4.3,|||in|LIST
+1000277|Interface|à écran tactile||||SIMPLE
+1000277|Montage|à montage VESA||||SIMPLE
+1000277|Résolution|800 x 480,480 x 272,||||LIST
+1000277|Processeur|ARM Cortex-A8||||SIMPLE
+1000277|Autres caractéristiques|TFT LCD,sans ventilateur,programmable,RS422/RS485,Modbus,||||LIST
+1000277|Applications|d'affichage||||SIMPLE
+1000277|Taille d'écran|7,4.3,|||in|LIST
+1000278|Affichage|à affichage numérique||||SIMPLE
+1000278|Type|programmable||||SIMPLE
+1000279|Affichage|numérique||||SIMPLE
+1000279|Type|programmable||||SIMPLE
+1000279|Utilisation|de refroidissement,de chauffage,||||LIST
+1000279|Autres caractéristiques|configurable||||SIMPLE
+1000279|Température maximale||0|50|°C|MIN_MAX
+1000280|Affichage|numérique||||SIMPLE
+1000280|Type|avec contrôle à distance||||SIMPLE
+1000280|Utilisation|de refroidissement,de chauffage,||||LIST
+1000280|Autres caractéristiques|automatique||||SIMPLE
+1000280|Température maximale||0|500|°C|MIN_MAX
+1000036|Technologie|inductif||||SIMPLE
+1000036|Forme|cylindrique||||SIMPLE
+1000036|Signal de sortie|analogique||||SIMPLE
+1000036|Plage de mesure||1|4|mm|MIN_MAX
+1000037|Technologie|reed||||SIMPLE
+1000037|Forme|cylindrique||||SIMPLE
+1000037|Niveau de protection|IP65,IP68,||||LIST
+1000037|Signal de sortie|analogique||||SIMPLE
+1000038|Technologie|reed||||SIMPLE
+1000038|Forme|rectangulaire||||SIMPLE
+1000038|Niveau de protection|IP65,IP69,||||LIST
+1000038|Signal de sortie|analogique||||SIMPLE
+1000039|Technologie|reed||||SIMPLE
+1000039|Forme|cylindrique M12||||SIMPLE
+1000039|Niveau de protection|IP65,IP67,||||LIST
+1000039|Signal de sortie|analogique||||SIMPLE
+1000040|Technologie|reed||||SIMPLE
+1000040|Forme|rectangulaire||||SIMPLE
+1000040|Niveau de protection|IP68,IP65,||||LIST
+1000040|Signal de sortie|numérique||||SIMPLE
+1000041|Technologie|reed||||SIMPLE
+1000041|Forme|cylindrique||||SIMPLE
+1000041|Niveau de protection|IP67||||SIMPLE
+1000041|Signal de sortie|analogique||||SIMPLE
+1000042|Fonction|de sécurité||||SIMPLE
+1000042|Type de faisceaux|multifaisceau||||SIMPLE
+1000042|Construction|type barrage||||SIMPLE
+1000042|Portée||0|4|m|MIN_MAX
+1000043|Fonction|de sécurité||||SIMPLE
+1000043|Type de faisceaux|multifaisceau||||SIMPLE
+1000043|Construction|type barrage||||SIMPLE
+1000043|Niveau de protection|IP65||||SIMPLE
+1000043|Autres caractéristiques|protection des doigts,avec inhibition,||||LIST
+1000044|Type|à réflexion directe||||SIMPLE
+1000044|Configuration|rectangulaire||||SIMPLE
+1000044|Type de faisceaux|infrarouge||||SIMPLE
+1000044|Portée maximale||150|2,000|mm|MIN_MAX
+1000045|Type|à réflexion directe||||SIMPLE
+1000045|Configuration|cylindrique||||SIMPLE
+1000045|Type de faisceaux|infrarouge||||SIMPLE
+1000045|Portée maximale||100|1,000|mm|MIN_MAX
+1000047|Technologie|photoélectrique||||SIMPLE
+1000047|Distance de mesure|6|||mm|SIMPLE
+1000048|Autres caractéristiques|antidéflagrant||||SIMPLE
+1000050|Élément détecté|de particules||||SIMPLE
+1000050|Autres caractéristiques|pour fluide hydraulique,pour applications hydrauliques,||||LIST
+1000051|Élément détecté|de particules||||SIMPLE
+1000051|Autres caractéristiques|robuste,pour liquide,||||LIST
+1000053|Élément détecté|de mouvement||||SIMPLE
+1000053|Technologie|radar||||SIMPLE
+1000054|Élément détecté|de mouvement||||SIMPLE
+1000054|Technologie|radar||||SIMPLE
+1000055|Élément détecté|de mouvement,infrarouge passif,||||LIST
+1000055|Autres caractéristiques|mural||||SIMPLE

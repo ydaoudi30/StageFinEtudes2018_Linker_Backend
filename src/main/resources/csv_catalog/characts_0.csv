@@ -1,0 +1,339 @@
+product_id|label|value|value_min|value_max|unit|type
+1000631|Fixation|à visser||||SIMPLE
+1000631|Forme|droit||||SIMPLE
+1000631|Application|hydraulique||||SIMPLE
+1000631|Matériau|en plastique||||SIMPLE
+1000632|Fixation|push-in,enfichable,||||LIST
+1000632|Forme|coudé||||SIMPLE
+1000632|Application|pour air comprimé||||SIMPLE
+1000632|Matériau|en laiton nickelé||||SIMPLE
+1000632|Autre caractéristique|résistant aux produits chimiques,de traversée de cloison,||||LIST
+1000632|Diamètre||0.13|0.5|in|MIN_MAX
+1000632|Pression de service||0|20|bar|MIN_MAX
+1000633|Fixation|push-in,enfichable,||||LIST
+1000633|Forme|coudé||||SIMPLE
+1000633|Application|pneumatique||||SIMPLE
+1000633|Matériau|en laiton nickelé||||SIMPLE
+1000633|Autre caractéristique|robuste||||SIMPLE
+1000633|Diamètre||4|14|mm|MIN_MAX
+1000633|Pression de service||0|16|bar|MIN_MAX
+1000634|Fixation|à visser,rapide,||||LIST
+1000634|Forme|droit||||SIMPLE
+1000634|Application|pour air comprimé||||SIMPLE
+1000634|Diamètre||3|13|mm|MIN_MAX
+1000634|Pression de service||0|10|bar|MIN_MAX
+1000635|Fixation|push-to-lock||||SIMPLE
+1000635|Forme|droit||||SIMPLE
+1000635|Application|hydraulique||||SIMPLE
+1000635|Autre caractéristique|standard,universel,||||LIST
+1000635|Diamètre||6|22|mm|MIN_MAX
+1000635|Pression de service|,801.51,|||psi)|LIST
+1000636|Media|pour eau||||SIMPLE
+1000636|Nombre de passages|2 passages||||SIMPLE
+1000636|Matériau|en laiton,en acier inoxydable,||||LIST
+1000636|Autres caractéristiques|à roulements||||SIMPLE
+1000636|Pression||10|50|bar|MIN_MAX
+1000636|Vitesse de rotation||1,500|3,000|rpm|MIN_MAX
+1000636|Taille nominale||9|150|mm|MIN_MAX
+1000637|Fixation|push-in,enfichable,||||LIST
+1000637|Forme|coudé||||SIMPLE
+1000637|Application|pour air comprimé||||SIMPLE
+1000637|Matériau|en laiton nickelé||||SIMPLE
+1000637|Autre caractéristique|résistant aux produits chimiques,de traversée de cloison,||||LIST
+1000637|Diamètre||0.13|0.5|in|MIN_MAX
+1000637|Pression de service||0|20|bar|MIN_MAX
+1000638|Fixation|push-in,enfichable,||||LIST
+1000638|Forme|coudé||||SIMPLE
+1000638|Application|pneumatique||||SIMPLE
+1000638|Matériau|en laiton nickelé||||SIMPLE
+1000638|Autre caractéristique|robuste||||SIMPLE
+1000638|Diamètre||4|14|mm|MIN_MAX
+1000638|Pression de service||0|16|bar|MIN_MAX
+1000639|Fixation|cannelé||||SIMPLE
+1000639|Forme|en T||||SIMPLE
+1000639|Application|pour air comprimé||||SIMPLE
+1000639|Matériau|en aluminium||||SIMPLE
+1000639|Autre caractéristique|de traversée de cloison||||SIMPLE
+1000639|Diamètre||2|6|mm|MIN_MAX
+1000639|Pression de service||0|10|bar|MIN_MAX
+1000640|Fixation|à visser||||SIMPLE
+1000640|Forme|droit||||SIMPLE
+1000640|Application|pour air comprimé||||SIMPLE
+1000640|Matériau|en laiton||||SIMPLE
+1000640|Diamètre||6|19|mm|MIN_MAX
+1000640|Pression de service||0|10|bar|MIN_MAX
+1000641|Fixation|à visser,rapide,||||LIST
+1000641|Forme|droit||||SIMPLE
+1000641|Application|pour air comprimé||||SIMPLE
+1000641|Diamètre||3|13|mm|MIN_MAX
+1000641|Pression de service||0|10|bar|MIN_MAX
+1000642|Fixation|à visser||||SIMPLE
+1000642|Forme|coudé||||SIMPLE
+1000642|Application|pour air comprimé,pneumatique,||||LIST
+1000642|Matériau|en laiton nickelé||||SIMPLE
+1000642|Diamètre||0.13|1|in|MIN_MAX
+1000642|Pression de service||0|50|bar|MIN_MAX
+1000643|Fixation|fileté||||SIMPLE
+1000643|Forme|droit,coudé à 90°,||||LIST
+1000643|Diamètre||0.06|2|in|MIN_MAX
+1000643|Pression de service||1,800|10,500|psi|MIN_MAX
+1000644|Fixation|à bague coupante||||SIMPLE
+1000644|Forme|droit||||SIMPLE
+1000644|Application|hydraulique||||SIMPLE
+1000644|Matériau|en acier||||SIMPLE
+1000644|Autre caractéristique|à haute pression||||SIMPLE
+1000644|Diamètre||6|38|mm|MIN_MAX
+1000644|Pression de service|160,630,400,,320.6,|||psi)|LIST
+1000645|Fixation|à visser||||SIMPLE
+1000645|Forme|droit||||SIMPLE
+1000645|Application|hydraulique||||SIMPLE
+1000645|Matériau|en acier||||SIMPLE
+1000645|Autre caractéristique|avec joint torique||||SIMPLE
+1000645|Diamètre||6|50|mm|MIN_MAX
+1000645|Pression de service|,137.38,|||psi)|LIST
+1000646|Fixation|à visser||||SIMPLE
+1000646|Forme|droit||||SIMPLE
+1000646|Application|hydraulique||||SIMPLE
+1000646|Matériau|en plastique||||SIMPLE
+1000647|Forme|rond||||SIMPLE
+1000647|Type|mâle||||SIMPLE
+1000647|Matériau|en nylon||||SIMPLE
+1000648|Applications|pour tuyaux||||SIMPLE
+1000648|Matériau|en acier inoxydable||||SIMPLE
+1000648|Autres caractéristiques|percée||||SIMPLE
+1000649|Applications|pour tuyaux||||SIMPLE
+1000649|Matériau|en acier||||SIMPLE
+1000649|Autres caractéristiques|SAE||||SIMPLE
+1000649|Diamètre nominal||13|127|mm|MIN_MAX
+1000650|Applications produit|pour extrémité de câbles||||SIMPLE
+1000651|Utilisation|pour air||||SIMPLE
+1000651|Matériau|en TPE,en polyuréthane,||||LIST
+1000651|Autres caractéristiques|résistant aux microbes,résistant à l'hydrolyse,haute résistance,||||LIST
+1000651|Diamètre interne||2.1|11|mm|MIN_MAX
+1000651|Diamètre externe||3|16|mm|MIN_MAX
+1000651|Pression||0|10|bar|MIN_MAX
+1000651|Température||-35|60|°C|MIN_MAX
+1000652|Utilisation|pour air comprimé||||SIMPLE
+1000652|Autres caractéristiques|résistant à l'hydrolyse,résistant aux produits chimiques,||||LIST
+1000652|Diamètre interne||2.7|8.4|mm|MIN_MAX
+1000652|Diamètre externe||4|12|mm|MIN_MAX
+1000652|Pression||0|10|bar|MIN_MAX
+1000652|Température||-30|60|°C|MIN_MAX
+1000653|Utilisation|pour produits chimiques,pour air,||||LIST
+1000653|Matériau|en polyuréthane||||SIMPLE
+1000653|Autres caractéristiques|résistant aux produits chimiques,résistant à l'hydrolyse,haute résistance,||||LIST
+1000653|Diamètre interne||2.9|12|mm|MIN_MAX
+1000653|Diamètre externe||4|16|mm|MIN_MAX
+1000653|Pression||0|14|bar|MIN_MAX
+1000653|Température||-30|80|°C|MIN_MAX
+1000654|Utilisation|hydraulique||||SIMPLE
+1000654|Application|haute pression||||SIMPLE
+1000654|Matériau|en caoutchouc||||SIMPLE
+1000654|Autres caractéristiques|à faible rayon de courbure||||SIMPLE
+1000654|Diamètre interne|12,20,25,16,32,|||mm|LIST
+1000654|Diamètre externe|35.7,21.1,44.9,23.9,27.9,|||mm|LIST
+1000654|Pression|320,,641.208,|||psi)|LIST
+1000654|Température||-40|125|°C|MIN_MAX
+1000655|Utilisation|hydraulique,pneumatique,||||LIST
+1000655|Application|basse pression||||SIMPLE
+1000655|Autres caractéristiques|résistant à l'abrasion,pour fluide corrosif,pour fluide abrasif,||||LIST
+1000656|Utilisation|pour lait||||SIMPLE
+1000656|Application|pour applications alimentaires,pour l'industrie agroalimentaire,||||LIST
+1000656|Matériau|en caoutchouc||||SIMPLE
+1000657|Type|rapide,hydraulique,||||LIST
+1000657|Diamètre|12.5,10,19,|||mm|LIST
+1000657|Pression de service||0|350|bar|MIN_MAX
+1000658|Technologie|à piston||||SIMPLE
+1000659|Technologie|à membrane||||SIMPLE
+1000659|Autres caractéristiques|hydropneumatique||||SIMPLE
+1000660|Technologie|à vessie||||SIMPLE
+1000661|Fluide|à air,à eau,||||LIST
+1000661|Élément filtrant|à cartouche||||SIMPLE
+1000661|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000661|Taille de filtration||1|450|µm|MIN_MAX
+1000661|Pression de fonctionnement|79,69,134,155,,145.798,|||psi)|LIST
+1000662|Fluide|hydraulique||||SIMPLE
+1000662|Élément filtrant|à cartouche||||SIMPLE
+1000662|Autre caractéristique|écologique,haute pression,||||LIST
+1000662|Taille de filtration|10,5,2,20,|||µm|LIST
+1000662|Pression de fonctionnement||0|450|bar|MIN_MAX
+1000662|Débit||0|700|l/min|MIN_MAX
+1000663|Fluide|hydraulique||||SIMPLE
+1000663|Élément filtrant|à cartouche||||SIMPLE
+1000663|Autre caractéristique|semi-immergé,basse pression,retour,magnétique,bypass,||||LIST
+1000663|Taille de filtration|5,2,10,20,|||µm|LIST
+1000663|Pression de fonctionnement||0|10|bar|MIN_MAX
+1000663|Débit||0|500|l/min|MIN_MAX
+1000664|Fluide|hydraulique||||SIMPLE
+1000664|Élément filtrant|à cartouche||||SIMPLE
+1000664|Autre caractéristique|d'échappement,à gasoil,||||LIST
+1000664|Taille de filtration|1|||µm|SIMPLE
+1000664|Pression de fonctionnement|||||SIMPLE
+1000664|Débit|||||SIMPLE
+1000665|Fluide|à air||||SIMPLE
+1000665|Élément filtrant|en panneaux||||SIMPLE
+1000665|Autre caractéristique|de process,HEPA,||||LIST
+1000665|Pression de fonctionnement|||||SIMPLE
+1000665|Débit||151|1,356|m³/h|MIN_MAX
+1000771|Technique|électrochimique||||SIMPLE
+1000771|Applications|pour métal,pour matières plastiques,pour étiquettes,pour aluminium,||||LIST
+1000771|Autres caractéristiques|A4||||SIMPLE
+1000772|Type|d'identification||||SIMPLE
+1000772|Autres caractéristiques|pour marquage de câble||||SIMPLE
+1000773|Technologie|à air sec||||SIMPLE
+1000773|Batch / continu|batch||||SIMPLE
+1000773|Applications|d'armoire électrique||||SIMPLE
+1000774|Technologie|par adsorption||||SIMPLE
+1000774|Autres caractéristiques|compact,modulaire,||||LIST
+1000775|Technologie|sous vide||||SIMPLE
+1000775|Applications|d'air||||SIMPLE
+1000776|Technologie|par réfrigération||||SIMPLE
+1000776|Capacité||12|10,800|m³/h|MIN_MAX
+1000776|Pression|50,14,|||bar|LIST
+1000777|Technologie|par adsorption sans chaleur||||SIMPLE
+1000777|Autres caractéristiques|compact||||SIMPLE
+1000777|Capacité||8|86|m³/h|MIN_MAX
+1000777|Pression|9,16,5,7,|||bar|LIST
+1000778|Technologie|par adsorption sans chaleur||||SIMPLE
+1000778|Autres caractéristiques|chaleur interne||||SIMPLE
+1000778|Capacité||6.81|102|m³/h|MIN_MAX
+1000778|Pression||4|13|bar|MIN_MAX
+1000779|Technologie|à membrane||||SIMPLE
+1000779|Capacité||50|400|l/min|MIN_MAX
+1000779|Pression||3|12.5|bar|MIN_MAX
+1000780|Technologie|à membrane||||SIMPLE
+1000780|Capacité||300|1,000|l/min|MIN_MAX
+1000780|Pression||3|12.5|bar|MIN_MAX
+1000781|Technologie|par adsorption à récupération de chaleur de compression||||SIMPLE
+1000781|Capacité||40|2,000|l/min|MIN_MAX
+1000781|Pression||4|16|bar|MIN_MAX
+1000783|Matière|d'air||||SIMPLE
+1000784|Matière|d'eau||||SIMPLE
+1000784|Autres caractéristiques|à condensation par eau||||SIMPLE
+1000784|Puissance||2,500|757,000|W|MIN_MAX
+1000785|Matière|d'huile||||SIMPLE
+1000785|Applications|pour applications hydrauliques||||SIMPLE
+1000785|Puissance||2,000|24,000|W|MIN_MAX
+1000786|Type|ventilé||||SIMPLE
+1000787|Type|PTC||||SIMPLE
+1000787|Autres caractéristiques|sans ventilateur,pour armoire électrique,||||LIST
+1000787|Puissance|50,150,100,25,|||kW|LIST
+1000788|Type|de moteur||||SIMPLE
+1000788|Spécification électrique|monophasé||||SIMPLE
+1000788|Autres caractéristiques|pour compresseur||||SIMPLE
+1000789|Technologie|dynamique||||SIMPLE
+1000789|Batch / continu|batch||||SIMPLE
+1000789|Application|de liquide||||SIMPLE
+1000790|Technologie|dynamique||||SIMPLE
+1000790|Batch / continu|batch||||SIMPLE
+1000790|Application|de liquide||||SIMPLE
+1000791|Applications|de résines||||SIMPLE
+1000791|Type|à vis,pondéral,||||LIST
+1000792|Applications|de colle||||SIMPLE
+1000792|Autres caractéristiques|kit||||SIMPLE
+1000793|Applications|de liquides||||SIMPLE
+1000793|Type|volumétrique,à vis,||||LIST
+1000793|Autres caractéristiques|bi-composant||||SIMPLE
+1000794|Fluide|pour boisson||||SIMPLE
+1000794|Actionnement|électrique||||SIMPLE
+1000794|Technologie|à piston plongeur||||SIMPLE
+1000794|Autres caractéristiques|de dosage||||SIMPLE
+1000794|Débit||0|300|l/h|MIN_MAX
+1000795|Fonction|de dosage||||SIMPLE
+1000795|Produit|à graisse||||SIMPLE
+1000795|Mode de fonctionnement|automatique||||SIMPLE
+1000796|Configuration|à main||||SIMPLE
+1000796|Connectique|USB||||SIMPLE
+1000796|Fréquence|125|||kHz|SIMPLE
+1000797|Connectique|ethernet||||SIMPLE
+1000797|Autres caractéristiques|UHF||||SIMPLE
+1000797|Fréquence||865|928|MHz|MIN_MAX
+1000801|Type|d'identification||||SIMPLE
+1000801|Autres caractéristiques|pour marquage de câble||||SIMPLE
+1000802|Configuration|compact||||SIMPLE
+1000803|Spécifications|avec pompe à engrenages,à colle,||||LIST
+1000804|Technologie|à cyclone||||SIMPLE
+1000804|Décolmatage|décolmatage pneumatique||||SIMPLE
+1000804|Autres caractéristiques|à forte charge||||SIMPLE
+1000804|Débit||510|22,082|m³/h|MIN_MAX
+1000805|Technologie|à manches||||SIMPLE
+1000805|Décolmatage|décolmatage à jet pulsé||||SIMPLE
+1000805|Autres caractéristiques|à haut rendement||||SIMPLE
+1000841|Spécifications|à LED,d'intensité moyenne,||||LIST
+1000842|Type|à éclats||||SIMPLE
+1000844|Type|luminaire||||SIMPLE
+1000844|Technologie d'éclairage|à tube fluorescent||||SIMPLE
+1000844|Applications|pour commerce,pour hall de stockage,pour bureaux,pour salle blanche,||||LIST
+1000844|Autres caractéristiques|tubulaire,antidéflagrant,||||LIST
+1000844|Puissance|18,36,|||W|LIST
+1000845|Type|luminaire||||SIMPLE
+1000845|Technologie d'éclairage|à tube fluorescent||||SIMPLE
+1000845|Applications|pour commerce,pour hall de stockage,pour bureaux,pour salle blanche,||||LIST
+1000845|Autres caractéristiques|en polycarbonate,en applique,tubulaire,antidéflagrant,||||LIST
+1000845|Puissance||18|58|W|MIN_MAX
+1000846|Type|lampe||||SIMPLE
+1000846|Technologie d'éclairage|HID||||SIMPLE
+1000846|Applications|d'extérieur||||SIMPLE
+1000846|Autres caractéristiques|antidéflagrant||||SIMPLE
+1000846|Puissance||50|400|W|MIN_MAX
+1000847|Type|de choc||||SIMPLE
+1000847|Technologie|mécanique||||SIMPLE
+1000847|Applications|pour machine||||SIMPLE
+1000847|Force||3|37|N|MIN_MAX
+1000847|Course||0|76|mm|MIN_MAX
+1000848|Type|de choc||||SIMPLE
+1000848|Technologie|mécanique||||SIMPLE
+1000848|Autres caractéristiques|réglable||||SIMPLE
+1000848|Force|3,000,|||N|LIST
+1000849|Type|de choc||||SIMPLE
+1000849|Technologie|mécanique||||SIMPLE
+1000849|Force|4,000,|||N|LIST
+1000850|Type|de choc||||SIMPLE
+1000850|Technologie|mécanique||||SIMPLE
+1000850|Force||0.9|3,000|N|MIN_MAX
+1000851|Fonction|de sécurité type 2||||SIMPLE
+1000851|Type de faisceaux|multifaisceau||||SIMPLE
+1000851|Niveau de protection|IP65,IP67,||||LIST
+1000851|Autres caractéristiques|protection du corps,protection des mains,protection des doigts,||||LIST
+1000851|Portée||0|4|m|MIN_MAX
+1000852|Fonction|de sécurité type 4,de sécurité type 2,||||LIST
+1000852|Type de faisceaux|multifaisceau||||SIMPLE
+1000852|Niveau de protection|IP69K||||SIMPLE
+1000852|Portée||0|7|m|MIN_MAX
+1000853|Fonction|de sécurité type 4||||SIMPLE
+1000853|Type de faisceaux|multifaisceau||||SIMPLE
+1000853|Autres caractéristiques|protection des mains||||SIMPLE
+1000853|Portée||0|6|m|MIN_MAX
+1000854|Fonction|de sécurité||||SIMPLE
+1000854|Type de faisceaux|multifaisceau||||SIMPLE
+1000854|Construction|type barrage||||SIMPLE
+1000854|Portée||0|4|m|MIN_MAX
+1000855|Application|d'incendie||||SIMPLE
+1000855|Élément détecté|de fumée||||SIMPLE
+1000856|Application|d'incendie||||SIMPLE
+1000856|Élément détecté|de fumée||||SIMPLE
+1000857|Fluide|pour eau douce,pour eau de mer,||||LIST
+1000857|Actionnement|électrique||||SIMPLE
+1000857|Amorçage|auto-amorçante||||SIMPLE
+1000857|Technologie|centrifuge||||SIMPLE
+1000857|Autres caractéristiques|verticale,pour fluide agressif,anti-incendie,||||LIST
+1000857|Débit|3,800,|||m³/h|SIMPLE
+1000858|Fluide|pour eau douce,pour eau de mer,||||LIST
+1000858|Actionnement|électrique||||SIMPLE
+1000858|Amorçage|auto-amorçante||||SIMPLE
+1000858|Technologie|centrifuge||||SIMPLE
+1000858|Autres caractéristiques|mono-étagée,normalisée,pour fluide agressif,anti-incendie,montage horizontal,||||LIST
+1000858|Débit||10|1,800|m³/h|MIN_MAX
+1000859|Fluide|pour eaux de refroidissement||||SIMPLE
+1000859|Actionnement|électrique||||SIMPLE
+1000859|Amorçage|auto-amorçante||||SIMPLE
+1000859|Technologie|centrifuge||||SIMPLE
+1000859|Autres caractéristiques|compacte,normalisée,modulaire,verticale,de circulation,anti-incendie,||||LIST
+1000859|Débit||10|300|m³/h|MIN_MAX
+1000863|Type|de filtration d'air||||SIMPLE
+1000863|Applications|de surface||||SIMPLE
+1000863|Matériau|en PTFE||||SIMPLE
+1000863|Autres caractéristiques|à haut rendement||||SIMPLE
+1000868|Configuration|murale||||SIMPLE
+1000868|Autres caractéristiques|free cooling||||SIMPLE
+1000868|Puissance de refroidissement||6|15|W|MIN_MAX

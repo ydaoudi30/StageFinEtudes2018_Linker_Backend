@@ -1,0 +1,520 @@
+product_id|label|value|value_min|value_max|unit|type
+1000873|Matière|d'air||||SIMPLE
+1000874|Spécifications|en aluminium||||SIMPLE
+1000875|Spécifications|en aluminium||||SIMPLE
+1000561|Technologie|à palettes||||SIMPLE
+1000561|Autres caractéristiques|à cylindrée fixe||||SIMPLE
+1000561|Couple||60.5|372|Nm|MIN_MAX
+1000561|Vitesse de rotation|500,2,000,1,000,3,600,3,,141.59 rad.min-1),||||LIST
+1000561|Pression||0|230|bar|MIN_MAX
+1000562|Technologie|à piston axial||||SIMPLE
+1000562|Autres caractéristiques|à cylindrée fixe,à axe incliné,||||LIST
+1000562|Couple||7.8|384.1|Nm|MIN_MAX
+1000562|Vitesse de rotation||0|14,000|rpm|MIN_MAX
+1000562|Pression||0|420|bar|MIN_MAX
+1000562|Cylindrée||5|19|cm³|MIN_MAX
+1000563|Type|à clapet||||SIMPLE
+1000563|Actionnement|manuelle||||SIMPLE
+1000563|Fonction|de contrôle||||SIMPLE
+1000563|Media|pour air||||SIMPLE
+1000563|Corps|en laiton,en métal,||||LIST
+1000563|Applications|pour panneau frontal||||SIMPLE
+1000563|Autres caractéristiques|3/2 voies||||SIMPLE
+1000563|Température||-10|60|°C|MIN_MAX
+1000563|Pression||0|8|bar|MIN_MAX
+1000563|DN||2|2.5|mm|MIN_MAX
+1000563|Débit||65|95|l/min|MIN_MAX
+1000564|Type|à clapet||||SIMPLE
+1000564|Fonction|de régulation de pression||||SIMPLE
+1000564|Media|pour air comprimé||||SIMPLE
+1000564|Température||0|60|°C|MIN_MAX
+1000564|Pression||0|9|bar|MIN_MAX
+1000564|DN||4|8|mm|MIN_MAX
+1000564|Débit||67|127|l/min|MIN_MAX
+1000565|Type|à clapet||||SIMPLE
+1000565|Actionnement|manuelle||||SIMPLE
+1000565|Fonction|de contrôle||||SIMPLE
+1000565|Media|pour air||||SIMPLE
+1000565|Corps|en laiton,en métal,||||LIST
+1000565|Applications|pour panneau frontal||||SIMPLE
+1000565|Autres caractéristiques|3/2 voies||||SIMPLE
+1000565|Température||-10|60|°C|MIN_MAX
+1000565|Pression||0|8|bar|MIN_MAX
+1000565|DN||2|2.5|mm|MIN_MAX
+1000565|Débit||65|95|l/min|MIN_MAX
+1000566|Type|à clapet||||SIMPLE
+1000566|Fonction|de régulation de pression||||SIMPLE
+1000566|Media|pour air comprimé||||SIMPLE
+1000566|Température||0|60|°C|MIN_MAX
+1000566|Pression||0|9|bar|MIN_MAX
+1000566|DN||4|8|mm|MIN_MAX
+1000566|Débit||67|127|l/min|MIN_MAX
+1000567|Type|à clapet||||SIMPLE
+1000567|Actionnement|à commande pneumatique||||SIMPLE
+1000567|Fonction|de contrôle de débit||||SIMPLE
+1000567|Media|pour air comprimé,pour gaz neutre,||||LIST
+1000567|Corps|en aluminium||||SIMPLE
+1000567|Autres caractéristiques|2/2 voies||||SIMPLE
+1000567|Température||-10|60|°C|MIN_MAX
+1000567|Pression||2|21|bar|MIN_MAX
+1000567|DN||4|12|mm|MIN_MAX
+1000567|Débit||1,000|42,000|l/min|MIN_MAX
+1000568|Type|à pointeau||||SIMPLE
+1000568|Actionnement|manuelle||||SIMPLE
+1000568|Autres caractéristiques|pour fluide agressif||||SIMPLE
+1000568|Température||-57|371|°C|MIN_MAX
+1000568|Pression||0|6,000|psi|MIN_MAX
+1000568|DN|8,6,|||mm|LIST
+1000568|Débit||0|2,995|m³/h|MIN_MAX
+1000569|Type|à pointeau||||SIMPLE
+1000569|Actionnement|manuelle||||SIMPLE
+1000569|Autres caractéristiques|compacte||||SIMPLE
+1000569|Température||-54|371|°C|MIN_MAX
+1000569|Pression||207|414|bar|MIN_MAX
+1000569|DN|0.25|||in|SIMPLE
+1000570|Type|à pointeau||||SIMPLE
+1000570|Actionnement|manuelle||||SIMPLE
+1000570|Applications|pour environnement dangereux||||SIMPLE
+1000570|Autres caractéristiques|haute température||||SIMPLE
+1000570|Température||-54|649|°C|MIN_MAX
+1000570|Pression||0|413.7|bar|MIN_MAX
+1000570|DN||6|25|mm|MIN_MAX
+1000571|Type|à piston||||SIMPLE
+1000571|Actionnement|à commande électrique||||SIMPLE
+1000571|Media|pour air comprimé||||SIMPLE
+1000571|Corps|en aluminium,en inox,||||LIST
+1000571|Autres caractéristiques|d'échappement rapide,3/2 voies,||||LIST
+1000571|Température||-10|50|°C|MIN_MAX
+1000571|Pression||3.5|10|bar|MIN_MAX
+1000571|DN||0.25|1|in|MIN_MAX
+1000571|Débit|4,300,|||l/min|SIMPLE
+1000572|Type|à piston||||SIMPLE
+1000572|Actionnement|électrique||||SIMPLE
+1000572|Fonction|de contrôle||||SIMPLE
+1000572|Media|pour l'eau||||SIMPLE
+1000572|Corps|à siège incliné,en inox,en aluminium,||||LIST
+1000572|Applications|pour applications industrielles||||SIMPLE
+1000572|Autres caractéristiques|compacte,haute température,||||LIST
+1000572|DN||10|65|mm|MIN_MAX
+1000573|Type|coulissante||||SIMPLE
+1000573|Actionnement|manuelle||||SIMPLE
+1000573|Fonction|d'arrêt||||SIMPLE
+1000573|Media|pour air comprimé||||SIMPLE
+1000573|Corps|en aluminium||||SIMPLE
+1000573|Autres caractéristiques|standard,3/2 voies,||||LIST
+1000573|Température||-10|80|°C|MIN_MAX
+1000573|Pression||0|12|bar|MIN_MAX
+1000573|DN||0.125|0.75|in|MIN_MAX
+1000573|Débit||236|7,691|l/min|MIN_MAX
+1000574|Type|coulissante||||SIMPLE
+1000574|Actionnement|manuelle||||SIMPLE
+1000574|Fonction|d'arrêt||||SIMPLE
+1000574|Media|pour air comprimé||||SIMPLE
+1000574|Corps|en laiton||||SIMPLE
+1000574|Autres caractéristiques|3/2 voies||||SIMPLE
+1000574|Température||-10|60|°C|MIN_MAX
+1000574|Pression||0|10|bar|MIN_MAX
+1000574|DN||2.5|18|mm|MIN_MAX
+1000574|Débit||120|6,800|l/min|MIN_MAX
+1000575|Type|coulissante||||SIMPLE
+1000575|Actionnement|manuelle||||SIMPLE
+1000575|Fonction|d'arrêt||||SIMPLE
+1000575|Media|pour air comprimé,pour gaz neutre,||||LIST
+1000575|Corps|en aluminium||||SIMPLE
+1000575|Autres caractéristiques|3/2 voies||||SIMPLE
+1000575|Température||-10|60|°C|MIN_MAX
+1000575|Pression||0|21|bar|MIN_MAX
+1000575|DN||4|12|mm|MIN_MAX
+1000575|Débit||1,200|32,000|l/min|MIN_MAX
+1000576|Type|coulissante||||SIMPLE
+1000576|Actionnement|manuelle||||SIMPLE
+1000576|Fonction|d'arrêt||||SIMPLE
+1000576|Media|pour air comprimé||||SIMPLE
+1000576|Corps|en aluminium||||SIMPLE
+1000576|Autres caractéristiques|standard,3/2 voies,||||LIST
+1000576|Température||-10|80|°C|MIN_MAX
+1000576|Pression||0|12|bar|MIN_MAX
+1000576|DN||0.125|0.75|in|MIN_MAX
+1000576|Débit||236|7,691|l/min|MIN_MAX
+1000577|Type|à boisseau sphérique||||SIMPLE
+1000577|Actionnement|manuelle||||SIMPLE
+1000577|Fonction|d'arrêt||||SIMPLE
+1000577|Media|pour air comprimé||||SIMPLE
+1000577|Autres caractéristiques|3/2 voies||||SIMPLE
+1000577|Température||0|60|°C|MIN_MAX
+1000577|Pression||0|10|bar|MIN_MAX
+1000577|DN||5|7|mm|MIN_MAX
+1000577|Débit||278|840|l/min|MIN_MAX
+1000578|Type|coulissante||||SIMPLE
+1000578|Actionnement|manuelle||||SIMPLE
+1000578|Fonction|d'arrêt||||SIMPLE
+1000578|Media|pour air comprimé||||SIMPLE
+1000578|Corps|en laiton||||SIMPLE
+1000578|Autres caractéristiques|3/2 voies||||SIMPLE
+1000578|Température||-10|60|°C|MIN_MAX
+1000578|Pression||0|10|bar|MIN_MAX
+1000578|DN||2.5|18|mm|MIN_MAX
+1000578|Débit||120|6,800|l/min|MIN_MAX
+1000579|Type|à clapet||||SIMPLE
+1000579|Fonction|de régulation de pression||||SIMPLE
+1000579|Media|pour air comprimé||||SIMPLE
+1000579|Température||0|60|°C|MIN_MAX
+1000579|Pression||0|9|bar|MIN_MAX
+1000579|DN||4|8|mm|MIN_MAX
+1000579|Débit||67|127|l/min|MIN_MAX
+1000580|Fonction|de régulation de pression||||SIMPLE
+1000580|Media|pour air comprimé||||SIMPLE
+1000580|Corps|en laiton||||SIMPLE
+1000580|Température||0|60|°C|MIN_MAX
+1000580|Pression||2|6|bar|MIN_MAX
+1000580|DN||4|12|mm|MIN_MAX
+1000580|Débit||30|760|l/min|MIN_MAX
+1000581|Fonction|de contrôle de débit,de régulation de débit,||||LIST
+1000581|Media|pour air||||SIMPLE
+1000581|Température||-10|70|°C|MIN_MAX
+1000581|Pression||0|10|bar|MIN_MAX
+1000581|DN||0.125|0.75|in|MIN_MAX
+1000581|Débit||0|8,000|l/min|MIN_MAX
+1000582|Actionnement|à levier||||SIMPLE
+1000582|Fonction|de contrôle||||SIMPLE
+1000582|Media|pour air||||SIMPLE
+1000582|Corps|en aluminium||||SIMPLE
+1000582|Autres caractéristiques|3/2 voies||||SIMPLE
+1000582|Température||-10|60|°C|MIN_MAX
+1000582|Pression||0|10|bar|MIN_MAX
+1000582|DN|4|||mm|SIMPLE
+1000582|Débit|||||SIMPLE
+1000583|Type|à clapet||||SIMPLE
+1000583|Actionnement|manuelle||||SIMPLE
+1000583|Fonction|de contrôle||||SIMPLE
+1000583|Media|pour air||||SIMPLE
+1000583|Corps|en laiton,en métal,||||LIST
+1000583|Applications|pour panneau frontal||||SIMPLE
+1000583|Autres caractéristiques|3/2 voies||||SIMPLE
+1000583|Température||-10|60|°C|MIN_MAX
+1000583|Pression||0|8|bar|MIN_MAX
+1000583|DN||2|2.5|mm|MIN_MAX
+1000583|Débit||65|95|l/min|MIN_MAX
+1000584|Type|à boisseau conique||||SIMPLE
+1000584|Actionnement|à commande pneumatique||||SIMPLE
+1000584|Fonction|de contrôle de débit||||SIMPLE
+1000584|Media|pour air comprimé||||SIMPLE
+1000584|Autres caractéristiques|anticorrosion||||SIMPLE
+1000584|Température||0|150|°C|MIN_MAX
+1000584|Pression||0.2|10|bar|MIN_MAX
+1000584|DN||4|10|mm|MIN_MAX
+1000584|Débit||0|530|l/min|MIN_MAX
+1000585|Type|à piston||||SIMPLE
+1000585|Actionnement|électrique||||SIMPLE
+1000585|Fonction|de contrôle||||SIMPLE
+1000585|Media|pour l'eau||||SIMPLE
+1000585|Corps|à siège incliné,en inox,en aluminium,||||LIST
+1000585|Applications|pour applications industrielles||||SIMPLE
+1000585|Autres caractéristiques|compacte,haute température,||||LIST
+1000585|DN||10|65|mm|MIN_MAX
+1000586|Type|à boisseau sphérique||||SIMPLE
+1000586|Actionnement|à levier||||SIMPLE
+1000586|Fonction|de contrôle||||SIMPLE
+1000586|Température||-57|232|°C|MIN_MAX
+1000586|Pression||0|207|bar|MIN_MAX
+1000586|DN||0.086|0.281|in|MIN_MAX
+1000586|Débit||1|1,504|m³/h|MIN_MAX
+1000587|Type|à pointeau||||SIMPLE
+1000587|Actionnement|manuelle||||SIMPLE
+1000587|Fonction|de réglage||||SIMPLE
+1000587|Température||-46|204|°C|MIN_MAX
+1000587|Pression||0|138|bar|MIN_MAX
+1000587|DN|6,3,|||mm|LIST
+1000587|Débit||0|1|us|MIN_MAX
+1000588|Actionnement|électropneumatique||||SIMPLE
+1000588|Fonction|de contrôle||||SIMPLE
+1000588|Pression||3|8|bar|MIN_MAX
+1000589|Applications|pneumatique||||SIMPLE
+1000589|Autres caractéristiques|à commande assistée||||SIMPLE
+1000589|Température||-10|60|°C|MIN_MAX
+1000589|Pression||0.2|10|bar|MIN_MAX
+1000589|DN||0.125|0.25|in|MIN_MAX
+1000590|Corps|à visser||||SIMPLE
+1000590|Applications|d'arrêt||||SIMPLE
+1000590|Autres caractéristiques|piloté||||SIMPLE
+1000590|Température||-10|60|°C|MIN_MAX
+1000590|Pression||0.4|12|bar|MIN_MAX
+1000590|DN||0.125|0.75|in|MIN_MAX
+1000591|Type|à soupape||||SIMPLE
+1000591|Applications|de contrôle de débit||||SIMPLE
+1000591|Matière|en acier inoxydable||||SIMPLE
+1000591|Température||-54|204|°C|MIN_MAX
+1000591|Pression||0|6.9|bar|MIN_MAX
+1000591|DN||0.005|1|in|MIN_MAX
+1000592|Type|à bille,à soupape,||||LIST
+1000592|Applications|pour gaz||||SIMPLE
+1000592|Pression|1,000,|||psi|SIMPLE
+1000592|DN|0.625,0.5,0.75,0.375,|||in|LIST
+1000593|Type|à soupape||||SIMPLE
+1000593|Matière|en acier inoxydable||||SIMPLE
+1000593|Température||-57|204|°C|MIN_MAX
+1000593|Pression||0|414|bar|MIN_MAX
+1000593|DN||4|10.3|mm|MIN_MAX
+1000594|Nombre de voies|multivoie||||SIMPLE
+1000594|Matériau|en acier inoxydable||||SIMPLE
+1000594|Pression de service||0|Max: 41,368,544 Pa|Pa|MIN_MAX
+1000594|Diamètre des voies|0.5,0.25,|||in|LIST
+1000595|Nombre de voies|multivoie||||SIMPLE
+1000595|Matériau|d'acier||||SIMPLE
+1000595|Autres caractéristiques|pour huile||||SIMPLE
+1000595|Pression de service||0|160|psi|MIN_MAX
+1000351|Montage|à encastrer||||SIMPLE
+1000352|Montage|murale||||SIMPLE
+1000352|Matériau|d'acier||||SIMPLE
+1000353|Montage|en saillie||||SIMPLE
+1000353|Niveau de protection|IP66||||SIMPLE
+1000353|Matériau|en acier inoxydable||||SIMPLE
+1000353|Autres caractéristiques|de bus de terrain||||SIMPLE
+1000354|Autres caractéristiques|en métal||||SIMPLE
+1000355|Type|de distribution électrique||||SIMPLE
+1000355|Montage|sur pied||||SIMPLE
+1000355|Construction|à portes battantes||||SIMPLE
+1000355|Largeur|910|||mm|SIMPLE
+1000355|Hauteur|250|||mm|SIMPLE
+1000355|Profondeur|710|||mm|SIMPLE
+1000356|Type|électrique||||SIMPLE
+1000356|Montage|à montage mural||||SIMPLE
+1000356|Construction|à portes battantes||||SIMPLE
+1000356|Matériau|en métal||||SIMPLE
+1000356|Autres caractéristiques|résistante aux produits chimiques||||SIMPLE
+1000356|Largeur|850,600,|||mm|LIST
+1000356|Hauteur|850,1,150,550,|||mm|LIST
+1000356|Profondeur|300|||mm|SIMPLE
+1000357|Configuration|mural||||SIMPLE
+1000357|Forme|rectangulaire||||SIMPLE
+1000357|Matériau|en aluminium,GRP,||||LIST
+1000357|Autres caractéristiques|de commande,avec couvercle vissé,||||LIST
+1000357|Applications|d'extérieur,industriel,pour disjoncteur,||||LIST
+1000357|Niveau de protection|antidéflagrant,IP66,IP67,pour zones dangereuses,||||LIST
+1000357|Largeur|157|||mm|SIMPLE
+1000357|Hauteur|278|||mm|SIMPLE
+1000357|Profondeur|228|||mm|SIMPLE
+1000358|Configuration|portatif||||SIMPLE
+1000358|Forme|rectangulaire||||SIMPLE
+1000358|Matériau|en aluminium||||SIMPLE
+1000358|Autres caractéristiques|de commande||||SIMPLE
+1000358|Applications|d'extérieur,pour l'instrumentation,pour zones dangereuses,||||LIST
+1000358|Niveau de protection|antidéflagrant,IP65,IP66,IP67,||||LIST
+1000358|Largeur|832|||mm|SIMPLE
+1000358|Hauteur|607|||mm|SIMPLE
+1000358|Profondeur|400|||mm|SIMPLE
+1000359|Configuration|compact||||SIMPLE
+1000359|Forme|modulaire||||SIMPLE
+1000359|Matériau|en aluminium||||SIMPLE
+1000359|Autres caractéristiques|de commande||||SIMPLE
+1000359|Applications|pour l'électronique,d'extérieur,de comptage électrique,pour zones dangereuses,||||LIST
+1000359|Niveau de protection|IP66,antidéflagrant,||||LIST
+1000359|Largeur|295|||mm|SIMPLE
+1000359|Hauteur|330|||mm|SIMPLE
+1000359|Profondeur|248|||mm|SIMPLE
+1000360|Configuration|mural||||SIMPLE
+1000360|Forme|rectangulaire||||SIMPLE
+1000360|Matériau|en acier inoxydable||||SIMPLE
+1000360|Autres caractéristiques|avec couvercle à charnière||||SIMPLE
+1000360|Niveau de protection|antidéflagrant||||SIMPLE
+1000361|Configuration|murale||||SIMPLE
+1000361|Forme|rectangulaire||||SIMPLE
+1000361|Matériau|en plastique||||SIMPLE
+1000361|Largeur|220|||mm|SIMPLE
+1000361|Hauteur|130|||mm|SIMPLE
+1000362|Configuration|rackable||||SIMPLE
+1000362|Matériau|d'aluminium||||SIMPLE
+1000362|Applications|de refroidissement,de surveillance,pour distribution électrique,||||LIST
+1000362|Largeur|750,600,|||mm|LIST
+1000362|Hauteur|1,991,|||mm|LIST
+1000362|Profondeur|1,070,|||mm|SIMPLE
+1000363|Spécifications|en aluminium||||SIMPLE
+1000364|Spécifications|en aluminium||||SIMPLE
+1000366|Type|permanent||||SIMPLE
+1000366|Montage|fileté||||SIMPLE
+1000366|Niveau de protection|ATEX||||SIMPLE
+1000366|Autres caractéristiques|de signalisation||||SIMPLE
+1000367|Type|de mesure,de courant,||||LIST
+1000367|Construction|encapsulé||||SIMPLE
+1000367|Autres caractéristiques|ouvrable,sur rail DIN,||||LIST
+1000367|Courant||0|6,000|A|MIN_MAX
+1000368|Type|de courant,de mesure,||||LIST
+1000368|Construction|encapsulé||||SIMPLE
+1000368|Autres caractéristiques|ouvrable,embrochable,||||LIST
+1000368|Courant||100|750|A|MIN_MAX
+1000368|Puissance électrique|0.005,0.0025,0.0013,|||kVA|LIST
+1000369|Type|de courant,de mesure,||||LIST
+1000369|Construction|encapsulé||||SIMPLE
+1000369|Autres caractéristiques|toroïdal,embrochable,en boîtier plastique,basse tension,||||LIST
+1000369|Courant||50|2,500|A|MIN_MAX
+1000369|Tension primaire||230|400|V|MIN_MAX
+1000369|Tension secondaire|690|||V|SIMPLE
+1000370|Construction|rotatif||||SIMPLE
+1000370|Actionnement|manuel||||SIMPLE
+1000370|Technologie|analogique||||SIMPLE
+1000370|Autres caractéristiques|de contrôle||||SIMPLE
+1000371|Type|de signal||||SIMPLE
+1000371|Spécification électrique|de courant||||SIMPLE
+1000371|Autres caractéristiques|à sécurité intrinsèque,ATEX,||||LIST
+1000372|Type|à clé||||SIMPLE
+1000372|Configuration des contacts|multipolaire||||SIMPLE
+1000372|Courant|100,10,|||mA|LIST
+1000372|Tension|250,35,|||V|LIST
+1000373|Type|à clé||||SIMPLE
+1000373|Configuration des contacts|unipolaire||||SIMPLE
+1000373|Autres caractéristiques|rond,rectangulaire,électromécanique,||||LIST
+1000373|Niveau de protection|IP40||||SIMPLE
+1000373|Courant|100|||mA|SIMPLE
+1000373|Tension||0|35|V|MIN_MAX
+1000374|Type|tactile||||SIMPLE
+1000374|Configuration des contacts|unipolaire||||SIMPLE
+1000374|Autres caractéristiques|pour applications automobiles,à faible course,électromécanique,||||LIST
+1000374|Tension||0|35|V|MIN_MAX
+1000375|Type|pour porte||||SIMPLE
+1000375|Configuration des contacts|multipolaire||||SIMPLE
+1000375|Autres caractéristiques|AS-Interface,de sécurité,||||LIST
+1000376|Type|à commande par câble||||SIMPLE
+1000376|Autres caractéristiques|AS-Interface,d'arrêt d'urgence,||||LIST
+1000376|Niveau de protection|durci,pour environnement sévère,||||LIST
+1000377|Type|à levier||||SIMPLE
+1000377|Configuration des contacts|unipolaire,2,|||pôles|LIST
+1000377|Niveau de protection|IP40||||SIMPLE
+1000377|Courant|2|||A|SIMPLE
+1000377|Tension|24|||V|SIMPLE
+1000378|Type|rotatif,de sélection,||||LIST
+1000378|Configuration des contacts|multipolaire||||SIMPLE
+1000378|Autres caractéristiques|électromécanique||||SIMPLE
+1000378|Tension||6|380|V|MIN_MAX
+1000379|Type|à cames||||SIMPLE
+1000379|Configuration des contacts|multipolaire||||SIMPLE
+1000379|Autres caractéristiques|électromécanique||||SIMPLE
+1000379|Courant|20|||A|SIMPLE
+1000379|Tension|400|||V|SIMPLE
+1000380|Tension de commande|DC,AC,||||LIST
+1000380|Autres caractéristiques|de puissance||||SIMPLE
+1000381|Tension de commande|24,12,6,48,5,9,|||Vcc|LIST
+1000381|Autres caractéristiques|DIL,subminiature,pour circuit imprimé,||||LIST
+1000381|Courant de commutation|2|||A|SIMPLE
+1000382|Tension de commande|24,12,48,5,|||Vcc|LIST
+1000382|Configuration des contacts|1NF,1NO,||||LIST
+1000382|Autres caractéristiques|subminiature,pour circuit imprimé,||||LIST
+1000382|Courant de commutation|6|||A|SIMPLE
+1000383|Autres caractéristiques|d'interface,fin,||||LIST
+1000383|Courant de commutation|6|||A|SIMPLE
+1000384|Autres caractéristiques|sur rail DIN||||SIMPLE
+1000384|Courant de commutation||11|50|A|MIN_MAX
+1000385|Réseau|Ethernet,pour fibre optique,||||LIST
+1000385|Autres caractéristiques|monomode,multimode,SFP,||||LIST
+1000526|Lubrification|sans huile||||SIMPLE
+1000526|Nombre d'étages|mono-étagé||||SIMPLE
+1000526|Applications|pour aluminium||||SIMPLE
+1000527|Technologie|à anneau liquide,centrifuge,||||LIST
+1000527|Lubrification|lubrifiée||||SIMPLE
+1000527|Nombre d'étages|mono-étagée||||SIMPLE
+1000527|Autres caractéristiques|compacte,en acier inoxydable,||||LIST
+1000527|Applications|eau||||SIMPLE
+1000527|Débit||20|85|m³/h|MIN_MAX
+1000528|Lubrification|sans huile||||SIMPLE
+1000528|Nombre d'étages|mono-étagé||||SIMPLE
+1000528|Autres caractéristiques|compact,pneumatique,||||LIST
+1000529|Lubrification|sans huile||||SIMPLE
+1000529|Nombre d'étages|mono-étagé||||SIMPLE
+1000530|Lubrification|sans huile||||SIMPLE
+1000530|Nombre d'étages|mono-étagé||||SIMPLE
+1000530|Applications|pour aluminium||||SIMPLE
+1000531|Fluide|pour boisson||||SIMPLE
+1000531|Actionnement|électrique||||SIMPLE
+1000531|Technologie|à piston plongeur||||SIMPLE
+1000531|Autres caractéristiques|de dosage||||SIMPLE
+1000531|Débit||0|300|l/h|MIN_MAX
+1000532|Technologie|à piston||||SIMPLE
+1000532|Autres caractéristiques|à cylindrée variable||||SIMPLE
+1000532|Pression||0|420|bar|MIN_MAX
+1000533|Technologie|à piston axial||||SIMPLE
+1000533|Autres caractéristiques|à cylindrée variable||||SIMPLE
+1000533|Pression||0|320|bar|MIN_MAX
+1000534|Technologie|à palettes||||SIMPLE
+1000534|Autres caractéristiques|à cylindrée fixe,pour applications industrielles,||||LIST
+1000534|Pression||240|300|bar|MIN_MAX
+1000535|Technologie|centrifuge||||SIMPLE
+1000535|Débit||0|125|m³/h|MIN_MAX
+1000535|Pression||0|10|bar|MIN_MAX
+1000536|Type|sec||||SIMPLE
+1000536|Applications|industriel||||SIMPLE
+1000536|Autres caractéristiques|centralisé||||SIMPLE
+1000537|Type|de gaz||||SIMPLE
+1000537|Mobilité|stationnaire||||SIMPLE
+1000537|Motorisation|à moteur électrique||||SIMPLE
+1000537|Technologie|à piston||||SIMPLE
+1000537|Lubrification|lubrifié||||SIMPLE
+1000537|Autres caractéristique|basse pression||||SIMPLE
+1000537|Applications|industriel||||SIMPLE
+1000538|Type|de gaz||||SIMPLE
+1000538|Mobilité|stationnaire||||SIMPLE
+1000538|Motorisation|à moteur électrique||||SIMPLE
+1000538|Technologie|à piston||||SIMPLE
+1000538|Lubrification|lubrifié||||SIMPLE
+1000538|Autres caractéristique|basse pression||||SIMPLE
+1000538|Applications|industriel||||SIMPLE
+1000539|Type|de gaz||||SIMPLE
+1000539|Mobilité|stationnaire||||SIMPLE
+1000539|Motorisation|à moteur électrique||||SIMPLE
+1000539|Technologie|à piston||||SIMPLE
+1000539|Lubrification|lubrifié||||SIMPLE
+1000539|Autres caractéristique|basse pression||||SIMPLE
+1000539|Applications|industriel||||SIMPLE
+1000540|Fluide|d'air||||SIMPLE
+1000541|Motorisation|avec moteur électrique||||SIMPLE
+1000541|Applications|multiusage||||SIMPLE
+1000541|Autres caractéristiques|stationnaire||||SIMPLE
+1000541|Puissance nominale||3|219|kW|MIN_MAX
+1000542|Motorisation|à moteur électrique||||SIMPLE
+1000542|Autres caractéristiques|mobile||||SIMPLE
+1000542|Pression de travail||0|240|bar|MIN_MAX
+1000542|Débit||0|2.8|l/min|MIN_MAX
+1000543|Mouvement|linéaire||||SIMPLE
+1000543|Type|hydraulique||||SIMPLE
+1000543|Autres caractéristiques|compact||||SIMPLE
+1000543|Course|152,203,102,|||mm|LIST
+1000543|Force||0|21.35|kN|MIN_MAX
+1000543|Vitesse||0|0.08|m/s|MIN_MAX
+1000544|Mouvement|linéaire||||SIMPLE
+1000544|Type|pneumatique||||SIMPLE
+1000544|Technologie|à double effet||||SIMPLE
+1000544|Autres caractéristiques|de précision,de type glissière,avec guidage intégré,en acier inoxydable,à faible course,||||LIST
+1000544|Course||1|10|mm|MIN_MAX
+1000544|Force||12.5|17|N|MIN_MAX
+1000545|Mouvement|linéaire||||SIMPLE
+1000545|Type|pneumatique||||SIMPLE
+1000545|Technologie|à double effet||||SIMPLE
+1000545|Autres caractéristiques|de type glissière,avec guidage intégré,à détection de position,en aluminium,||||LIST
+1000545|Course||10|200|mm|MIN_MAX
+1000545|Force||17|483|N|MIN_MAX
+1000546|Mouvement|linéaire||||SIMPLE
+1000546|Type|pneumatique||||SIMPLE
+1000546|Technologie|à double effet||||SIMPLE
+1000546|Autres caractéristiques|de type glissière,avec guidage intégré,à détection de position,en aluminium,||||LIST
+1000546|Course||10|80|mm|MIN_MAX
+1000546|Force||17|121|N|MIN_MAX
+1000547|Mouvement|linéaire||||SIMPLE
+1000547|Type|pneumatique||||SIMPLE
+1000547|Technologie|à double effet,sans tige,||||LIST
+1000547|Autres caractéristiques|compact,pour fortes charges,standard,à guidage externe,avec guidage extérieur,de guidage,||||LIST
+1000547|Course||0|6,000|mm|MIN_MAX
+1000548|Mouvement|rotatif||||SIMPLE
+1000548|Type|pneumatique||||SIMPLE
+1000548|Technologie|à double effet,à simple effet,à palettes,||||LIST
+1000548|Autres caractéristiques|basse pression,avec amortisseurs hydrauliques,||||LIST
+1000548|Course|0|||mm|SIMPLE
+1000549|Mouvement|rotatif||||SIMPLE
+1000549|Type|pneumatique||||SIMPLE
+1000549|Technologie|à pignon crémaillère||||SIMPLE
+1000549|Force||35|2,500|N|MIN_MAX
+1000549|Couple||1.5|460|Nm|MIN_MAX
+1000550|Type|hydraulique||||SIMPLE
+1000550|Technologie|double effet||||SIMPLE
+1000550|Autres caractéristiques|ISO,à tirants,||||LIST
+1000550|Course||0.9|4.2|m|MIN_MAX
+1000550|Force||10.3|660|kN|MIN_MAX
+1000550|Vitesse||0.1|0.5|m/s|MIN_MAX
+1000550|Couple||10|530|Nm|MIN_MAX

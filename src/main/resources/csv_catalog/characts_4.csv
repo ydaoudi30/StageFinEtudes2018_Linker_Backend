@@ -1,0 +1,362 @@
+product_id|label|value|value_min|value_max|unit|type
+1000121|Type de signal|numérique||||SIMPLE
+1000121|Nombre d'entrées/sorties|multivoies,4,|||canaux|LIST
+1000121|Montage|sur rail DIN||||SIMPLE
+1000122|Type de signal|analogique||||SIMPLE
+1000122|Montage|sur rail DIN||||SIMPLE
+1000123|Type de signal|numérique||||SIMPLE
+1000123|Nombre d'entrées/sorties|16 canaux||||SIMPLE
+1000123|Montage|à montage sur rail DIN||||SIMPLE
+1000124|Type de signal|analogique||||SIMPLE
+1000124|Montage|à montage sur rail DIN||||SIMPLE
+1000125|Type|de données||||SIMPLE
+1000125|Réseau|Bluetooth||||SIMPLE
+1000125|Montage|d'extérieur||||SIMPLE
+1000126|Type|de données||||SIMPLE
+1000126|Réseau|GSM,GPRS,Ethernet,IP,edge,||||LIST
+1000126|Application|industriel||||SIMPLE
+1000126|Montage|sur rail DIN||||SIMPLE
+1000126|Autres caractéristiques|avec VPN||||SIMPLE
+1000127|Réseau|WAN,LAN,internet,3G,||||LIST
+1000127|Autres caractéristiques|haut débit,VPN,||||LIST
+1000128|Type|administrable||||SIMPLE
+1000128|Nombre de ports|8 ports||||SIMPLE
+1000128|Autres caractéristiques|redondant||||SIMPLE
+1000128|Applications|industriel||||SIMPLE
+1000129|Type|non administrable||||SIMPLE
+1000129|Nombre de ports|5,8,|||ports|LIST
+1000130|Interface|à écran tactile||||SIMPLE
+1000130|Montage|encastrable||||SIMPLE
+1000130|Processeur|VIA||||SIMPLE
+1000130|Applications|de contrôle,machine,||||LIST
+1000130|Taille d'écran|21.5|||in|SIMPLE
+1000131|Spécifications|électronique||||SIMPLE
+1000133|Spécifications|AS-i||||SIMPLE
+1000134|Spécifications|pour applications mobiles,compact,||||LIST
+1000135|Spécifications|numérique pour contrôleur de mouvement||||SIMPLE
+1000135|Autres caractéristiques|durci,analogique,CAN Bus,||||LIST
+1000136|Bus|AS-Interface,Modbus RTU,||||LIST
+1000137|Type|électronique||||SIMPLE
+1000137|Applications|de bus de terrain,d'E/S,||||LIST
+1000138|Bus|PROFIBUS DP||||SIMPLE
+1000139|Autres caractéristiques|4 x PCI||||SIMPLE
+1000140|Autres caractéristiques|4 x PCI||||SIMPLE
+1000176|Spécifications|numérique pour contrôleur de mouvement||||SIMPLE
+1000176|Autres caractéristiques|durci,analogique,CAN Bus,||||LIST
+1000177|Bus|AS-Interface,Modbus RTU,||||LIST
+1000178|Type|électronique||||SIMPLE
+1000178|Applications|de bus de terrain,d'E/S,||||LIST
+1000179|Bus|PROFIBUS DP||||SIMPLE
+1000180|Autres caractéristiques|4 x PCI||||SIMPLE
+1000181|Autres caractéristiques|4 x PCI||||SIMPLE
+1000182|Autres caractéristiques|4 x PCI||||SIMPLE
+1000183|Spécifications|de connexion||||SIMPLE
+1000184|Type|numérique / analogique||||SIMPLE
+1000185|Fonction|de mesure,d'inspection,de lecture d'étiquettes à codes-barres,||||LIST
+1000185|Applications|d'alignement||||SIMPLE
+1000185|Type|3D,2D,||||LIST
+1000186|Fonction|d'interface||||SIMPLE
+1000186|Applications|d'automate programmable||||SIMPLE
+1000187|Fonction|de supervision||||SIMPLE
+1000187|Systeme d'exploitation|Windows||||SIMPLE
+1000188|Fonction|de supervision||||SIMPLE
+1000188|Systeme d'exploitation|Windows||||SIMPLE
+1000189|Autres caractéristiques|pour zone dangereuse,de basse fréquence,||||LIST
+1000189|Domaine|industriel||||SIMPLE
+1000190|Type|de mesure,de courant,||||LIST
+1000190|Construction|encapsulé||||SIMPLE
+1000190|Autres caractéristiques|ouvrable,sur rail DIN,||||LIST
+1000190|Courant||0|6,000|A|MIN_MAX
+1000191|Type|de courant,de mesure,||||LIST
+1000191|Construction|encapsulé||||SIMPLE
+1000191|Autres caractéristiques|ouvrable,embrochable,||||LIST
+1000191|Courant||100|750|A|MIN_MAX
+1000191|Puissance électrique|0.005,0.0025,0.0013,|||kVA|LIST
+1000192|Type|de courant,de mesure,||||LIST
+1000192|Construction|encapsulé||||SIMPLE
+1000192|Autres caractéristiques|toroïdal,embrochable,en boîtier plastique,basse tension,||||LIST
+1000192|Courant||50|2,500|A|MIN_MAX
+1000192|Tension primaire||230|400|V|MIN_MAX
+1000192|Tension secondaire|690|||V|SIMPLE
+1000193|Type|de mesure,de courant,||||LIST
+1000193|Construction|encapsulé||||SIMPLE
+1000193|Autres caractéristiques|ouvrable,sur rail DIN,||||LIST
+1000193|Courant||0|6,000|A|MIN_MAX
+1000194|Type|de courant,de mesure,||||LIST
+1000194|Construction|encapsulé||||SIMPLE
+1000194|Autres caractéristiques|ouvrable,embrochable,||||LIST
+1000194|Courant||100|750|A|MIN_MAX
+1000194|Puissance électrique|0.005,0.0025,0.0013,|||kVA|LIST
+1000195|Type|de courant,de mesure,||||LIST
+1000195|Construction|encapsulé||||SIMPLE
+1000195|Autres caractéristiques|toroïdal,embrochable,en boîtier plastique,basse tension,||||LIST
+1000195|Courant||50|2,500|A|MIN_MAX
+1000195|Tension primaire||230|400|V|MIN_MAX
+1000195|Tension secondaire|690|||V|SIMPLE
+1000198|Spécification électrique|triphasé||||SIMPLE
+1000198|Construction|isolé à l'air||||SIMPLE
+1000198|Applications|pour distribution électrique||||SIMPLE
+1000198|Courant||83|833|A|MIN_MAX
+1000198|VAC||120|208|V|MIN_MAX
+1000199|Type|avec actionneur à ressort||||SIMPLE
+1000199|Courant||1|30|A|MIN_MAX
+1000199|VDC|28|||V|SIMPLE
+1000199|VAC|115|||V|SIMPLE
+1000200|Type|numérique||||SIMPLE
+1000200|Spécification électrique|contre les courts-circuits||||SIMPLE
+1000200|Mode de fonctionnement|modulaire||||SIMPLE
+1000200|Autres caractéristiques|miniature||||SIMPLE
+1000200|Applications|pour l'électronique||||SIMPLE
+1000200|Courant||1|8|A|MIN_MAX
+1000200|VDC|24|||V|SIMPLE
+1000201|Type|magnéto-thermique||||SIMPLE
+1000201|Mode de fonctionnement|modulaire||||SIMPLE
+1000201|Courant||0|1,600|A|MIN_MAX
+1000202|Mode de fonctionnement|modulaire||||SIMPLE
+1000202|Courant||2|10|A|MIN_MAX
+1000202|VDC|24|||V|SIMPLE
+1000203|Forme|compact||||SIMPLE
+1000203|Autres caractéristiques|DC||||SIMPLE
+1000203|Ampères||1.6|8|A|MIN_MAX
+1000203|VDC|24|||V|SIMPLE
+1000204|Type|AC/DC||||SIMPLE
+1000204|Autres caractéristiques|pour AS-Interface,compacte,sur rail DIN,à découpage,||||LIST
+1000204|Puissance|85,256,244,122,|||W|LIST
+1000204|Tension d'entrée||85|480|V|MIN_MAX
+1000204|Tension de sortie|||||SIMPLE
+1000204|Courant|4,950,1.9,8,2.8,|||A|LIST
+1000205|Type|AC/DC||||SIMPLE
+1000205|Sortie|régulée||||SIMPLE
+1000205|Autres caractéristiques|à découpage||||SIMPLE
+1000205|Puissance|960|||W|SIMPLE
+1000205|Tension d'entrée||380|480|V|MIN_MAX
+1000205|Tension de sortie||24|28|V|MIN_MAX
+1000205|Courant|34.3,40,|||A|LIST
+1000206|Type|AC/DC||||SIMPLE
+1000206|Autres caractéristiques|sur rail DIN,à découpage,||||LIST
+1000206|Puissance|240|||W|SIMPLE
+1000206|Tension d'entrée||100|240|V|MIN_MAX
+1000206|Tension de sortie||24|28|V|MIN_MAX
+1000206|Courant|8.6,10,|||A|LIST
+1000207|Type|AC/DC||||SIMPLE
+1000207|Autres caractéristiques|sur rail DIN,à découpage,CE,||||LIST
+1000207|Tension d'entrée|264,85,|||V|LIST
+1000207|Tension de sortie|24|||V|SIMPLE
+1000207|Courant|5|||A|SIMPLE
+1000208|Type|AC/DC||||SIMPLE
+1000208|Autres caractéristiques|sur rail DIN,à découpage,CE,||||LIST
+1000208|Tension d'entrée|85,264,|||V|LIST
+1000208|Tension de sortie|24|||V|SIMPLE
+1000208|Courant|10|||A|SIMPLE
+1000209|Type|AC/DC||||SIMPLE
+1000209|Sortie|à sortie simple||||SIMPLE
+1000209|Autres caractéristiques|sur rail DIN,monophasée,à découpage,CE,||||LIST
+1000209|Tension d'entrée|264,93,|||V|LIST
+1000209|Tension de sortie|24|||V|SIMPLE
+1000210|Type|AC/DC||||SIMPLE
+1000210|Autres caractéristiques|rackable,numérique,||||LIST
+1000666|Fluide|à air comprimé||||SIMPLE
+1000666|Élément filtrant|à panier||||SIMPLE
+1000666|Autre caractéristique|modulaire,automatique,||||LIST
+1000666|Taille de filtration|5,40,|||µm|LIST
+1000666|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000666|Débit||1,000|16,000|l/min|MIN_MAX
+1000667|Fluide|à air comprimé||||SIMPLE
+1000667|Élément filtrant|à panier||||SIMPLE
+1000667|Autre caractéristique|automatique,filtration fine,||||LIST
+1000667|Taille de filtration||0.01|1|µm|MIN_MAX
+1000667|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000667|Débit||54|23,000|l/min|MIN_MAX
+1000668|Fluide|à air comprimé||||SIMPLE
+1000668|Élément filtrant|au charbon actif||||SIMPLE
+1000668|Taille de filtration|0.01|||µm|SIMPLE
+1000668|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000668|Débit||250|7,090|l/min|MIN_MAX
+1000669|Fluide|à air,à eau,||||LIST
+1000669|Élément filtrant|à cartouche||||SIMPLE
+1000669|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000669|Taille de filtration||1|450|µm|MIN_MAX
+1000669|Pression de fonctionnement|79,69,134,155,,145.798,|||psi)|LIST
+1000670|Fluide|à air||||SIMPLE
+1000670|Autre caractéristique|écologique,à particules,||||LIST
+1000670|Pression de fonctionnement|||||SIMPLE
+1000670|Débit||0|2,000|l/min|MIN_MAX
+1000671|Fluide|à air||||SIMPLE
+1000671|Autre caractéristique|à grande capacité,à visser,à particules,||||LIST
+1000671|Taille de filtration|5,3,|||µm|LIST
+1000671|Pression de fonctionnement|0.7,0.35,|||bar|LIST
+1000671|Débit|3,000,|||l/min|SIMPLE
+1000672|Fluide|à air||||SIMPLE
+1000672|Élément filtrant|en panneaux||||SIMPLE
+1000672|Autre caractéristique|de process,HEPA,||||LIST
+1000672|Pression de fonctionnement|||||SIMPLE
+1000672|Débit||151|1,356|m³/h|MIN_MAX
+1000673|Fluide|à air||||SIMPLE
+1000673|Élément filtrant|à cartouche,à sac,||||LIST
+1000673|Autre caractéristique|d'évent||||SIMPLE
+1000673|Pression de fonctionnement|||||SIMPLE
+1000673|Débit|2,000,|||m³/h|SIMPLE
+1000674|Fluide|à air comprimé||||SIMPLE
+1000674|Élément filtrant|à panier||||SIMPLE
+1000674|Autre caractéristique|en T,haute performance,||||LIST
+1000674|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000675|Fluide|à air comprimé||||SIMPLE
+1000675|Élément filtrant|à panier||||SIMPLE
+1000675|Autre caractéristique|haute performance||||SIMPLE
+1000675|Taille de filtration||0.1|5|µm|MIN_MAX
+1000675|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000675|Débit||36|2,232|m³/h|MIN_MAX
+1000676|Fluide|à air comprimé||||SIMPLE
+1000676|Élément filtrant|à panier||||SIMPLE
+1000676|Autre caractéristique|à particules||||SIMPLE
+1000676|Taille de filtration||0.01|40|µm|MIN_MAX
+1000676|Pression de fonctionnement||0|16|bar|MIN_MAX
+1000676|Débit||0.53|450|m³/min|MIN_MAX
+1000677|Fluide|à air comprimé||||SIMPLE
+1000677|Élément filtrant|à panier||||SIMPLE
+1000677|Autre caractéristique|modulaire,automatique,||||LIST
+1000677|Taille de filtration|5,40,|||µm|LIST
+1000677|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000677|Débit||1,000|16,000|l/min|MIN_MAX
+1000678|Fluide|à air comprimé||||SIMPLE
+1000678|Élément filtrant|à panier||||SIMPLE
+1000678|Autre caractéristique|automatique,filtration fine,||||LIST
+1000678|Taille de filtration||0.01|1|µm|MIN_MAX
+1000678|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000678|Débit||54|23,000|l/min|MIN_MAX
+1000679|Fluide|à air comprimé||||SIMPLE
+1000679|Élément filtrant|au charbon actif||||SIMPLE
+1000679|Taille de filtration|0.01|||µm|SIMPLE
+1000679|Pression de fonctionnement||0|20|bar|MIN_MAX
+1000679|Débit||250|7,090|l/min|MIN_MAX
+1000680|Fluide|hydraulique,à carburant,||||LIST
+1000680|Élément filtrant|à cartouche||||SIMPLE
+1000680|Autre caractéristique|en ligne,moyenne pression,en fonte,à montage à bride,||||LIST
+1000680|Pression de fonctionnement||0|40|bar|MIN_MAX
+1000680|Débit||0|350|l/min|MIN_MAX
+1000681|Fluide|à air,à eau,||||LIST
+1000681|Élément filtrant|à cartouche||||SIMPLE
+1000681|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000681|Taille de filtration||1|450|µm|MIN_MAX
+1000681|Pression de fonctionnement|79,69,134,155,,145.798,|||psi)|LIST
+1000682|Fluide|hydraulique||||SIMPLE
+1000682|Élément filtrant|à cartouche||||SIMPLE
+1000682|Autre caractéristique|écologique,haute pression,||||LIST
+1000682|Taille de filtration|10,5,2,20,|||µm|LIST
+1000682|Pression de fonctionnement||0|450|bar|MIN_MAX
+1000682|Débit||0|700|l/min|MIN_MAX
+1000683|Fluide|hydraulique||||SIMPLE
+1000683|Élément filtrant|à cartouche||||SIMPLE
+1000683|Autre caractéristique|d'échappement,à gasoil,||||LIST
+1000683|Taille de filtration|1|||µm|SIMPLE
+1000683|Pression de fonctionnement|||||SIMPLE
+1000683|Débit|||||SIMPLE
+1000684|Fluide|hydraulique||||SIMPLE
+1000684|Élément filtrant|à cartouche||||SIMPLE
+1000684|Autre caractéristique|d'échappement,à gasoil,||||LIST
+1000684|Taille de filtration|1|||µm|SIMPLE
+1000684|Pression de fonctionnement|||||SIMPLE
+1000684|Débit|||||SIMPLE
+1000685|Fluide|hydraulique||||SIMPLE
+1000685|Élément filtrant|à cartouche||||SIMPLE
+1000685|Autre caractéristique|écologique,haute pression,||||LIST
+1000685|Taille de filtration|10,5,2,20,|||µm|LIST
+1000685|Pression de fonctionnement||0|450|bar|MIN_MAX
+1000685|Débit||0|700|l/min|MIN_MAX
+1000686|Fluide|hydraulique||||SIMPLE
+1000686|Élément filtrant|à cartouche||||SIMPLE
+1000686|Autre caractéristique|semi-immergé,basse pression,retour,magnétique,bypass,||||LIST
+1000686|Taille de filtration|5,2,10,20,|||µm|LIST
+1000686|Pression de fonctionnement||0|10|bar|MIN_MAX
+1000686|Débit||0|500|l/min|MIN_MAX
+1000687|Fluide|hydraulique||||SIMPLE
+1000687|Élément filtrant|à cartouche||||SIMPLE
+1000687|Autre caractéristique|compact,moyenne pression,||||LIST
+1000687|Taille de filtration|10,20,5,2,|||µm|LIST
+1000687|Pression de fonctionnement||0|70|bar|MIN_MAX
+1000687|Débit||0|0.01|m³/s|MIN_MAX
+1000688|Fluide|à liquide,à gaz,||||LIST
+1000688|Élément filtrant|à cartouche||||SIMPLE
+1000688|Autre caractéristique|pour applications biopharmaceutiques||||SIMPLE
+1000688|Taille de filtration||0.1|100|µm|MIN_MAX
+1000689|Fluide|à gaz||||SIMPLE
+1000689|Élément filtrant|à cartouche||||SIMPLE
+1000689|Autre caractéristique|haute performance,stérile,||||LIST
+1000689|Pression de fonctionnement|||||SIMPLE
+1000689|Débit||0.6|49.5|l/min|MIN_MAX
+1000690|Fluide|à air,à gaz,||||LIST
+1000690|Élément filtrant|à poche||||SIMPLE
+1000690|Autre caractéristique|à particules||||SIMPLE
+1000690|Débit||800|3,400|m³/h|MIN_MAX
+1000691|Fluide|pour vapeur||||SIMPLE
+1000691|Élément filtrant|à cartouche||||SIMPLE
+1000691|Autre caractéristique|plissé||||SIMPLE
+1000692|Fluide|à air,à eau,||||LIST
+1000692|Élément filtrant|à cartouche||||SIMPLE
+1000692|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000692|Taille de filtration||1|450|µm|MIN_MAX
+1000692|Pression de fonctionnement|79,69,134,155,,145.798,|||psi)|LIST
+1000693|Fluide|hydraulique||||SIMPLE
+1000693|Élément filtrant|à cartouche||||SIMPLE
+1000693|Autre caractéristique|écologique,haute pression,||||LIST
+1000693|Taille de filtration|10,5,2,20,|||µm|LIST
+1000693|Pression de fonctionnement||0|450|bar|MIN_MAX
+1000693|Débit||0|700|l/min|MIN_MAX
+1000694|Fluide|hydraulique||||SIMPLE
+1000694|Élément filtrant|à cartouche||||SIMPLE
+1000694|Autre caractéristique|semi-immergé,basse pression,retour,magnétique,bypass,||||LIST
+1000694|Taille de filtration|5,2,10,20,|||µm|LIST
+1000694|Pression de fonctionnement||0|10|bar|MIN_MAX
+1000694|Débit||0|500|l/min|MIN_MAX
+1000695|Fluide|hydraulique||||SIMPLE
+1000695|Élément filtrant|à cartouche||||SIMPLE
+1000695|Autre caractéristique|d'échappement,à gasoil,||||LIST
+1000695|Taille de filtration|1|||µm|SIMPLE
+1000695|Pression de fonctionnement|||||SIMPLE
+1000695|Débit|||||SIMPLE
+1000696|Type de résine|époxy||||SIMPLE
+1000696|Applications|pour applications électroniques||||SIMPLE
+1000697|Type|de protection||||SIMPLE
+1000697|Forme|liquide||||SIMPLE
+1000697|Matériau|acrylique||||SIMPLE
+1000697|Applications|pour revêtement||||SIMPLE
+1000699|Technologie|pour air comprimé||||SIMPLE
+1000699|Pression||1|16|bar|MIN_MAX
+1000699|Débit||2,500|7,200|l/min|MIN_MAX
+1000700|Applications|pour air comprimé||||SIMPLE
+1000246|Spécifications|pour véhicule électrique||||SIMPLE
+1000247|Spécifications|de flux lumineux||||SIMPLE
+1000248|Type|à clé||||SIMPLE
+1000248|Configuration des contacts|multipolaire||||SIMPLE
+1000248|Courant|100,10,|||mA|LIST
+1000248|Tension|250,35,|||V|LIST
+1000249|Type|à clé||||SIMPLE
+1000249|Configuration des contacts|unipolaire||||SIMPLE
+1000249|Autres caractéristiques|rond,rectangulaire,électromécanique,||||LIST
+1000249|Niveau de protection|IP40||||SIMPLE
+1000249|Courant|100|||mA|SIMPLE
+1000249|Tension||0|35|V|MIN_MAX
+1000250|Type|tactile||||SIMPLE
+1000250|Configuration des contacts|unipolaire||||SIMPLE
+1000250|Autres caractéristiques|pour applications automobiles,à faible course,électromécanique,||||LIST
+1000250|Tension||0|35|V|MIN_MAX
+1000251|Type|pour porte||||SIMPLE
+1000251|Configuration des contacts|multipolaire||||SIMPLE
+1000251|Autres caractéristiques|AS-Interface,de sécurité,||||LIST
+1000252|Type|à commande par câble||||SIMPLE
+1000252|Autres caractéristiques|AS-Interface,d'arrêt d'urgence,||||LIST
+1000252|Niveau de protection|durci,pour environnement sévère,||||LIST
+1000253|Type|à levier||||SIMPLE
+1000253|Configuration des contacts|unipolaire,2,|||pôles|LIST
+1000253|Niveau de protection|IP40||||SIMPLE
+1000253|Courant|2|||A|SIMPLE
+1000253|Tension|24|||V|SIMPLE
+1000254|Type|rotatif,de sélection,||||LIST
+1000254|Configuration des contacts|multipolaire||||SIMPLE
+1000254|Autres caractéristiques|électromécanique||||SIMPLE
+1000254|Tension||6|380|V|MIN_MAX
+1000255|Type|à cames||||SIMPLE
+1000255|Configuration des contacts|multipolaire||||SIMPLE
+1000255|Autres caractéristiques|électromécanique||||SIMPLE
+1000255|Courant|20|||A|SIMPLE
+1000255|Tension|400|||V|SIMPLE

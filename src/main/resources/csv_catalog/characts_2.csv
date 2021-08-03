@@ -1,0 +1,435 @@
+product_id|label|value|value_min|value_max|unit|type
+1000551|Type|hydraulique||||SIMPLE
+1000551|Technologie|double effet||||SIMPLE
+1000551|Autres caractéristiques|ISO,rond,pousseur,||||LIST
+1000551|Force||4|969|kN|MIN_MAX
+1000551|Vitesse||0.1|12|m/s|MIN_MAX
+1000552|Type|hydraulique||||SIMPLE
+1000552|Technologie|double effet||||SIMPLE
+1000552|Autres caractéristiques|compact,de blocage,à détection de position,de bridage,||||LIST
+1000552|Course||0|100|mm|MIN_MAX
+1000552|Force|50.3,80.4,|||kN|LIST
+1000552|Vitesse||0.008|0.1|m/s|MIN_MAX
+1000553|Type|pneumatique||||SIMPLE
+1000553|Technologie|double effet||||SIMPLE
+1000553|Autres caractéristiques|compact,ISO 21287,à détection de position,en acier,||||LIST
+1000553|Course||1|500|mm|MIN_MAX
+1000553|Force||51|7,363|N|MIN_MAX
+1000554|Type|pneumatique||||SIMPLE
+1000554|Technologie|à simple effet,à tige,||||LIST
+1000554|Autres caractéristiques|compact,ISO 21287,en acier,||||LIST
+1000554|Course||1|25|mm|MIN_MAX
+1000554|Force||59|4,510|N|MIN_MAX
+1000555|Type|pneumatique||||SIMPLE
+1000555|Technologie|double effet||||SIMPLE
+1000555|Autres caractéristiques|compact,ISO 21287,||||LIST
+1000555|Course||5|80|mm|MIN_MAX
+1000555|Force||188|1,178|N|MIN_MAX
+1000556|Type|pneumatique||||SIMPLE
+1000556|Technologie|à simple effet,à double effet,à tige traversante,à piston magnétique,||||LIST
+1000556|Autres caractéristiques|compact,ISO,mini,de guidage,en acier inoxydable,en aluminium anodisé,||||LIST
+1000556|Course||0|1,000|mm|MIN_MAX
+1000556|Force||0|350|N|MIN_MAX
+1000556|Vitesse||0.1|2.5|m/s|MIN_MAX
+1000557|Type|pneumatique||||SIMPLE
+1000557|Technologie|à double effet,à tige traversante,||||LIST
+1000557|Autres caractéristiques|compact,ISO,||||LIST
+1000557|Course||0|500|mm|MIN_MAX
+1000558|Type|pneumatique||||SIMPLE
+1000558|Technologie|à double effet,à tige traversante,à piston magnétique,||||LIST
+1000558|Autres caractéristiques|ISO 15552,tandem,industriel,en acier inoxydable,en aluminium anodisé,de guidage,||||LIST
+1000558|Course||0|2,800|mm|MIN_MAX
+1000558|Force||550|8,425|N|MIN_MAX
+1000558|Vitesse||0.1|3|m/s|MIN_MAX
+1000558|Couple||0|53|Nm|MIN_MAX
+1000559|Mouvement|rotatif||||SIMPLE
+1000559|Type|pneumatique||||SIMPLE
+1000559|Technologie|double effet,à tige,||||LIST
+1000559|Autres caractéristiques|à détection de position,roto-linéaire,||||LIST
+1000559|Course||10|200|mm|MIN_MAX
+1000559|Force||102|660|N|MIN_MAX
+1000559|Couple||1.25|20|Nm|MIN_MAX
+1000560|Technologie|à piston||||SIMPLE
+1000560|Autres caractéristiques|à cylindrée variable||||SIMPLE
+1000560|Couple|95,175,127,255,|||Nm|LIST
+1000560|Vitesse de rotation||3,700|7,900|rpm|MIN_MAX
+1000560|Pression||0|420|bar|MIN_MAX
+1000560|Cylindrée||12|80|cm³|MIN_MAX
+1000071|Valeur controlée/mesurée|de sécurité||||SIMPLE
+1000071|Autres caractéristiques|multifonction,sur rail DIN,||||LIST
+1000072|Valeur controlée/mesurée|de sécurité||||SIMPLE
+1000072|Autres caractéristiques|IEC,avec muting,pour barrière immatérielle,||||LIST
+1000073|Valeur controlée/mesurée|de sécurité,de vitesse,||||LIST
+1000073|Autres caractéristiques|d'arrêt d'urgence,sur rail DIN,||||LIST
+1000074|Valeur controlée/mesurée|de sécurité||||SIMPLE
+1000074|Autres caractéristiques|sur rail DIN||||SIMPLE
+1000075|Valeur controlée/mesurée|de sécurité||||SIMPLE
+1000075|Autres caractéristiques|numérique,IEC,d'arrêt d'urgence,sur rail DIN,||||LIST
+1000076|Valeur controlée/mesurée|de sécurité||||SIMPLE
+1000076|Autres caractéristiques|sur rail DIN||||SIMPLE
+1000077|Affichage|numérique||||SIMPLE
+1000077|Type|programmable||||SIMPLE
+1000077|Utilisation|de refroidissement,de chauffage,||||LIST
+1000077|Autres caractéristiques|configurable||||SIMPLE
+1000077|Température maximale||0|50|°C|MIN_MAX
+1000078|Affichage|à affichage numérique||||SIMPLE
+1000078|Type|programmable||||SIMPLE
+1000079|Spécifications|avec électrovanne intégrée||||SIMPLE
+1000080|Spécifications|numérique,antidéflagrant,||||LIST
+1000081|Type|GPRS||||SIMPLE
+1000081|Port|Ethernet||||SIMPLE
+1000082|Autre caractéristique|électromécanique||||SIMPLE
+1000085|Type|de tension||||SIMPLE
+1000085|Applications|pour appareillage||||SIMPLE
+1000086|Technologie|proportionnel||||SIMPLE
+1000087|Nombre de voies|3 canaux||||SIMPLE
+1000088|Applications|pour la domotique||||SIMPLE
+1000090|Applications|chauffante,aérateur,||||LIST
+1000091|Interface|à écran tactile||||SIMPLE
+1000091|Montage|à montage VESA||||SIMPLE
+1000091|Résolution|800 x 480,1024 x 768,480 x 272,||||LIST
+1000091|Processeur|ARM Cortex-A8||||SIMPLE
+1000091|Autres caractéristiques|TFT LCD,TCP/IP,Modbus,||||LIST
+1000091|Applications|de contrôle||||SIMPLE
+1000091|Taille d'écran|10,4.3,7,|||in|LIST
+1000092|Mesurande|de position||||SIMPLE
+1000092|Affichage|à LED||||SIMPLE
+1000092|Autres caractéristiques|programmable||||SIMPLE
+1000092|Application|pour vanne||||SIMPLE
+1000093|Mesurande|de process||||SIMPLE
+1000093|Affichage|numérique||||SIMPLE
+1000093|Type|pour montage sur panneau||||SIMPLE
+1000094|Mesurande|de courant,de tension,||||LIST
+1000094|Affichage|à LED,numérique,||||LIST
+1000094|Type|pour montage sur panneau||||SIMPLE
+1000095|Mesurande|de process||||SIMPLE
+1000095|Affichage|numérique||||SIMPLE
+1000095|Type|pour montage sur panneau||||SIMPLE
+1000096|Mesurande|de débit,de pression,||||LIST
+1000096|Affichage|numérique||||SIMPLE
+1000096|Application|pour capteur||||SIMPLE
+1000097|Type|à LED||||SIMPLE
+1000097|Format|à 6 chiffres||||SIMPLE
+1000097|Autres caractéristiques|IP65||||SIMPLE
+1000098|Type|numériques||||SIMPLE
+1000099|Type|à LED||||SIMPLE
+1000099|Format|compacts||||SIMPLE
+1000100|Type|LCD||||SIMPLE
+1000100|Format|17 segments||||SIMPLE
+1000101|Type|LCD||||SIMPLE
+1000101|Format|compacts||||SIMPLE
+1000101|Applications|de communication visuelle||||SIMPLE
+1000102|Type|binaire,tachymètre,de lots,||||LIST
+1000102|Affichage..|numérique||||SIMPLE
+1000102|Technologie|électronique||||SIMPLE
+1000102|Autres caractéristiques|multifonction,à présélection,||||LIST
+1000103|Type|horaire||||SIMPLE
+1000103|Affichage..|numérique||||SIMPLE
+1000103|Technologie|électromécanique||||SIMPLE
+1000104|Type|horaire||||SIMPLE
+1000104|Technologie|électromécanique||||SIMPLE
+1000105|Technologie|pneumatique||||SIMPLE
+1000105|Autres caractéristiques|à présélection||||SIMPLE
+1000316|Type|de données||||SIMPLE
+1000316|.format|DIN||||SIMPLE
+1000316|Forme|rectangulaire||||SIMPLE
+1000316|Taille|M12||||SIMPLE
+1000316|Applications produit**|-Not Tr-||||SIMPLE
+1000317|Type|de données||||SIMPLE
+1000317|.format|DIN||||SIMPLE
+1000317|Forme|rectangulaire||||SIMPLE
+1000317|Type de connexion|à verrouillage||||SIMPLE
+1000317|Spécification électrique|6 pôles||||SIMPLE
+1000317|Autre caractéristique|IP66,IP69K,||||LIST
+1000317|Applications produit**|non spécifié||||SIMPLE
+1000317|Courant|16|||A|SIMPLE
+1000317|Tension|500|||V|SIMPLE
+1000318|Type|de données||||SIMPLE
+1000318|Applications produit**|pour bus CAN,de véhicule,||||LIST
+1000319|Type|RF||||SIMPLE
+1000319|.format|DIN||||SIMPLE
+1000319|Forme|en T||||SIMPLE
+1000319|Type de connexion|enfichable||||SIMPLE
+1000319|Spécification électrique|multipolaire,de puissance,de mise à la terre,||||LIST
+1000319|Applications produit**|pour alimentation électrique,d'éclairage,||||LIST
+1000319|Courant|24|||A|SIMPLE
+1000320|Type|RF||||SIMPLE
+1000320|Format|DIN||||SIMPLE
+1000320|Forme|circulaire||||SIMPLE
+1000320|Type de connexion|à bride,à visser,||||LIST
+1000320|Taille|M8,M12,||||LIST
+1000320|Applications produit**|pour capteur,pour actionneur,||||LIST
+1000321|Type|d'alimentation électrique||||SIMPLE
+1000321|Type de connexion|prise||||SIMPLE
+1000321|Matériau|en métal||||SIMPLE
+1000321|Autre caractéristique|IP67,IP66,||||LIST
+1000321|Applications produit**|de bornier de moteur,pour interrupteur,||||LIST
+1000321|Courant|40,75,125,|||A|LIST
+1000321|Tension|690|||V|SIMPLE
+1000322|Type|d'alimentation électrique||||SIMPLE
+1000322|Matériau|en plastique,en métal,||||LIST
+1000322|Autre caractéristique|IP67,IP66,IP54,||||LIST
+1000322|Applications produit**|de bornier de moteur||||SIMPLE
+1000322|Courant|90,150,32,50,30,|||A|LIST
+1000322|Tension|500,415,|||V|LIST
+1000323|Type|d'alimentation électrique||||SIMPLE
+1000323|Forme|circulaire||||SIMPLE
+1000323|Type de connexion|prise||||SIMPLE
+1000323|Spécification électrique|unipolaire||||SIMPLE
+1000323|Autre caractéristique|IP67,IP66,||||LIST
+1000323|Applications produit**|non spécifié||||SIMPLE
+1000323|Domaine|industriel,pour l'industrie automobile,pour distribution électrique,||||LIST
+1000323|Courant|400|||A|SIMPLE
+1000323|Tension|1,000,|||V|LIST
+1000324|Type|d'alimentation électrique||||SIMPLE
+1000324|.format|USB||||SIMPLE
+1000324|Forme|rectangulaire||||SIMPLE
+1000324|Type de connexion|enfichable||||SIMPLE
+1000324|Applications produit**|pour éclairage,de chaudière,||||LIST
+1000324|Courant|24|||A|SIMPLE
+1000324|Tension|400|||V|SIMPLE
+1000325|Type|d'alimentation électrique||||SIMPLE
+1000325|Autre caractéristique|à isolation thermorétractable,isolé,prolongateur,||||LIST
+1000325|Applications produit**|non spécifié||||SIMPLE
+1000326|Type|de données,d'alimentation électrique,PCB,||||LIST
+1000326|.format|DIN||||SIMPLE
+1000326|Forme|parallèle||||SIMPLE
+1000326|Type de connexion|enfichable||||SIMPLE
+1000326|Autre caractéristique|mini||||SIMPLE
+1000326|Domaine|pour la distribution électrique,pour bâtiments,||||LIST
+1000326|Courant|16|||A|SIMPLE
+1000326|Tension|400,250,|||V|LIST
+1000327|Type|PCB||||SIMPLE
+1000327|.format|DIN||||SIMPLE
+1000327|Type de connexion|enfichable||||SIMPLE
+1000327|Applications produit**|pour capteur||||SIMPLE
+1000327|Courant|4|||A|SIMPLE
+1000327|Tension|250|||V|SIMPLE
+1000328|Type|de données||||SIMPLE
+1000328|Forme|droit,à angle droit,||||LIST
+1000328|Type de connexion|femelle||||SIMPLE
+1000328|Taille|M12,M8,||||LIST
+1000328|Autre caractéristique|durci||||SIMPLE
+1000328|Applications produit**|non spécifié||||SIMPLE
+1000329|Type|de données||||SIMPLE
+1000329|Forme|droit,à angle droit,||||LIST
+1000329|Type de connexion|prise,à baïonnette,||||LIST
+1000329|Taille|M12,M8,M23,M16,||||LIST
+1000330|Spécifications|à sertir||||SIMPLE
+1000330|Matériau|métallisé||||SIMPLE
+1000331|Type|RF||||SIMPLE
+1000331|.format|DIN||||SIMPLE
+1000331|Forme|en T||||SIMPLE
+1000331|Type de connexion|enfichable||||SIMPLE
+1000331|Spécification électrique|multipolaire,de puissance,de mise à la terre,||||LIST
+1000331|Applications produit**|pour alimentation électrique,d'éclairage,||||LIST
+1000331|Courant|24|||A|SIMPLE
+1000332|Type|RF||||SIMPLE
+1000332|Format|DIN||||SIMPLE
+1000332|Forme|circulaire||||SIMPLE
+1000332|Type de connexion|à bride,à visser,||||LIST
+1000332|Taille|M8,M12,||||LIST
+1000332|Applications produit**|pour capteur,pour actionneur,||||LIST
+1000333|Autres caractéristiques|industriel,étanche,||||LIST
+1000333|Courant|5|||A|SIMPLE
+1000334|Autres caractéristiques|IP67,étanche,pour forte puissance,||||LIST
+1000334|Courant|315,500,600,|||A|LIST
+1000334|VAC|1,000,|||V|SIMPLE
+1000335|Forme|à support mural||||SIMPLE
+1000335|Autres caractéristiques|pour forte puissance||||SIMPLE
+1000335|Niveau de protection|IP54,IP54,||||LIST
+1000335|Courant|400|||A|SIMPLE
+1000335|VAC|1,000,|||V|LIST
+1000336|Type de connexion|à ergot,à oeillet,à compression,||||LIST
+1000336|Forme|tubulaire||||SIMPLE
+1000336|Isolation|sans enveloppe isolante||||SIMPLE
+1000337|Autres caractéristiques|de traversée||||SIMPLE
+1000337|Tension nominale|8|||V|SIMPLE
+1000337|Courant|50,15,|||mA|LIST
+1000338|Connexion|push-in,à connexion à ressort,||||LIST
+1000338|Montage|sur rail-DIN,enfichable,||||LIST
+1000338|Autres caractéristiques|à fusible,double étage,à diode,||||LIST
+1000338|Tension nominale|800,550,|||V|LIST
+1000338|Courant|12,13.5,18,13,|||A|LIST
+1000338|Section câble|||||SIMPLE
+1000339|Connexion|push-in||||SIMPLE
+1000339|Montage|sur rail-DIN||||SIMPLE
+1000339|Tension nominale|400|||V|SIMPLE
+1000339|Courant|30|||A|SIMPLE
+1000339|Section câble||2.5|10|mm²|MIN_MAX
+1000340|Connexion|à connexion rapide||||SIMPLE
+1000340|Courant|12|||A|SIMPLE
+1000340|Section câble||0.14|2.5|mm²|MIN_MAX
+1000341|Connexion|à connexion à ressort||||SIMPLE
+1000341|Montage|sur rail-DIN||||SIMPLE
+1000342|Spécifications|sur rail DIN||||SIMPLE
+1000343|Type|équipé||||SIMPLE
+1000343|Construction|modulaire||||SIMPLE
+1000343|Matériau|en polyester||||SIMPLE
+1000343|Applications|pour disjoncteur,pour chantier,||||LIST
+1000343|Autres caractéristiques|avec prise de courant,IP66,de protection,||||LIST
+1000343|Largeur|345|||mm|SIMPLE
+1000343|Hauteur|225|||mm|SIMPLE
+1000343|Profondeur|156|||mm|SIMPLE
+1000344|Type|équipé||||SIMPLE
+1000344|Matériau|en thermoplastique,en acier,||||LIST
+1000344|Applications|pour chantier||||SIMPLE
+1000344|Autres caractéristiques|avec prise de courant,IP66,IP67,IK 08,préassemblé,||||LIST
+1000344|Largeur|170|||mm|SIMPLE
+1000344|Hauteur|170|||mm|SIMPLE
+1000344|Profondeur|118|||mm|SIMPLE
+1000345|Type|équipé||||SIMPLE
+1000345|Construction|mural||||SIMPLE
+1000345|Matériau|en polyester||||SIMPLE
+1000345|Applications|pour distribution électrique||||SIMPLE
+1000345|Autres caractéristiques|avec prise de courant,étanche,de protection,||||LIST
+1000345|Hauteur|470|||mm|SIMPLE
+1000345|Profondeur|250|||mm|SIMPLE
+1000346|Construction|sur rail DIN||||SIMPLE
+1000346|Matériau|en plastique||||SIMPLE
+1000346|Applications|pour distribution électrique||||SIMPLE
+1000346|Largeur||55|218|mm|MIN_MAX
+1000346|Hauteur||160|180|mm|MIN_MAX
+1000346|Profondeur|82|||mm|SIMPLE
+1000347|Construction|fixation au sol||||SIMPLE
+1000347|Matériau|en acier||||SIMPLE
+1000347|Applications|pour distribution électrique||||SIMPLE
+1000347|Largeur|600,800,|||mm|LIST
+1000347|Profondeur|1,200,|||mm|SIMPLE
+1000348|Construction|modulaire||||SIMPLE
+1000348|Matériau|en plastique||||SIMPLE
+1000348|Applications|pour distribution électrique||||SIMPLE
+1000349|Montage|en saillie||||SIMPLE
+1000349|Niveau de protection|étanche,antidéflagrante,à sécurité augmentée,à sécurité intrinsèque,pour environnement sévère,||||LIST
+1000349|Matériau|en polyester renforcé fibre de verre||||SIMPLE
+1000349|Autres caractéristiques|avec presse-étoupe||||SIMPLE
+1000350|Montage|murale||||SIMPLE
+1000350|Niveau de protection|étanche,antidéflagrante,||||LIST
+1000350|Matériau|en inox||||SIMPLE
+1000350|Applications|pour zones dangereuses||||SIMPLE
+1000350|Autres caractéristiques|avec presse-étoupe||||SIMPLE
+1000596|Type|à tiroir||||SIMPLE
+1000596|Commande|actionné par solénoïde,actionné pneumatiquement,||||LIST
+1000596|Orifices/positions|5/2 voies,3/2 voies,||||LIST
+1000597|Type|à tiroir||||SIMPLE
+1000597|Commande|actionné pneumatiquement,actionné par solénoïde,||||LIST
+1000597|Orifices/positions|3/2 voies,5/2 voies,5/3 voies,||||LIST
+1000597|Autres caractéristiques|à ressort de rappel||||SIMPLE
+1000598|Commande|actionné par solénoïde,actionné pneumatiquement,||||LIST
+1000598|Autres caractéristiques|à montage sur embase||||SIMPLE
+1000599|Type|à tiroir||||SIMPLE
+1000599|Commande|à commande directe||||SIMPLE
+1000599|Autres caractéristiques|proportionnel||||SIMPLE
+1000599|Débit||0|1,000|l/min|MIN_MAX
+1000599|Pression||0|350|bar|MIN_MAX
+1000600|Type|à tiroir||||SIMPLE
+1000600|Commande|à commande directe,à air,||||LIST
+1000600|Autres caractéristiques|à montage sur embase,avec bus de terrain,||||LIST
+1000600|Débit||0|7,850|l/min|MIN_MAX
+1000600|Pression||0|12|bar|MIN_MAX
+1000601|Type|à tiroir||||SIMPLE
+1000601|Commande|à air||||SIMPLE
+1000601|Autres caractéristiques|à montage sur embase||||SIMPLE
+1000601|Débit||0|6,060|l/min|MIN_MAX
+1000601|Pression||0|12|bar|MIN_MAX
+1000602|Commande|à commande manuelle||||SIMPLE
+1000602|Orifices/positions|3/2 voies||||SIMPLE
+1000602|Autres caractéristiques|miniature||||SIMPLE
+1000602|Pression||2|8|bar|MIN_MAX
+1000603|Orifices/positions|3/2||||SIMPLE
+1000603|Fonction|NF||||SIMPLE
+1000603|Media|air||||SIMPLE
+1000603|Corps|IP65,IP67,||||LIST
+1000603|Autre caractéristique|bistable,pour bus de terrain,||||LIST
+1000603|DN|6|||mm|SIMPLE
+1000603|Voltage|24|||V|SIMPLE
+1000604|Commande|à commande assistée||||SIMPLE
+1000604|Orifices/positions|2/2 voies||||SIMPLE
+1000604|Media|air||||SIMPLE
+1000604|Autre caractéristique|à commande électrique,à diaphragme,à ressort de rappel,||||LIST
+1000604|Température||-10|60|°C|MIN_MAX
+1000604|Pression||0.5|10|bar|MIN_MAX
+1000604|DN||13|40|mm|MIN_MAX
+1000604|Voltage||24|230|V|MIN_MAX
+1000605|Commande|à commande directe||||SIMPLE
+1000605|Orifices/positions|2,3,|||voies|LIST
+1000605|Media|eau||||SIMPLE
+1000605|Corps|de faible encombrement,en acier inoxydable,||||LIST
+1000605|Température||0|116|°C|MIN_MAX
+1000605|Pression||0|65|bar|MIN_MAX
+1000605|DN||0.8|4|mm|MIN_MAX
+1000606|Orifices/positions|2 voies||||SIMPLE
+1000606|Fonction|NF||||SIMPLE
+1000606|Corps|en acier inoxydable,IP67,||||LIST
+1000606|Autre caractéristique|ATEX,pour fluide agressif,||||LIST
+1000606|Température||-10|140|°C|MIN_MAX
+1000606|Pression||0|20|bar|MIN_MAX
+1000606|DN||1.5|6.2|mm|MIN_MAX
+1000607|Commande|à commande directe||||SIMPLE
+1000607|Orifices/positions|2/2 voies||||SIMPLE
+1000607|Fonction|NF||||SIMPLE
+1000607|Media|pour gaz||||SIMPLE
+1000607|Corps|en polyamide,miniature,||||LIST
+1000607|Température||-5|50|°C|MIN_MAX
+1000607|DN|0.8|||mm|SIMPLE
+1000607|Voltage|24|||V|SIMPLE
+1000608|Commande|à commande directe||||SIMPLE
+1000608|Orifices/positions|2,3,|||voies|LIST
+1000608|Media|eau||||SIMPLE
+1000608|Corps|de faible encombrement,en acier inoxydable,||||LIST
+1000608|Température||0|116|°C|MIN_MAX
+1000608|Pression||0|65|bar|MIN_MAX
+1000608|DN||0.8|4|mm|MIN_MAX
+1000609|Commande|à commande directe||||SIMPLE
+1000609|Orifices/positions|2/2 voies||||SIMPLE
+1000609|Fonction|NF||||SIMPLE
+1000609|Media|pour gaz||||SIMPLE
+1000609|Corps|en polyamide,miniature,||||LIST
+1000609|Température||-5|50|°C|MIN_MAX
+1000609|DN|0.8|||mm|SIMPLE
+1000609|Voltage|24|||V|SIMPLE
+1000610|Commande|à commande assistée||||SIMPLE
+1000610|Orifices/positions|2/2 voies||||SIMPLE
+1000610|Media|air||||SIMPLE
+1000610|Autre caractéristique|à commande électrique,à diaphragme,à ressort de rappel,||||LIST
+1000610|Température||-10|60|°C|MIN_MAX
+1000610|Pression||0.5|10|bar|MIN_MAX
+1000610|DN||13|40|mm|MIN_MAX
+1000610|Voltage||24|230|V|MIN_MAX
+1000611|Type|électrique,pneumatique,||||LIST
+1000611|Mouvement|rotatif||||SIMPLE
+1000611|Technologie|double effet,à pignon crémaillère,à ressort de rappel,||||LIST
+1000611|Autres caractéristiques|à boisseau||||SIMPLE
+1000611|Couple||7|132|Nm|MIN_MAX
+1000612|Fluide|pour air comprimé||||SIMPLE
+1000612|Nombre d'étages|mono-étagé||||SIMPLE
+1000612|Technologie|à membrane||||SIMPLE
+1000612|Matériau|en aluminium||||SIMPLE
+1000612|Autres caractéristiques|proportionnel||||SIMPLE
+1000612|Pression||0.1|10|bar|MIN_MAX
+1000612|Diamètre de l'orifice||0.13|0.5|in|MIN_MAX
+1000612|Débit||1,400|7,000|l/min|MIN_MAX
+1000613|Fluide|pour air comprimé||||SIMPLE
+1000613|Nombre d'étages|mono-étagé||||SIMPLE
+1000613|Technologie|à membrane||||SIMPLE
+1000613|Matériau|en aluminium||||SIMPLE
+1000613|Applications|de précision||||SIMPLE
+1000613|Autres caractéristiques|proportionnel||||SIMPLE
+1000613|Pression||0|10|bar|MIN_MAX
+1000613|Diamètre de l'orifice||0.13|0.5|in|MIN_MAX
+1000613|Débit||380|7,000|l/min|MIN_MAX
+1000614|Fluide|pour air comprimé||||SIMPLE
+1000614|Nombre d'étages|mono-étagé||||SIMPLE
+1000614|Technologie|à piston||||SIMPLE
+1000614|Matériau|en aluminium||||SIMPLE
+1000614|Autres caractéristiques|proportionnel||||SIMPLE
+1000614|Pression||0|10|bar|MIN_MAX
+1000614|Diamètre de l'orifice||5|11|mm|MIN_MAX
+1000614|Débit||350|8,800|l/min|MIN_MAX
+1000615|Fluide|pour air||||SIMPLE
+1000615|Nombre d'étages|mono-étagé||||SIMPLE
+1000615|Technologie|à membrane||||SIMPLE
+1000615|Autres caractéristiques|électropneumatique||||SIMPLE
+1000615|Pression||0.05|12|bar|MIN_MAX
+1000615|Diamètre de l'orifice|0.25,0.5,|||in|LIST
+1000615|Débit||0|2,700|m³/h|MIN_MAX

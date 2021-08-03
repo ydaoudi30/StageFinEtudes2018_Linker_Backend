@@ -1,0 +1,312 @@
+product_id|label|value|value_min|value_max|unit|type
+1000616|Type|pneumatique||||SIMPLE
+1000617|Type|pneumatique||||SIMPLE
+1000618|Spécifications|avec électrovanne intégrée||||SIMPLE
+1000619|Spécifications|numérique,antidéflagrant,||||LIST
+1000620|Fonction|de commande||||SIMPLE
+1000621|Fixation|à visser||||SIMPLE
+1000621|Forme|coudé||||SIMPLE
+1000621|Application|pour air comprimé,pneumatique,||||LIST
+1000621|Matériau|en laiton nickelé||||SIMPLE
+1000621|Diamètre||0.13|1|in|MIN_MAX
+1000621|Pression de service||0|50|bar|MIN_MAX
+1000622|Fixation|push-in,enfichable,||||LIST
+1000622|Forme|coudé||||SIMPLE
+1000622|Application|pour air comprimé||||SIMPLE
+1000622|Matériau|en laiton nickelé||||SIMPLE
+1000622|Autre caractéristique|résistant aux produits chimiques,de traversée de cloison,||||LIST
+1000622|Diamètre||0.13|0.5|in|MIN_MAX
+1000622|Pression de service||0|20|bar|MIN_MAX
+1000623|Fixation|push-in,enfichable,||||LIST
+1000623|Forme|coudé||||SIMPLE
+1000623|Application|pneumatique||||SIMPLE
+1000623|Matériau|en laiton nickelé||||SIMPLE
+1000623|Autre caractéristique|robuste||||SIMPLE
+1000623|Diamètre||4|14|mm|MIN_MAX
+1000623|Pression de service||0|16|bar|MIN_MAX
+1000624|Fixation|à bague,à compression,||||LIST
+1000624|Forme|droit,coudé,en T,||||LIST
+1000624|Application|hydraulique,pneumatique,||||LIST
+1000624|Autre caractéristique|pour gaz||||SIMPLE
+1000625|Fixation|à compression||||SIMPLE
+1000625|Forme|droit||||SIMPLE
+1000625|Application|hydraulique,pneumatique,||||LIST
+1000625|Diamètre||0.25|1|in|MIN_MAX
+1000625|Pression de service||0|1,400|bar|MIN_MAX
+1000626|Fixation|à visser||||SIMPLE
+1000626|Forme|en T||||SIMPLE
+1000626|Application|pneumatique||||SIMPLE
+1000626|Matériau|en acier inoxydable||||SIMPLE
+1000626|Diamètre||4|12|mm|MIN_MAX
+1000626|Pression de service|||||SIMPLE
+1000627|Fixation|à bague,à compression,||||LIST
+1000627|Forme|droit,coudé,en T,||||LIST
+1000627|Application|hydraulique,pneumatique,||||LIST
+1000627|Autre caractéristique|pour gaz||||SIMPLE
+1000628|Fixation|à compression||||SIMPLE
+1000628|Forme|droit||||SIMPLE
+1000628|Application|hydraulique,pneumatique,||||LIST
+1000628|Diamètre||0.25|1|in|MIN_MAX
+1000628|Pression de service||0|1,400|bar|MIN_MAX
+1000629|Fixation|à bague coupante||||SIMPLE
+1000629|Forme|droit||||SIMPLE
+1000629|Application|hydraulique||||SIMPLE
+1000629|Matériau|en acier||||SIMPLE
+1000629|Autre caractéristique|à haute pression||||SIMPLE
+1000629|Diamètre||6|38|mm|MIN_MAX
+1000629|Pression de service|160,630,400,,320.6,|||psi)|LIST
+1000630|Fixation|à visser,enfichable,||||LIST
+1000630|Forme|coudé||||SIMPLE
+1000630|Application|hydraulique||||SIMPLE
+1000630|Matériau|en laiton nickelé||||SIMPLE
+1000630|Diamètre||4|16|mm|MIN_MAX
+1000630|Pression de service||0|10|bar|MIN_MAX
+1000211|Type|AC/DC||||SIMPLE
+1000211|Sortie|à deux sorties||||SIMPLE
+1000211|Autres caractéristiques|à découpage||||SIMPLE
+1000211|Puissance||12|130|W|MIN_MAX
+1000211|Tension d'entrée||110|240|V|MIN_MAX
+1000211|Tension de sortie|12,24,|||V|LIST
+1000212|Type|AC/DC||||SIMPLE
+1000212|Sortie|à sortie simple||||SIMPLE
+1000212|Autres caractéristiques|châssis fermé,haute puissance,à découpage,||||LIST
+1000213|Type|AC/DC||||SIMPLE
+1000213|Sortie|régulée||||SIMPLE
+1000213|Autres caractéristiques|châssis fermé,modulaire,avec protection contre les courts-circuits,à découpage,||||LIST
+1000213|Puissance|25|||W|SIMPLE
+1000213|Tension d'entrée||100|240|V|MIN_MAX
+1000213|Tension de sortie|12|||V|SIMPLE
+1000213|Courant|2.1|||A|SIMPLE
+1000214|Type|AC/DC||||SIMPLE
+1000214|Sortie|ajustable||||SIMPLE
+1000214|Autres caractéristiques|pour applications industrielles,compacte,modulaire,sur rail DIN,encastrable,monophasée,à découpage,||||LIST
+1000214|Puissance||30|100|W|MIN_MAX
+1000214|Tension d'entrée||85|264|V|MIN_MAX
+1000214|Tension de sortie||12|24|V|MIN_MAX
+1000214|Courant||1.1|6.5|A|MIN_MAX
+1000215|Type|AC/DC||||SIMPLE
+1000215|Sortie|à sortie simple||||SIMPLE
+1000215|Autres caractéristiques|sur rail DIN,monophasée,triphasée,pour automatisme,à découpage,||||LIST
+1000215|Puissance||500|1,000|W|MIN_MAX
+1000215|Tension d'entrée||85|575|V|MIN_MAX
+1000215|Tension de sortie||5|48|V|MIN_MAX
+1000216|Type|DC/DC||||SIMPLE
+1000216|Autres caractéristiques|pour AS-Interface,sur rail DIN,||||LIST
+1000216|Puissance|134|||W|SIMPLE
+1000216|Tension d'entrée|24|||V|SIMPLE
+1000216|Tension de sortie|30.5|||V|SIMPLE
+1000216|Courant|4|||A|SIMPLE
+1000217|Type|DC/DC||||SIMPLE
+1000217|Sortie|régulée||||SIMPLE
+1000217|Autres caractéristiques|à découpage||||SIMPLE
+1000217|Puissance|80|||W|SIMPLE
+1000217|Tension d'entrée||110|300|V|MIN_MAX
+1000217|Tension de sortie||24|28|V|MIN_MAX
+1000217|Courant|2.7,3.3,|||A|LIST
+1000218|Type|DC/DC||||SIMPLE
+1000218|Autres caractéristiques|sur rail DIN||||SIMPLE
+1000218|Puissance||6|10|W|MIN_MAX
+1000218|Tension d'entrée|9.2,36,|||V|LIST
+1000218|Tension de sortie|24,12,|||V|LIST
+1000221|Configuration|sur rail DIN||||SIMPLE
+1000221|Autres caractéristiques|isolé||||SIMPLE
+1000221|Tension d'entrée|220,48,|||V|LIST
+1000221|Tension de sortie|12|||V|SIMPLE
+1000222|Configuration|sur rail DIN||||SIMPLE
+1000222|Spécification électrique|abaisseur||||SIMPLE
+1000222|Autres caractéristiques|isolé||||SIMPLE
+1000222|Tension d'entrée|||||SIMPLE
+1000222|Tension de sortie|24|||V|SIMPLE
+1000223|Configuration|sur rail DIN||||SIMPLE
+1000223|Spécification électrique|abaisseur||||SIMPLE
+1000223|Autres caractéristiques|isolé||||SIMPLE
+1000223|Tension d'entrée|24|||V|SIMPLE
+1000223|Tension de sortie|12|||V|SIMPLE
+1000224|Configuration|encapsulé||||SIMPLE
+1000224|Spécification électrique|abaisseur||||SIMPLE
+1000224|Autres caractéristiques|isolé||||SIMPLE
+1000224|Tension d'entrée||9|36|V|MIN_MAX
+1000224|Tension de sortie||2|32|V|MIN_MAX
+1000225|Configuration|sur rail DIN||||SIMPLE
+1000225|Spécification électrique|abaisseur||||SIMPLE
+1000225|Autres caractéristiques|compact,isolé,||||LIST
+1000225|Puissance||120|480|W|MIN_MAX
+1000225|Tension d'entrée||14|32|V|MIN_MAX
+1000225|Tension de sortie|24|||V|SIMPLE
+1000226|Spécification électrique|sinusoïdal,monophasé,||||LIST
+1000226|Applications|pour applications solaires||||SIMPLE
+1000226|Puissance||3,300|8,000|W|MIN_MAX
+1000227|Technologie|hors réseau||||SIMPLE
+1000227|Spécification électrique|à sinus modifié||||SIMPLE
+1000227|Applications|pour applications industrielles,pour applications nucléaires,||||LIST
+1000227|Tension|400,230,220,380,240,|||V|LIST
+1000227|Puissance kVA||5|200|kVA|MIN_MAX
+1000228|Technologie|hors réseau||||SIMPLE
+1000228|Spécification électrique|sinusoïdal||||SIMPLE
+1000228|Applications|pour applications professionnelle,pour applications mobiles,||||LIST
+1000228|Autres caractéristiques|compact||||SIMPLE
+1000228|Puissance||100|2,500|W|MIN_MAX
+1000228|Tension|110,230,|||V|LIST
+1000229|Type|d'harmonique||||SIMPLE
+1000229|Autres caractéristiques|actif||||SIMPLE
+1000230|Technologie|off-line||||SIMPLE
+1000230|Applications|industriel||||SIMPLE
+1000231|Applications|industriel||||SIMPLE
+1000231|Puissance|120|||W|SIMPLE
+1000231|Tension|48|||V|SIMPLE
+1000231|Puissance kVA|||||SIMPLE
+1000232|Technologie|parallèle||||SIMPLE
+1000232|Spécification électrique|DC||||SIMPLE
+1000232|Applications|industriel||||SIMPLE
+1000232|Autre caractéristique|sur condensateur||||SIMPLE
+1000232|Tension|24|||V|SIMPLE
+1000232|Puissance kVA|2.5,5,|||kW|LIST
+1000233|Technologie|parallèle||||SIMPLE
+1000233|Spécification électrique|DC||||SIMPLE
+1000233|Applications|industriel||||SIMPLE
+1000233|Autre caractéristique|sur rail DIN||||SIMPLE
+1000233|Puissance kVA|||||SIMPLE
+1000234|Technologie|parallèle||||SIMPLE
+1000234|Spécification électrique|monophasé||||SIMPLE
+1000234|Applications|pour applications nucléaires||||SIMPLE
+1000234|Tension||220|415|V|MIN_MAX
+1000234|Puissance kVA||5|200|kVA|MIN_MAX
+1000235|Technologie|off-line||||SIMPLE
+1000235|Spécification électrique|DC||||SIMPLE
+1000235|Applications|pour batterie||||SIMPLE
+1000235|Autre caractéristique|sur rail DIN||||SIMPLE
+1000235|Tension|24|||V|SIMPLE
+1000236|Spécification électrique|DC||||SIMPLE
+1000236|Applications|pour batterie,industriel,||||LIST
+1000236|Tension|24|||V|SIMPLE
+1000237|Type|lithium fer phosphate||||SIMPLE
+1000237|Forme|modulaire||||SIMPLE
+1000237|Autres caractéristiques|sans entretien||||SIMPLE
+1000237|Tension|48|||V|SIMPLE
+1000238|Type|plomb||||SIMPLE
+1000238|Forme|de bloc||||SIMPLE
+1000238|Tension|24|||V|SIMPLE
+1000239|Type|plomb||||SIMPLE
+1000239|Forme|de bloc||||SIMPLE
+1000240|Type de batterie|universel||||SIMPLE
+1000240|Montage|à pose murale||||SIMPLE
+1000240|Autres caractéristiques|automatique||||SIMPLE
+1000241|Type de batterie|universel||||SIMPLE
+1000241|Montage|au sol||||SIMPLE
+1000241|Autres caractéristiques|redresseur à thyristor,automatique,||||LIST
+1000241|Applications|pour applications nucléaires||||SIMPLE
+1000241|Ampères||25|1,200|A|MIN_MAX
+1000241|Tension||24|220|V|MIN_MAX
+1000242|Type de batterie|plomb-acide||||SIMPLE
+1000242|Montage|fixe||||SIMPLE
+1000242|Autres caractéristiques|à découpage||||SIMPLE
+1000243|Spécifications|pour alimentation électrique DC sur rail DIN||||SIMPLE
+1000244|Spécifications|pour alimentation électrique DC sur rail DIN||||SIMPLE
+1000245|Spécifications|pour alimentation électrique DC sur rail DIN||||SIMPLE
+1000036|Fluide|pour liquides||||SIMPLE
+1000036|Technologie|différentiel||||SIMPLE
+1000036|Autres caractéristiques|ATEX||||SIMPLE
+1000036|Plage de pression||-300|3,000|Pa|MIN_MAX
+1000037|Fluide|pour air||||SIMPLE
+1000037|Technologie|mécanique||||SIMPLE
+1000037|Autres caractéristiques|en inox,IP65,||||LIST
+1000037|Température de process||-5|50|°C|MIN_MAX
+1000037|Plage de pression||0|10|bar|MIN_MAX
+1000038|Fluide|pour air||||SIMPLE
+1000038|Technologie|électromécanique||||SIMPLE
+1000038|Autres caractéristiques|basse pression||||SIMPLE
+1000038|Température de process||-10|70|°C|MIN_MAX
+1000038|Plage de pression||-0.3|8|Pa|MIN_MAX
+1000039|Nombre d'axes|1 axe||||SIMPLE
+1000039|Technologie|piézoélectrique,capacitif,IEPE,||||LIST
+1000039|Autres caractéristiques|IP68,IP67,||||LIST
+1000039|Fréquence||0|10,000|Hz|MIN_MAX
+1000042|Élément détecté|de particules||||SIMPLE
+1000042|Autres caractéristiques|pour fluide hydraulique,pour applications hydrauliques,||||LIST
+1000043|Élément détecté|de particules||||SIMPLE
+1000043|Autres caractéristiques|robuste,pour liquide,||||LIST
+1000045|Élément détecté|de mouvement||||SIMPLE
+1000045|Technologie|radar||||SIMPLE
+1000046|Élément détecté|de mouvement,infrarouge passif,||||LIST
+1000046|Autres caractéristiques|mural||||SIMPLE
+1000048|Type|numérique||||SIMPLE
+1000048|Forme|sur rail DIN||||SIMPLE
+1000048|Applications|industriel||||SIMPLE
+1000049|Type|numérique||||SIMPLE
+1000049|Forme|portable||||SIMPLE
+1000049|Tension max|600 V||||SIMPLE
+1000049|Classe de sécurité|cat III||||SIMPLE
+1000049|Applications|industriel||||SIMPLE
+1000050|Objet de la mesure|pour réseau électrique||||SIMPLE
+1000050|Mesurande|de puissance||||SIMPLE
+1000050|Configuration|à intégrer||||SIMPLE
+1000051|Type|monophasé||||SIMPLE
+1000051|Montage|sur rail DIN||||SIMPLE
+1000051|Courant||1|250|A|MIN_MAX
+1000051|Tension||120|400|V|MIN_MAX
+1000052|Objet de la mesure|pour réseau électrique||||SIMPLE
+1000052|Mesurande|de qualité d'énergie||||SIMPLE
+1000052|Configuration|à intégrer||||SIMPLE
+1000053|Spécifications|numérique||||SIMPLE
+1000054|Technologie|à fibre optique||||SIMPLE
+1000054|Montage|à pince||||SIMPLE
+1000054|Spécification électrique|DC||||SIMPLE
+1000055|Type|de signal||||SIMPLE
+1000055|Spécification électrique|de courant||||SIMPLE
+1000055|Autres caractéristiques|à sécurité intrinsèque,ATEX,||||LIST
+1000056|Autres caractéristiques|antidéflagrant||||SIMPLE
+1000059|Technologie|à transformateur||||SIMPLE
+1000059|Montage|sur rail DIN||||SIMPLE
+1000059|Spécification électrique|AC,DC,||||LIST
+1000059|Autres caractéristiques|de supervision||||SIMPLE
+1000059|Courant||0|100|A|MIN_MAX
+1000062|Élément détecté|de particules||||SIMPLE
+1000062|Autres caractéristiques|pour fluide hydraulique,pour applications hydrauliques,||||LIST
+1000063|Élément détecté|de particules||||SIMPLE
+1000063|Autres caractéristiques|robuste,pour liquide,||||LIST
+1000068|Type|compact,sur rail DIN,||||LIST
+1000068|Entrée / sortie|avec E/S intégrée,entrées analogiques,||||LIST
+1000068|Autres caractéristiques|modulaire||||SIMPLE
+1000069|Type|sur rail DIN||||SIMPLE
+1000069|Entrée / sortie|avec E/S intégrée||||SIMPLE
+1000069|Réseau|pour bus de terrain,Modbus,sur réseau Ethernet,||||LIST
+1000069|Applications|de gestion||||SIMPLE
+1000070|Entrée / sortie|avec E/S intégrée,sorties numériques,||||LIST
+1000070|Réseau|pour bus de terrain||||SIMPLE
+1000070|Autres caractéristiques|modulaire||||SIMPLE
+1000106|Type|volumétrique||||SIMPLE
+1000106|Affichage..|numérique||||SIMPLE
+1000106|Technologie|électronique||||SIMPLE
+1000106|Autres caractéristiques|pour montage sur panneau||||SIMPLE
+1000107|Type|d'énergie||||SIMPLE
+1000107|Affichage..|numérique,analogique,||||LIST
+1000107|Technologie|électronique||||SIMPLE
+1000107|Autres caractéristiques|sur rail DIN||||SIMPLE
+1000108|Type|fréquence / courant||||SIMPLE
+1000109|Type|tension / courant||||SIMPLE
+1000111|Type|de communication,de sécurité,||||LIST
+1000111|Réseau|AS-Interface||||SIMPLE
+1000111|Autres caractéristiques|pour automate programmable||||SIMPLE
+1000112|Type|de communication||||SIMPLE
+1000112|Réseau|EtherNet/IP,PROFIBUS,ProfiNet,AS-Interface,||||LIST
+1000113|Type|de communication||||SIMPLE
+1000113|Réseau|AS-Interface||||SIMPLE
+1000113|Autres caractéristiques|pour automate programmable||||SIMPLE
+1000114|Type|de communication||||SIMPLE
+1000114|Réseau|EtherNet/IP,TCP,USB,Modbus,ProfiNet,DeviceNet,||||LIST
+1000115|Type|de sécurité||||SIMPLE
+1000116|Type de signal|numérique,analogique,||||LIST
+1000116|Bus|AS-i||||SIMPLE
+1000116|Autres caractéristiques|durci,IP67,||||LIST
+1000117|Type de signal|numérique,analogique,||||LIST
+1000117|Nombre d'entrées/sorties|à 4 sorties analogiques,à 4 entrées analogiques,4,|||entrées|LIST
+1000117|Autres caractéristiques|durci||||SIMPLE
+1000118|Type de signal|analogique||||SIMPLE
+1000118|Applications|de température||||SIMPLE
+1000118|Montage|à montage sur rail DIN||||SIMPLE
+1000119|Type de signal|numérique,analogique,||||LIST
+1000119|Nombre d'entrées/sorties|4 canaux||||SIMPLE
+1000119|Montage|à montage sur rail DIN||||SIMPLE
+1000119|Autres caractéristiques|antidéflagrant||||SIMPLE
+1000120|Type de signal|numérique,analogique,||||LIST
+1000120|Autres caractéristiques|universel||||SIMPLE

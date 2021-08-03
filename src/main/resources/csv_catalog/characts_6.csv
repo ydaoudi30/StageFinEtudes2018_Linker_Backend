@@ -1,0 +1,410 @@
+product_id|label|value|value_min|value_max|unit|type
+1000461|Type|pneumatique||||SIMPLE
+1000461|Technologie|à simple effet,double effet,||||LIST
+1000461|Autres caractéristiques|standard,rond,en acier inoxydable,en aluminium,||||LIST
+1000461|Course||1|500|mm|MIN_MAX
+1000461|Force||24|295|N|MIN_MAX
+1000462|Type|pneumatique||||SIMPLE
+1000462|Technologie|à simple effet,à double effet,à tige traversante,à piston magnétique,||||LIST
+1000462|Autres caractéristiques|compact,ISO,mini,de guidage,en acier inoxydable,en aluminium anodisé,||||LIST
+1000462|Course||0|1,000|mm|MIN_MAX
+1000462|Force||0|350|N|MIN_MAX
+1000462|Vitesse||0.1|2.5|m/s|MIN_MAX
+1000463|Type|pneumatique||||SIMPLE
+1000463|Technologie|à simple effet,à double effet,à piston,||||LIST
+1000463|Autres caractéristiques|rond,à membrane,de poinçonnage,de bridage,||||LIST
+1000463|Course|80,40,50,100,60,|||mm|LIST
+1000463|Force||128|25,000|N|MIN_MAX
+1000464|Type|pneumatique||||SIMPLE
+1000464|Technologie|à simple effet,souple,||||LIST
+1000464|Autres caractéristiques|rond,à faible course,en acier inoxydable,en aluminium,||||LIST
+1000464|Force||0|18,200|N|MIN_MAX
+1000465|Type|pneumatique||||SIMPLE
+1000465|Technologie|double effet||||SIMPLE
+1000465|Autres caractéristiques|compact,ISO 21287,à détection de position,en acier,||||LIST
+1000465|Course||1|500|mm|MIN_MAX
+1000465|Force||51|7,363|N|MIN_MAX
+1000466|Type|pneumatique||||SIMPLE
+1000466|Technologie|double effet||||SIMPLE
+1000466|Autres caractéristiques|compact,ISO 21287,||||LIST
+1000466|Course||5|80|mm|MIN_MAX
+1000466|Force||188|1,178|N|MIN_MAX
+1000467|Type|pneumatique||||SIMPLE
+1000467|Technologie|double effet||||SIMPLE
+1000467|Autres caractéristiques|compact,ISO 21287,de fin de course,à détection de position,||||LIST
+1000467|Course||10|500|mm|MIN_MAX
+1000467|Force||188|4,712|N|MIN_MAX
+1000468|Type|hydraulique||||SIMPLE
+1000468|Technologie|double effet||||SIMPLE
+1000468|Autres caractéristiques|ISO,à tirants,||||LIST
+1000468|Course||0.9|4.2|m|MIN_MAX
+1000468|Force||10.3|660|kN|MIN_MAX
+1000468|Vitesse||0.1|0.5|m/s|MIN_MAX
+1000468|Couple||10|530|Nm|MIN_MAX
+1000469|Type|hydraulique||||SIMPLE
+1000469|Technologie|double effet||||SIMPLE
+1000469|Autres caractéristiques|ISO,rond,pousseur,||||LIST
+1000469|Force||4|969|kN|MIN_MAX
+1000469|Vitesse||0.1|12|m/s|MIN_MAX
+1000470|Type|hydraulique||||SIMPLE
+1000470|Technologie|double effet||||SIMPLE
+1000470|Autres caractéristiques|compact,de blocage,à détection de position,de bridage,||||LIST
+1000470|Course||0|100|mm|MIN_MAX
+1000470|Force|50.3,80.4,|||kN|LIST
+1000470|Vitesse||0.008|0.1|m/s|MIN_MAX
+1000471|Type|pneumatique||||SIMPLE
+1000471|Technologie|double effet||||SIMPLE
+1000471|Autres caractéristiques|compact,ISO 21287,à détection de position,en acier,||||LIST
+1000471|Course||1|500|mm|MIN_MAX
+1000471|Force||51|7,363|N|MIN_MAX
+1000472|Type|pneumatique||||SIMPLE
+1000472|Technologie|à simple effet,à tige,||||LIST
+1000472|Autres caractéristiques|compact,ISO 21287,en acier,||||LIST
+1000472|Course||1|25|mm|MIN_MAX
+1000472|Force||59|4,510|N|MIN_MAX
+1000473|Type|pneumatique||||SIMPLE
+1000473|Technologie|double effet||||SIMPLE
+1000473|Autres caractéristiques|compact,ISO 21287,||||LIST
+1000473|Course||5|80|mm|MIN_MAX
+1000473|Force||188|1,178|N|MIN_MAX
+1000474|Type|pneumatique||||SIMPLE
+1000474|Technologie|à simple effet,à double effet,à tige traversante,à piston magnétique,||||LIST
+1000474|Autres caractéristiques|compact,ISO,mini,de guidage,en acier inoxydable,en aluminium anodisé,||||LIST
+1000474|Course||0|1,000|mm|MIN_MAX
+1000474|Force||0|350|N|MIN_MAX
+1000474|Vitesse||0.1|2.5|m/s|MIN_MAX
+1000475|Type|pneumatique||||SIMPLE
+1000475|Technologie|à double effet,à tige traversante,||||LIST
+1000475|Autres caractéristiques|compact,ISO,||||LIST
+1000475|Course||0|500|mm|MIN_MAX
+1000476|Type|pneumatique||||SIMPLE
+1000476|Technologie|à double effet,à tige traversante,à piston magnétique,||||LIST
+1000476|Autres caractéristiques|ISO 15552,tandem,industriel,en acier inoxydable,en aluminium anodisé,de guidage,||||LIST
+1000476|Course||0|2,800|mm|MIN_MAX
+1000476|Force||550|8,425|N|MIN_MAX
+1000476|Vitesse||0.1|3|m/s|MIN_MAX
+1000476|Couple||0|53|Nm|MIN_MAX
+1000477|Type|hydraulique||||SIMPLE
+1000477|Technologie|double effet||||SIMPLE
+1000477|Autres caractéristiques|ISO,à tirants,||||LIST
+1000477|Course||0.9|4.2|m|MIN_MAX
+1000477|Force||10.3|660|kN|MIN_MAX
+1000477|Vitesse||0.1|0.5|m/s|MIN_MAX
+1000477|Couple||10|530|Nm|MIN_MAX
+1000478|Type|hydraulique||||SIMPLE
+1000478|Technologie|double effet||||SIMPLE
+1000478|Autres caractéristiques|ISO,rond,pousseur,||||LIST
+1000478|Force||4|969|kN|MIN_MAX
+1000478|Vitesse||0.1|12|m/s|MIN_MAX
+1000479|Type|hydraulique||||SIMPLE
+1000479|Technologie|double effet||||SIMPLE
+1000479|Autres caractéristiques|compact,de blocage,à détection de position,de bridage,||||LIST
+1000479|Course||0|100|mm|MIN_MAX
+1000479|Force|50.3,80.4,|||kN|LIST
+1000479|Vitesse||0.008|0.1|m/s|MIN_MAX
+1000480|Actionnement|électrique||||SIMPLE
+1000480|Type|à courroie crantée||||SIMPLE
+1000480|Autres caractéristique|à forte charge||||SIMPLE
+1000480|Course|2,400,|||mm|SIMPLE
+1000480|Force|1,300,|||N|SIMPLE
+1000480|Vitesse||1.5|5|m/s|MIN_MAX
+1000481|Type|pneumatique,compact,||||LIST
+1000482|Configuration|horizontale||||SIMPLE
+1000482|Diamètre|20,32,16,25,|||mm|LIST
+1000483|Technologie|à ciseaux||||SIMPLE
+1000483|Actionnement|hydraulique||||SIMPLE
+1000483|Type|stationnaire||||SIMPLE
+1000483|Autres caractéristiques|de précision||||SIMPLE
+1000483|Charge|||||SIMPLE
+1000483|Élévation||25|150|mm|MIN_MAX
+1000484|Technologie|à ciseaux||||SIMPLE
+1000484|Type|stationnaire||||SIMPLE
+1000484|Autres caractéristiques|de précision||||SIMPLE
+1000484|Charge|||||SIMPLE
+1000484|Élévation||0|25|mm|MIN_MAX
+1000485|Fluide|pour eau chaude,pour eaux de refroidissement,pour eau douce,||||LIST
+1000485|Actionnement|électrique||||SIMPLE
+1000485|Technologie|centrifuge||||SIMPLE
+1000485|Domaine|pour applications offshore,pour applications marines,||||LIST
+1000485|Autres caractéristiques|mono-étagée,en ligne,verticale,en fonte,en bronze,de circulation,||||LIST
+1000485|Débit||2|160|m³/h|MIN_MAX
+1000486|Fluide|pour eau chaude,pour eaux de refroidissement,pour eau douce,||||LIST
+1000486|Actionnement|électrique||||SIMPLE
+1000486|Technologie|centrifuge||||SIMPLE
+1000486|Autres caractéristiques|en ligne,verticale,de circulation,||||LIST
+1000486|Débit||2|160|m³/h|MIN_MAX
+1000487|Fluide|pour eaux de refroidissement,pour eau douce,||||LIST
+1000487|Actionnement|électrique||||SIMPLE
+1000487|Amorçage|auto-amorçante||||SIMPLE
+1000487|Technologie|centrifuge||||SIMPLE
+1000487|Domaine|pour applications marines||||SIMPLE
+1000487|Autres caractéristiques|mono-étagée,en ligne,verticale,en acier inoxydable,de recirculation,de transfert,||||LIST
+1000487|Débit||10|1,800|m³/h|MIN_MAX
+1000488|Fluide|à boue,pour eaux usées,pour produits chimiques,pour produits alimentaires,||||LIST
+1000488|Actionnement|électrique||||SIMPLE
+1000488|Technologie|à vortex,centrifuge,||||LIST
+1000488|Autres caractéristiques|de manutention||||SIMPLE
+1000488|Débit||0|340|m³/h|MIN_MAX
+1000489|Fluide|pour solvant,pour résine,||||LIST
+1000489|Technologie|à engrenage interne||||SIMPLE
+1000489|Autres caractéristiques|à entraînement magnétique,de remplacement,en acier inoxydable,en fonte,en acier au carbone,||||LIST
+1000489|Débit||0|90|m³/h|MIN_MAX
+1000489|Pression|||||SIMPLE
+1000490|Fluide|pour produits chimiques||||SIMPLE
+1000490|Actionnement|électrique||||SIMPLE
+1000490|Technologie|à engrenage interne||||SIMPLE
+1000490|Autres caractéristiques|en fonte,de transfert,||||LIST
+1000490|Débit||0|50|m³/h|MIN_MAX
+1000490|Pression||0|16|bar|MIN_MAX
+1000001|Technologie|électromécanique,à piston,||||LIST
+1000001|Applications|pour liquide||||SIMPLE
+1000001|Autres caractéristiques|en ligne,à sortie analogique,||||LIST
+1000002|Technologie|thermique||||SIMPLE
+1000002|Applications|pour liquide,d'air,||||LIST
+1000002|Autres caractéristiques|à sortie analogique,à affichage numérique intégré,||||LIST
+1000003|Applications|pour liquide,de gaz,pour environnement sévère,||||LIST
+1000003|Autres caractéristiques|à insertion||||SIMPLE
+1000004|Technologie|à ultrasons||||SIMPLE
+1000004|Applications|pour liquide||||SIMPLE
+1000004|Autres caractéristiques|non-intrusif||||SIMPLE
+1000005|Technologie|à ultrasons||||SIMPLE
+1000005|Applications|pour liquide||||SIMPLE
+1000006|Technologie|à ultrasons||||SIMPLE
+1000006|Applications|pour liquide||||SIMPLE
+1000007|Applications|pour liquide||||SIMPLE
+1000007|Autres caractéristiques|à sortie numérique||||SIMPLE
+1000008|Technologie|thermique||||SIMPLE
+1000008|Applications|d'air||||SIMPLE
+1000008|Autres caractéristiques|à sortie numérique||||SIMPLE
+1000009|Technologie|thermique,à LED,||||LIST
+1000009|Applications|d'air||||SIMPLE
+1000009|Autres caractéristiques|à sortie numérique||||SIMPLE
+1000010|Fluide|pour liquides,pour gaz,||||LIST
+1000010|Autres caractéristiques|en acier inoxydable,à insertion,numérique,||||LIST
+1000011|Fluide|pour air||||SIMPLE
+1000011|Autres caractéristiques|compact,numérique,||||LIST
+1000012|Technologie|magnéto-inductif||||SIMPLE
+1000012|Fluide|pour liquides||||SIMPLE
+1000012|Autres caractéristiques|à sortie analogique,de précision,avec sortie d'impulsions,avec afficheur LED,en acier inoxydable,en ligne,||||LIST
+1000012|Pression de process|||||SIMPLE
+1000012|Température de process||-10|70|°C|MIN_MAX
+1000012|Débit volumique||25|900|l/min|MIN_MAX
+1000013|Technologie|à vortex||||SIMPLE
+1000013|Fluide|pour eau||||SIMPLE
+1000013|Autres caractéristiques|avec capteur de température,en acier inoxydable,en ligne,numérique,||||LIST
+1000013|Débit volumique||20|100|l/min|MIN_MAX
+1000014|Technologie|à vortex||||SIMPLE
+1000014|Fluide|pour eau||||SIMPLE
+1000014|Autres caractéristiques|à sortie analogique,avec capteur de température,en ligne,||||LIST
+1000014|Débit volumique||10|150|l/min|MIN_MAX
+1000015|Technologie|à ultrasons à temps de transit||||SIMPLE
+1000015|Fluide|pour eau||||SIMPLE
+1000015|Autres caractéristiques|pour canal ouvert,clamp-on,numérique,||||LIST
+1000015|Température de process||-20|70|°C|MIN_MAX
+1000016|Technologie|à flotteur||||SIMPLE
+1000016|Fluide|pour eau,pour huile,||||LIST
+1000016|Autres caractéristiques|sans contact||||SIMPLE
+1000016|Pression de process||0|10|bar|MIN_MAX
+1000016|Température de process||-20|105|°C|MIN_MAX
+1000016|Débit volumique||0|350|l/min|MIN_MAX
+1000017|Type|volumétrique||||SIMPLE
+1000017|Affichage..|numérique||||SIMPLE
+1000017|Technologie|électronique||||SIMPLE
+1000017|Autres caractéristiques|pour montage sur panneau||||SIMPLE
+1000018|Type de pression|relative||||SIMPLE
+1000018|Technologie|capacitif||||SIMPLE
+1000018|Montage|fileté||||SIMPLE
+1000018|Autres caractéristiques|programmable,de process,pour environnement sévère,robuste,avec affichage numérique,||||LIST
+1000018|Température de process||-25|80|°C|MIN_MAX
+1000018|Plage de pression||-1|600|bar|MIN_MAX
+1000019|Type de pression|relative||||SIMPLE
+1000019|Signal de sortie|à sortie analogique||||SIMPLE
+1000019|Montage|à membrane affleurante||||SIMPLE
+1000019|Autres caractéristiques|en acier inoxydable,de précision,haute température,à compensation de température,programmable,de process,pour applications médicales,pour l'industrie agroalimentaire,avec affichage numérique,||||LIST
+1000019|Température de process||-25|125|°C|MIN_MAX
+1000019|Plage de pression||-1|25|bar|MIN_MAX
+1000020|Type de pression|relative||||SIMPLE
+1000020|Technologie|à membrane||||SIMPLE
+1000020|Signal de sortie|à sortie analogique||||SIMPLE
+1000020|Autres caractéristiques|en acier inoxydable,haute température,de process,pour applications médicales,pour l'industrie agroalimentaire,avec affichage numérique,||||LIST
+1000020|Température de process||-25|200|°C|MIN_MAX
+1000020|Plage de pression||-1|25|bar|MIN_MAX
+1000021|Type de pression|différentielle||||SIMPLE
+1000021|Signal de sortie|numérique||||SIMPLE
+1000021|Plage de pression||0|100,000|Pa|MIN_MAX
+1000022|Type de pression|différentielle||||SIMPLE
+1000022|Signal de sortie|numérique||||SIMPLE
+1000022|Plage de pression||0|5,000|Pa|MIN_MAX
+1000023|Type de pression|de vide||||SIMPLE
+1000023|Technologie|piézorésistif||||SIMPLE
+1000023|Signal de sortie|avec interface IO-Link||||SIMPLE
+1000023|Température de process||0|50|°C|MIN_MAX
+1000023|Plage de pression||0|10|bar|MIN_MAX
+1000024|Type de pression|relative||||SIMPLE
+1000024|Technologie|piézorésistif||||SIMPLE
+1000024|Signal de sortie|numérique||||SIMPLE
+1000024|Montage|fileté||||SIMPLE
+1000024|Autres caractéristiques|robuste,IP65,||||LIST
+1000024|Température de process||-20|85|°C|MIN_MAX
+1000024|Plage de pression||0|100|bar|MIN_MAX
+1000025|Type de pression|différentielle||||SIMPLE
+1000025|Technologie|piézorésistif||||SIMPLE
+1000025|Signal de sortie|à sortie numérique||||SIMPLE
+1000025|Autres caractéristiques|avec afficheur LCD,ATEX,IP67,||||LIST
+1000025|Température de process||0|50|°C|MIN_MAX
+1000025|Plage de pression||0|10|bar|MIN_MAX
+1000026|Température de process||-5|50|°C|MIN_MAX
+1000026|Plage de pression||2|8|bar|MIN_MAX
+1000027|Type de pression|relative||||SIMPLE
+1000027|Signal de sortie|analogique||||SIMPLE
+1000027|Montage|fileté||||SIMPLE
+1000027|Autres caractéristiques|compact,robuste,||||LIST
+1000027|Température de process||-40|125|°C|MIN_MAX
+1000027|Plage de pression||-1|600|bar|MIN_MAX
+1000028|Type de pression|relative||||SIMPLE
+1000028|Signal de sortie|analogique||||SIMPLE
+1000028|Montage|fileté||||SIMPLE
+1000028|Autres caractéristiques|compact,de précision,robuste,||||LIST
+1000028|Température de process||-25|90|°C|MIN_MAX
+1000028|Plage de pression||0|600|bar|MIN_MAX
+1000029|Type de pression|relative||||SIMPLE
+1000029|Technologie|à couche mince||||SIMPLE
+1000029|Signal de sortie|à sortie analogique||||SIMPLE
+1000029|Autres caractéristiques|compact,avec affichage,programmable,CEM,robuste,||||LIST
+1000029|Température de process||-40|90|°C|MIN_MAX
+1000029|Plage de pression||-1|400|bar|MIN_MAX
+1000030|Type de pression|relative||||SIMPLE
+1000030|Technologie|piézorésistif||||SIMPLE
+1000030|Signal de sortie|analogique||||SIMPLE
+1000030|Autres caractéristiques|à deux fils,programmable,||||LIST
+1000031|Type de pression|relative||||SIMPLE
+1000031|Technologie|piézorésistif||||SIMPLE
+1000031|Signal de sortie|Modbus||||SIMPLE
+1000031|Autres caractéristiques|programmable||||SIMPLE
+1000032|Type de pression|relative||||SIMPLE
+1000032|Signal de sortie|analogique||||SIMPLE
+1000033|Type de pression|relative||||SIMPLE
+1000033|Technologie|piézorésistif||||SIMPLE
+1000033|Signal de sortie|analogique||||SIMPLE
+1000033|Montage|montage mural||||SIMPLE
+1000033|Autres caractéristiques|compact||||SIMPLE
+1000033|Température de process||0|50|°C|MIN_MAX
+1000033|Plage de pression||0|10|bar|MIN_MAX
+1000034|Technologie|différentiel||||SIMPLE
+1000034|Autres caractéristiques|pour pression relative||||SIMPLE
+1000034|Température de process||-25|80|°C|MIN_MAX
+1000034|Plage de pression||0|250|bar|MIN_MAX
+1000035|Fluide|pour air||||SIMPLE
+1000035|Technologie|différentiel||||SIMPLE
+1000035|Autres caractéristiques|ATEX||||SIMPLE
+1000035|Plage de pression||20|4,000|Pa|MIN_MAX
+1000281|Type|de type 2||||SIMPLE
+1000281|Autres caractéristiques|sur rail DIN||||SIMPLE
+1000281|Applications|pour circuit de mesure et de contrôle||||SIMPLE
+1000281|Tension||20|31|V|MIN_MAX
+1000282|Type|de type 1,de type 2,de type 3,||||LIST
+1000282|Autres caractéristiques|à varistance,triphasé,monophasé,||||LIST
+1000282|Courant|100,000,|||A|SIMPLE
+1000282|Tension|230,400,|||V|LIST
+1000283|Type|de type 1||||SIMPLE
+1000283|Autres caractéristiques|sur rail DIN||||SIMPLE
+1000283|Tension|400,230,690,|||V|LIST
+1000284|Type|de type 1,de type 2,de type 3,||||LIST
+1000284|Autres caractéristiques|à varistance,triphasé,monophasé,||||LIST
+1000284|Courant|100,000,|||A|SIMPLE
+1000284|Tension|230,400,|||V|LIST
+1000285|Type|de type 2||||SIMPLE
+1000285|Autres caractéristiques|sur rail DIN||||SIMPLE
+1000285|Applications|pour circuit de mesure et de contrôle||||SIMPLE
+1000285|Tension||20|31|V|MIN_MAX
+1000286|Type|de type 1,de type 2,de type 3,||||LIST
+1000286|Autres caractéristiques|à varistance,triphasé,monophasé,||||LIST
+1000286|Courant|100,000,|||A|SIMPLE
+1000286|Tension|230,400,|||V|LIST
+1000287|Type|de type 3||||SIMPLE
+1000287|Autres caractéristiques|compact,sur rail DIN,||||LIST
+1000287|Tension|48,12,24,120,230,|||V|LIST
+1000288|Forme|compact||||SIMPLE
+1000288|Autres caractéristiques|DC||||SIMPLE
+1000288|Ampères||1.6|8|A|MIN_MAX
+1000288|VDC|24|||V|SIMPLE
+1000289|Type|de signal||||SIMPLE
+1000289|Spécification électrique|de courant||||SIMPLE
+1000289|Autres caractéristiques|à sécurité intrinsèque,ATEX,||||LIST
+1000297|Type de câble|à fibre optique,SC,||||LIST
+1000297|Structure|duplex||||SIMPLE
+1000298|Type de câble|pour bus de terrain||||SIMPLE
+1000298|Autres caractéristiques|rectangulaire||||SIMPLE
+1000299|Applications|pour capteur / actionneur||||SIMPLE
+1000299|Autres caractéristiques|de puissance||||SIMPLE
+1000300|Matériau|en plastique||||SIMPLE
+1000300|Autres caractéristiques|fileté||||SIMPLE
+1000301|Matériau|en laiton nickelé,en acier inoxydable,||||LIST
+1000301|Niveau de protection|blindé||||SIMPLE
+1000301|Autres caractéristiques|pour câble non-armé||||SIMPLE
+1000301|Diamètre du cable||18|79|mm|MIN_MAX
+1000301|Température de service||-52|110|°C|MIN_MAX
+1000302|Matériau|en laiton nickelé,en acier inoxydable,||||LIST
+1000302|Niveau de protection|IP66||||SIMPLE
+1000302|Autres caractéristiques|pour câble armé||||SIMPLE
+1000302|Diamètre du cable||18|79|mm|MIN_MAX
+1000302|Température de service||-52|110|°C|MIN_MAX
+1000303|Matériau|en plastique,en laiton nickelé,en acier inoxydable,||||LIST
+1000303|Niveau de protection|IP69K||||SIMPLE
+1000303|Autres caractéristiques|pour les conditions extrêmes||||SIMPLE
+1000303|Température de service||-60|180|°C|MIN_MAX
+1000304|Applications|pour câbles pré-assemblés||||SIMPLE
+1000305|Applications produit|pour câble||||SIMPLE
+1000306|Type|de signal||||SIMPLE
+1000306|Spécification électrique|de courant||||SIMPLE
+1000306|Autres caractéristiques|à sécurité intrinsèque,ATEX,||||LIST
+1000307|Type|de données||||SIMPLE
+1000307|Format|Ethernet,USB,RS-232,||||LIST
+1000308|Matériau|en métal||||SIMPLE
+1000308|Autres caractéristiques|de mise à la terre,à blindage CEM,||||LIST
+1000308|Diamètre||2|24|mm|MIN_MAX
+1000309|Type|d'identification||||SIMPLE
+1000309|Autres caractéristiques|pour marquage de câble||||SIMPLE
+1000310|Type|de données||||SIMPLE
+1000310|Forme|droit,à angle droit,||||LIST
+1000310|Type de connexion|femelle||||SIMPLE
+1000310|Taille|M12,M8,||||LIST
+1000310|Autre caractéristique|durci||||SIMPLE
+1000310|Applications produit**|non spécifié||||SIMPLE
+1000311|Type|de données||||SIMPLE
+1000311|Forme|droit,à angle droit,||||LIST
+1000311|Type de connexion|prise,à baïonnette,||||LIST
+1000311|Taille|M12,M8,M23,M16,||||LIST
+1000312|Type|de données||||SIMPLE
+1000312|Spécification électrique|multipolaire||||SIMPLE
+1000312|Matériau|en polyamide,en métal,||||LIST
+1000312|Autre caractéristique|étanche||||SIMPLE
+1000312|Domaine|industriel,pour la distribution électrique,pour l'industrie agroalimentaire,pour l'industrie alimentaire et de la boisson,||||LIST
+1000312|Courant|16,25,|||A|LIST
+1000312|Tension|500|||V|SIMPLE
+1000313|Type|de données||||SIMPLE
+1000313|Type de connexion|prise||||SIMPLE
+1000313|Spécification électrique|multipolaire||||SIMPLE
+1000313|Matériau|en métal||||SIMPLE
+1000313|Autre caractéristique|6 à 20 contacts,IP54,||||LIST
+1000313|Applications produit**|non spécifié||||SIMPLE
+1000313|Domaine|industriel||||SIMPLE
+1000313|Courant|30|||A|SIMPLE
+1000313|Tension|415|||V|SIMPLE
+1000314|Type|de données,d'alimentation électrique,||||LIST
+1000314|Spécification électrique|multipolaire||||SIMPLE
+1000314|Matériau|en polyamide,en métal,||||LIST
+1000314|Autre caractéristique|étanche,6 à 20 contacts,||||LIST
+1000314|Applications produit**|non spécifié||||SIMPLE
+1000314|Domaine|industriel||||SIMPLE
+1000314|Courant|10|||A|SIMPLE
+1000314|Tension|500|||V|SIMPLE
+1000315|Type|de données,d'alimentation électrique,||||LIST
+1000315|.format|USB||||SIMPLE
+1000315|Forme|rectangulaire||||SIMPLE
+1000315|Type de connexion|enfichable||||SIMPLE
+1000315|Autre caractéristique|précâblé||||SIMPLE
+1000315|Applications produit**|non spécifié||||SIMPLE
+1000315|Domaine|d'automatisation,pour la distribution électrique,pour bâtiments,||||LIST
+1000315|Courant|25,76,35,3,16,|||A|LIST
+1000315|Tension|24,50,400,|||V|LIST

@@ -1,0 +1,321 @@
+product_id|label|value|value_min|value_max|unit|type
+1000001|Applications|pour liquide||||SIMPLE
+1000001|Autres caractéristiques|à sortie numérique||||SIMPLE
+1000002|Technologie|thermique||||SIMPLE
+1000002|Applications|d'air||||SIMPLE
+1000002|Autres caractéristiques|à sortie numérique||||SIMPLE
+1000003|Technologie|thermique||||SIMPLE
+1000003|Applications|d'air||||SIMPLE
+1000003|Autres caractéristiques|à sortie numérique||||SIMPLE
+1000004|Applications|d'air||||SIMPLE
+1000004|Autres caractéristiques|à sortie numérique||||SIMPLE
+1000005|Technologie|à flotteur||||SIMPLE
+1000005|Fluide|pour eau,pour huile,||||LIST
+1000005|Autres caractéristiques|sans contact||||SIMPLE
+1000005|Pression de process||0|10|bar|MIN_MAX
+1000005|Température de process||-20|105|°C|MIN_MAX
+1000005|Débit volumique||0|350|l/min|MIN_MAX
+1000006|Type|volumétrique||||SIMPLE
+1000006|Affichage|numérique||||SIMPLE
+1000006|Technologie|électronique||||SIMPLE
+1000006|Autres caractéristiques|pour montage sur panneau||||SIMPLE
+1000007|Type de pression|relative,à vide,||||LIST
+1000007|Technologie|piézorésistif||||SIMPLE
+1000007|Signal de sortie|numérique||||SIMPLE
+1000007|Température de process||0|50|°C|MIN_MAX
+1000007|Plage de pression||0|10|bar|MIN_MAX
+1000008|Type de pression|relative||||SIMPLE
+1000008|Technologie|piézorésistif||||SIMPLE
+1000008|Signal de sortie|numérique||||SIMPLE
+1000008|Montage|fileté||||SIMPLE
+1000008|Autres caractéristiques|robuste,IP65,||||LIST
+1000008|Température de process||-20|85|°C|MIN_MAX
+1000008|Plage de pression||0|100|bar|MIN_MAX
+1000009|Type de pression|relative,différentielle,||||LIST
+1000009|Technologie|piézorésistif||||SIMPLE
+1000009|Signal de sortie|à sortie numérique||||SIMPLE
+1000009|Autres caractéristiques|ATEX||||SIMPLE
+1000009|Température de process||0|50|°C|MIN_MAX
+1000009|Plage de pression||0|10|bar|MIN_MAX
+1000010|Température de process||-5|50|°C|MIN_MAX
+1000010|Plage de pression||2|8|bar|MIN_MAX
+1000011|Type de pression|relative||||SIMPLE
+1000011|Technologie|piézorésistif||||SIMPLE
+1000011|Signal de sortie|analogique||||SIMPLE
+1000011|Autres caractéristiques|compact||||SIMPLE
+1000011|Température de process||0|50|°C|MIN_MAX
+1000011|Plage de pression||0|10|bar|MIN_MAX
+1000012|Fluide|pour air||||SIMPLE
+1000012|Technologie|mécanique||||SIMPLE
+1000012|Autres caractéristiques|en inox,IP65,||||LIST
+1000012|Température de process||-5|50|°C|MIN_MAX
+1000012|Plage de pression||0|10|bar|MIN_MAX
+1000013|Fluide|pour air||||SIMPLE
+1000013|Technologie|électromécanique||||SIMPLE
+1000013|Autres caractéristiques|basse pression||||SIMPLE
+1000013|Température de process||-10|70|°C|MIN_MAX
+1000013|Plage de pression||-0.3|8|Pa|MIN_MAX
+1000014|Fluide|pour air||||SIMPLE
+1000014|Technologie|électromécanique||||SIMPLE
+1000014|Applications|industriel||||SIMPLE
+1000014|Autres caractéristiques|ATEX,IP54,||||LIST
+1000014|Température de process||-10|70|°C|MIN_MAX
+1000014|Plage de pression||-0.3|8|Pa|MIN_MAX
+1000015|Affichage|analogique||||SIMPLE
+1000015|Technologie|à tube de Bourdon||||SIMPLE
+1000015|Applications|pour gaz,de process,||||LIST
+1000015|Autres caractéristiques|en laiton||||SIMPLE
+1000015|Pression||0|16|bar|MIN_MAX
+1000016|Affichage|analogique||||SIMPLE
+1000016|Technologie|à tube de Bourdon||||SIMPLE
+1000016|Applications|pour gaz neutre||||SIMPLE
+1000016|Autres caractéristiques|pour montage sur panneau,de précision,||||LIST
+1000016|Pression||0|25|bar|MIN_MAX
+1000017|Affichage|analogique||||SIMPLE
+1000017|Technologie|à tube de Bourdon||||SIMPLE
+1000017|Applications|pour air,pour le vide,||||LIST
+1000017|Autres caractéristiques|en laiton||||SIMPLE
+1000017|Pression||0|9|bar|MIN_MAX
+1000018|Technologie|magnétostrictif||||SIMPLE
+1000018|Media|pour liquides||||SIMPLE
+1000018|Applications|pour environnement sévère||||SIMPLE
+1000018|Plage de niveau||17.5|53|mm|MIN_MAX
+1000019|Technologie|à résistance de platine||||SIMPLE
+1000019|Température||-30|60|°C|MIN_MAX
+1000020|Technologie|CTN||||SIMPLE
+1000020|Applications|pour HVAC||||SIMPLE
+1000020|Température||-25|200|°C|MIN_MAX
+1000021|Technologie|Pt100,à thermocouple,||||LIST
+1000021|Autres caractéristiques|en inox||||SIMPLE
+1000021|Température|1,100,|||°C|SIMPLE
+1000022|Technologie|Pt100,à thermocouple,||||LIST
+1000022|Autres caractéristiques|en inox||||SIMPLE
+1000022|Température|1,100,|||°C|SIMPLE
+1000023|Type |réglable||||SIMPLE
+1000023|Température||10|35|°C|MIN_MAX
+1000024|Type |électronique||||SIMPLE
+1000024|Autres caractéristiques|compact,sur rail DIN,analogique,||||LIST
+1000024|Température||-20|60|°C|MIN_MAX
+1000025|Type|pour liquides||||SIMPLE
+1000025|Montage|en ligne,à visser,||||LIST
+1000025|Applications|pour systèmes hydrauliques||||SIMPLE
+1000025|Autres caractéristiques|haute précision||||SIMPLE
+1000026|Type|relative||||SIMPLE
+1000026|Montage|mural||||SIMPLE
+1000026|Autres caractéristiques|avec mesure de température||||SIMPLE
+1000027|Type|relative||||SIMPLE
+1000027|Montage|mural||||SIMPLE
+1000028|Technologie|à coupelles||||SIMPLE
+1000028|Autres caractéristiques|hygromètre||||SIMPLE
+1000028|Vitesse de l'air||2|25|m/s|MIN_MAX
+1000030|Type|linéaire,rotatif,||||LIST
+1000030|Autres caractéristiques|ATEX||||SIMPLE
+1000030|Applications|pour l'industrie,pour vanne,||||LIST
+1000031|Type|rotatif||||SIMPLE
+1000031|Contact / sans contact|sans contact||||SIMPLE
+1000031|Technologie|magnétique||||SIMPLE
+1000031|Signal de sortie|analogique||||SIMPLE
+1000031|Autres caractéristiques|IP65,IP68,||||LIST
+1000031|Fréquence de mesure|125|||Hz|SIMPLE
+1000032|Type|linéaire||||SIMPLE
+1000032|Contact / sans contact|sans contact||||SIMPLE
+1000032|Technologie|magnétique||||SIMPLE
+1000032|Signal de sortie|analogique||||SIMPLE
+1000032|Autres caractéristiques|IP65,IP68,||||LIST
+1000032|Applications|pour vérin||||SIMPLE
+1000032|Plage de mesure||50|160|mm|MIN_MAX
+1000032|Fréquence de mesure|1|||kHz|SIMPLE
+1000033|Type|linéaire||||SIMPLE
+1000033|Contact / sans contact|sans contact||||SIMPLE
+1000033|Technologie|magnétique||||SIMPLE
+1000033|Signal de sortie|analogique||||SIMPLE
+1000033|Autres caractéristiques|IP65,IP67,||||LIST
+1000033|Applications|pour pince de préhension,pour vérin,||||LIST
+1000033|Plage de mesure||48|52|mm|MIN_MAX
+1000034|Contact / sans contact|sans contact||||SIMPLE
+1000034|Technologie|magnétique||||SIMPLE
+1000034|Applications|pour pince de préhension||||SIMPLE
+1000034|Plage de mesure|||||SIMPLE
+1000035|Technologie|inductif||||SIMPLE
+1000035|Forme|cylindrique||||SIMPLE
+1000035|Signal de sortie|analogique||||SIMPLE
+1000035|Plage de mesure||0|2|mm|MIN_MAX
+1000281|Domaine|industriel||||SIMPLE
+1000281|Autres caractéristiques|à membrane||||SIMPLE
+1000281|Pression de sortie||4|13|bar|MIN_MAX
+1000282|Caractéristiques du gaz|pur||||SIMPLE
+1000282|Domaine|de laboratoire||||SIMPLE
+1000282|Autres caractéristiques|à membrane||||SIMPLE
+1000282|Pression de sortie||5|13|bar|MIN_MAX
+1000283|Caractéristiques du gaz|ultra pur||||SIMPLE
+1000283|Autres caractéristiques|PSA,pour ELSD,pour LC/MS,||||LIST
+1000283|Débit||0|228|l/min|MIN_MAX
+1000283|Pression de sortie||7|10|bar|MIN_MAX
+1000284|Autres caractéristiques|pour chromatographie en phase gazeuse||||SIMPLE
+1000284|Débit|0.51,0.26,0.1,0.165,|||l/min|LIST
+1000284|Pression de sortie||0.7|6.9|bar|MIN_MAX
+1000285|Produit traité|pour flexible hydraulique||||SIMPLE
+1000285|Mode de fonctionnement|semi-automatique||||SIMPLE
+1000285|Autres caractéristiques|portable||||SIMPLE
+1000286|Mode de fonctionnement|manuelle||||SIMPLE
+1000286|Application|pour raccord||||SIMPLE
+1000287|Technique|électrochimique||||SIMPLE
+1000287|Applications|pour métal,pour matières plastiques,pour étiquettes,pour aluminium,||||LIST
+1000287|Autres caractéristiques|A4||||SIMPLE
+1000288|Technologie|à air sec||||SIMPLE
+1000288|Batch / continu|batch||||SIMPLE
+1000288|Applications|d'armoire électrique||||SIMPLE
+1000289|Technologie|par adsorption||||SIMPLE
+1000289|Autres caractéristiques|compact,modulaire,||||LIST
+1000290|Technologie|sous vide||||SIMPLE
+1000290|Applications|d'air||||SIMPLE
+1000291|Technologie|par réfrigération||||SIMPLE
+1000291|Capacité||12|10,800|m³/h|MIN_MAX
+1000291|Pression|50,14,|||bar|LIST
+1000292|Technologie|par adsorption sans chaleur||||SIMPLE
+1000292|Autres caractéristiques|compact||||SIMPLE
+1000292|Capacité||8|86|m³/h|MIN_MAX
+1000292|Pression|7,16,9,5,|||bar|LIST
+1000293|Technologie|par adsorption sans chaleur||||SIMPLE
+1000293|Autres caractéristiques|chaleur interne||||SIMPLE
+1000293|Capacité||6.81|102|m³/h|MIN_MAX
+1000293|Pression||4|13|bar|MIN_MAX
+1000294|Technologie|par adsorption||||SIMPLE
+1000294|Autres caractéristiques|compact||||SIMPLE
+1000294|Capacité||85|567|l/min|MIN_MAX
+1000294|Pression||4|12|bar|MIN_MAX
+1000295|Technologie|à membrane||||SIMPLE
+1000295|Capacité||50|400|l/min|MIN_MAX
+1000295|Pression||3|12.5|bar|MIN_MAX
+1000296|Technologie|à membrane||||SIMPLE
+1000296|Capacité||300|1,000|l/min|MIN_MAX
+1000296|Pression||3|12.5|bar|MIN_MAX
+1000297|Technologie|par adsorption à récupération de chaleur de compression||||SIMPLE
+1000297|Capacité||40|2,000|l/min|MIN_MAX
+1000297|Pression||4|16|bar|MIN_MAX
+1000299|Matière|d'air||||SIMPLE
+1000300|Matière|d'air||||SIMPLE
+1000301|Matière|d'air||||SIMPLE
+1000302|Matière|d'air||||SIMPLE
+1000303|Matière|d'air||||SIMPLE
+1000304|Matière|d'eau||||SIMPLE
+1000304|Autres caractéristiques|à condensation par eau||||SIMPLE
+1000304|Puissance||2,500|757,000|W|MIN_MAX
+1000305|Matière|d'huile||||SIMPLE
+1000305|Applications|pour applications hydrauliques||||SIMPLE
+1000305|Puissance||2,000|24,000|W|MIN_MAX
+1000306|Type|ventilé||||SIMPLE
+1000307|Type|PTC||||SIMPLE
+1000307|Autres caractéristiques|sans ventilateur,pour armoire électrique,||||LIST
+1000307|Puissance|100,50,25,150,|||kW|LIST
+1000308|Type|de moteur||||SIMPLE
+1000308|Spécification électrique|monophasé||||SIMPLE
+1000308|Autres caractéristiques|pour compresseur||||SIMPLE
+1000309|Technologie|à ciseaux||||SIMPLE
+1000309|Actionnement|hydraulique||||SIMPLE
+1000309|Autres caractéristiques|de précision||||SIMPLE
+1000309|Charge|||||SIMPLE
+1000309|Élévation||25|150|mm|MIN_MAX
+1000310|Technologie|à ciseaux||||SIMPLE
+1000310|Autres caractéristiques|de précision||||SIMPLE
+1000310|Charge|||||SIMPLE
+1000310|Élévation||0|25|mm|MIN_MAX
+1000311|Géométrie|ovale||||SIMPLE
+1000311|Autres caractéristiques|pour la préhension||||SIMPLE
+1000312|Géométrie|rond,à soufflet,||||LIST
+1000312|Autres caractéristiques|pour la préhension||||SIMPLE
+1000312|Diamètre||2|200|mm|MIN_MAX
+1000313|Géométrie|rond,à soufflet,||||LIST
+1000313|Autres caractéristiques|pour la préhension||||SIMPLE
+1000313|Diamètre||2|200|mm|MIN_MAX
+1000314|Géométrie|rond,à soufflet,||||LIST
+1000314|Autres caractéristiques|pour la préhension||||SIMPLE
+1000314|Diamètre||1|125|mm|MIN_MAX
+1000315|Autres caractéristiques|miniature,électrique,||||LIST
+1000317|Type de câble|pour bus de terrain||||SIMPLE
+1000317|Autres caractéristiques|rectangulaire||||SIMPLE
+1000318|Type de câble|de bus||||SIMPLE
+1000320|Fluide|à liquide,à gaz,||||LIST
+1000320|Élément filtrant|à cartouche||||SIMPLE
+1000320|Autre caractéristique|pour applications biopharmaceutiques||||SIMPLE
+1000320|Taille de filtration||0.1|100|µm|MIN_MAX
+1000321|Fluide|à gaz||||SIMPLE
+1000321|Élément filtrant|à cartouche||||SIMPLE
+1000321|Autre caractéristique|haute performance,stérile,||||LIST
+1000321|Pression de fonctionnement|||||SIMPLE
+1000321|Débit||0.6|49.5|l/min|MIN_MAX
+1000322|Fluide|à air,à eau,||||LIST
+1000322|Élément filtrant|à cartouche||||SIMPLE
+1000322|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000322|Taille de filtration||1|450|µm|MIN_MAX
+1000322|Pression de fonctionnement|134,120,79,69,,943.506,|||psi)|LIST
+1000323|Fluide|à air||||SIMPLE
+1000323|Autre caractéristique|écologique,à particules,||||LIST
+1000323|Pression de fonctionnement|||||SIMPLE
+1000323|Débit||0|2,000|l/min|MIN_MAX
+1000324|Fluide|à air||||SIMPLE
+1000324|Autre caractéristique|à grande capacité,à visser,à particules,||||LIST
+1000324|Taille de filtration|3,5,|||µm|LIST
+1000324|Pression de fonctionnement|0.35,0.7,|||bar|LIST
+1000324|Débit|3,000,|||l/min|SIMPLE
+1000325|Fluide|à air||||SIMPLE
+1000325|Élément filtrant|à panier simple||||SIMPLE
+1000325|Autre caractéristique|de grande capacité,haute performance,pour moteur thermique,coalesceur,à particules,||||LIST
+1000325|Débit||0|1,416|l/min|MIN_MAX
+1000326|Fluide|à air||||SIMPLE
+1000326|Élément filtrant|à cartouche||||SIMPLE
+1000326|Autre caractéristique|jetable,industriel,pour moteur marin,pour moteur,||||LIST
+1000327|Media|à air||||SIMPLE
+1000327|Type de filtration|au charbon actif||||SIMPLE
+1000327|Applications|à usage général||||SIMPLE
+1000327|Domaine|industrielle||||SIMPLE
+1000327|Taille des particules||0.01|40|µm|MIN_MAX
+1000328|Media|pour solvant||||SIMPLE
+1000328|Type de filtration|pour filtration fine||||SIMPLE
+1000328|Matériau|en métal||||SIMPLE
+1000329|Installation|pour armoire électrique||||SIMPLE
+1000329|Configuration|axial||||SIMPLE
+1000329|Fonction|d'évacuation||||SIMPLE
+1000329|Autres caractéristiques|à filtre,à bruit réduit,||||LIST
+1000329|Débit d'air||14|470|m³/h|MIN_MAX
+1000330|Fluide|à air,à eau,||||LIST
+1000330|Élément filtrant|à cartouche||||SIMPLE
+1000330|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000330|Taille de filtration||1|450|µm|MIN_MAX
+1000330|Pression de fonctionnement|134,120,79,69,,943.506,|||psi)|LIST
+1000334|Élément détecté|d'intrusion,PIR,||||LIST
+1000336|Type|de choc||||SIMPLE
+1000336|Technologie|mécanique||||SIMPLE
+1000336|Applications|pour machine||||SIMPLE
+1000336|Force||3|37|N|MIN_MAX
+1000336|Course||0|76|mm|MIN_MAX
+1000337|Type|de choc||||SIMPLE
+1000337|Technologie|mécanique||||SIMPLE
+1000337|Autres caractéristiques|réglable||||SIMPLE
+1000337|Force|3,000,|||N|LIST
+1000338|Type|de choc||||SIMPLE
+1000338|Technologie|mécanique||||SIMPLE
+1000338|Force|4,000,|||N|LIST
+1000339|Type|de choc||||SIMPLE
+1000339|Technologie|mécanique||||SIMPLE
+1000339|Force||0.9|3,000|N|MIN_MAX
+1000340|Type|de choc||||SIMPLE
+1000340|Technologie|mécanique||||SIMPLE
+1000340|Matériau|en inox||||SIMPLE
+1000340|Force||1.5|500|N|MIN_MAX
+1000341|Type|de choc||||SIMPLE
+1000341|Technologie|mécanique||||SIMPLE
+1000341|Course||2|5|mm|MIN_MAX
+1000342|Fonction|de sécurité||||SIMPLE
+1000342|Type de faisceaux|multifaisceau||||SIMPLE
+1000342|Construction|type barrage||||SIMPLE
+1000342|Portée||0|4|m|MIN_MAX
+1000343|Fonction|de sécurité||||SIMPLE
+1000343|Type de faisceaux|multifaisceau||||SIMPLE
+1000343|Construction|type barrage||||SIMPLE
+1000343|Niveau de protection|IP65||||SIMPLE
+1000343|Autres caractéristiques|protection des doigts,avec inhibition,||||LIST
+1000344|Application|d'incendie||||SIMPLE
+1000344|Élément détecté|de fumée||||SIMPLE
+1000345|Application|d'incendie||||SIMPLE
+1000345|Élément détecté|de fumée||||SIMPLE

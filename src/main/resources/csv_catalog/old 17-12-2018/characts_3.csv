@@ -1,0 +1,87 @@
+product_id|label|value|value_min|value_max|unit|type
+1000056|Élément détecté|de mouvement,infrarouge passif,||||LIST
+1000056|Autres caractéristiques|de plafond||||SIMPLE
+1000058|Élément détecté|de particules||||SIMPLE
+1000058|Autres caractéristiques|pour fluide hydraulique,pour applications hydrauliques,||||LIST
+1000059|Élément détecté|de particules||||SIMPLE
+1000059|Autres caractéristiques|robuste,pour liquide,||||LIST
+1000061|Élément détecté|de mouvement||||SIMPLE
+1000061|Technologie|radar||||SIMPLE
+1000062|Élément détecté|de mouvement||||SIMPLE
+1000062|Technologie|radar||||SIMPLE
+1000063|Élément détecté|de mouvement,infrarouge passif,||||LIST
+1000063|Autres caractéristiques|mural||||SIMPLE
+1000064|Élément détecté|de mouvement,infrarouge passif,||||LIST
+1000064|Autres caractéristiques|de plafond||||SIMPLE
+1000066|Type|numérique||||SIMPLE
+1000066|Forme|sur rail DIN||||SIMPLE
+1000066|Applications|industriel||||SIMPLE
+1000067|Objet de la mesure|pour réseau électrique||||SIMPLE
+1000067|Mesurande|de puissance||||SIMPLE
+1000067|Configuration|à intégrer||||SIMPLE
+1000068|Type|monophasé||||SIMPLE
+1000068|Montage|sur rail DIN||||SIMPLE
+1000068|Courant||1|250|A|MIN_MAX
+1000068|Tension||120|400|V|MIN_MAX
+1000069|Objet de la mesure|pour réseau électrique||||SIMPLE
+1000069|Mesurande|de qualité d'énergie||||SIMPLE
+1000069|Configuration|à intégrer||||SIMPLE
+1000070|Objet de la mesure|pour réseau électrique||||SIMPLE
+1000070|Mesurande|de puissance||||SIMPLE
+1000070|Configuration|à intégrer||||SIMPLE
+1000353|Matière|d'air||||SIMPLE
+1000354|Matière|d'air||||SIMPLE
+1000355|Matière|d'air||||SIMPLE
+1000356|Matière|d'air||||SIMPLE
+1000357|Matière|d'air||||SIMPLE
+1000358|Technologie d'éclairage|halogène||||SIMPLE
+1000358|Autres caractéristiques|avec détecteur de mouvement||||SIMPLE
+1000358|Puissance|150|||W|SIMPLE
+1000071|Technologie|à fibre optique||||SIMPLE
+1000071|Montage|à pince||||SIMPLE
+1000071|Spécification électrique|DC||||SIMPLE
+1000072|Type|monophasé||||SIMPLE
+1000072|Montage|sur rail DIN||||SIMPLE
+1000072|Courant||1|250|A|MIN_MAX
+1000072|Tension||120|400|V|MIN_MAX
+1000073|Technologie|à transformateur||||SIMPLE
+1000073|Montage|sur rail DIN||||SIMPLE
+1000073|Spécification électrique|AC,DC,||||LIST
+1000073|Autres caractéristiques|de supervision||||SIMPLE
+1000073|Courant||0|100|A|MIN_MAX
+1000074|Élément détecté|de particules||||SIMPLE
+1000074|Autres caractéristiques|pour fluide hydraulique,pour applications hydrauliques,||||LIST
+1000075|Élément détecté|de particules||||SIMPLE
+1000075|Autres caractéristiques|robuste,pour liquide,||||LIST
+1000077|Élément détecté|de mouvement||||SIMPLE
+1000077|Technologie|radar||||SIMPLE
+1000078|Élément détecté|de mouvement||||SIMPLE
+1000078|Technologie|radar||||SIMPLE
+1000079|Fluide|pour ammoniac,pour GPL,||||LIST
+1000079|Actionnement|électrique||||SIMPLE
+1000079|Amorçage|auto-amorçante||||SIMPLE
+1000079|Technologie|à palettes||||SIMPLE
+1000079|Autres caractéristiques|de remplissage,de transfert,||||LIST
+1000079|Débit|49.2,22.7,37.9,30.3,|||l/min|LIST
+1000079|Pression||0|6.8|bar|MIN_MAX
+1000080|Fluide|pour produits chimiques||||SIMPLE
+1000080|Actionnement|électrique||||SIMPLE
+1000080|Amorçage|auto-amorçante||||SIMPLE
+1000080|Technologie|à palettes||||SIMPLE
+1000080|Autres caractéristiques|de process||||SIMPLE
+1000080|Débit||23|379|l/min|MIN_MAX
+1000083|Technologie|infrarouge||||SIMPLE
+1000084|Autres caractéristiques|compact||||SIMPLE
+1000085|Type|couleur||||SIMPLE
+1000085|Autres caractéristiques|compact||||SIMPLE
+1000086|Format|sur rail DIN||||SIMPLE
+1000086|Spécifications|configurable||||SIMPLE
+1000087|Type de signal|régulateur de température||||SIMPLE
+1000087|Autres caractéristiques|sur rail DIN||||SIMPLE
+1000088|Type de signal|impulsion||||SIMPLE
+1000088|Fonction combinée|transmetteur||||SIMPLE
+1000088|Autres caractéristiques|sur rail DIN||||SIMPLE
+1000089|Grandeur mesurée|de température,de pression,||||LIST
+1000089|Connectique|USB,sans fil,||||LIST
+1000089|Affichage|avec écran||||SIMPLE
+1000089|Autres caractéristiques|alimenté par batterie||||SIMPLE

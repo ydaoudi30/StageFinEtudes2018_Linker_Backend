@@ -1,0 +1,315 @@
+product_id|label|value|value_min|value_max|unit|type
+1000349|Configuration|murale||||SIMPLE
+1000349|Autres caractéristiques|free cooling||||SIMPLE
+1000349|Puissance de refroidissement||6|15|W|MIN_MAX
+1000106|Technologie|proportionnel||||SIMPLE
+1000108|Applications|pour la domotique||||SIMPLE
+1000109|Interface|à écran tactile||||SIMPLE
+1000109|Montage|à montage VESA||||SIMPLE
+1000109|Résolution|800 x 480,1024 x 768,480 x 272,||||LIST
+1000109|Processeur|ARM Cortex-A8||||SIMPLE
+1000109|Autres caractéristiques|TFT LCD,TCP/IP,Modbus,||||LIST
+1000109|Applications|de contrôle||||SIMPLE
+1000109|Taille d'écran|10,7,4.3,|||in|LIST
+1000110|Interface|à écran tactile||||SIMPLE
+1000110|Montage|à montage VESA||||SIMPLE
+1000110|Résolution|800 x 480,480 x 272,||||LIST
+1000110|Processeur|ARM Cortex-A8||||SIMPLE
+1000110|Autres caractéristiques|TFT LCD,sans ventilateur,programmable,RS422/RS485,Modbus,||||LIST
+1000110|Applications|d'affichage||||SIMPLE
+1000110|Taille d'écran|7,4.3,|||in|LIST
+1000111|Mesurande|de process||||SIMPLE
+1000111|Affichage|numérique||||SIMPLE
+1000111|Type|pour montage sur panneau||||SIMPLE
+1000112|Mesurande|de process||||SIMPLE
+1000112|Affichage|numérique||||SIMPLE
+1000112|Type|pour montage sur panneau||||SIMPLE
+1000113|Mesurande|de température||||SIMPLE
+1000113|Affichage|numérique||||SIMPLE
+1000113|Type|pour montage sur panneau||||SIMPLE
+1000114|Mesurande|de débit||||SIMPLE
+1000114|Affichage|numérique||||SIMPLE
+1000115|Type|LCD||||SIMPLE
+1000115|Format|17 segments||||SIMPLE
+1000116|Type|binaire,tachymètre,de lots,||||LIST
+1000116|Affichage|numérique||||SIMPLE
+1000116|Technologie|électronique||||SIMPLE
+1000116|Autres caractéristiques|multifonction,à présélection,||||LIST
+1000117|Type|binaire||||SIMPLE
+1000117|Affichage|numérique||||SIMPLE
+1000117|Technologie|électronique||||SIMPLE
+1000117|Autres caractéristiques|à présélection,multifonction,||||LIST
+1000118|Type|horaire||||SIMPLE
+1000118|Affichage|numérique||||SIMPLE
+1000118|Technologie|électromécanique||||SIMPLE
+1000119|Type|horaire||||SIMPLE
+1000119|Affichage|numérique||||SIMPLE
+1000119|Technologie|électromécanique||||SIMPLE
+1000119|Autres caractéristiques|multifonction||||SIMPLE
+1000120|Type|horaire||||SIMPLE
+1000120|Technologie|électromécanique||||SIMPLE
+1000121|Type|d'énergie||||SIMPLE
+1000121|Affichage|numérique,analogique,||||LIST
+1000121|Technologie|électronique||||SIMPLE
+1000121|Autres caractéristiques|sur rail DIN||||SIMPLE
+1000122|Technologie|pneumatique||||SIMPLE
+1000123|Type|volumétrique||||SIMPLE
+1000123|Affichage|numérique||||SIMPLE
+1000123|Technologie|électronique||||SIMPLE
+1000123|Autres caractéristiques|pour montage sur panneau||||SIMPLE
+1000124|Type|tension / courant||||SIMPLE
+1000125|Type de signal|numérique,analogique,||||LIST
+1000125|Nombre d'entrées/sorties|4 canaux||||SIMPLE
+1000125|Montage|à montage sur rail DIN||||SIMPLE
+1000125|Autres caractéristiques|antidéflagrant||||SIMPLE
+1000126|Type de signal|numérique||||SIMPLE
+1000126|Bus|Ethernet,série,BACnet,||||LIST
+1000126|Type|décentralisées||||SIMPLE
+1000126|Autres caractéristiques|compact||||SIMPLE
+1000127|Type|administrable||||SIMPLE
+1000127|Nombre de ports|8 ports||||SIMPLE
+1000127|Autres caractéristiques|redondant||||SIMPLE
+1000127|Applications|industriel||||SIMPLE
+1000128|Type|administrable||||SIMPLE
+1000128|Nombre de ports|5 ports||||SIMPLE
+1000128|Autres caractéristiques|redondant,SFP+,robuste,||||LIST
+1000128|Applications|industriel||||SIMPLE
+1000129|Autres caractéristiques|pour zone dangereuse,de basse fréquence,||||LIST
+1000129|Domaine|industriel||||SIMPLE
+1000130|Autres caractéristiques|à grande vitesse||||SIMPLE
+1000130|Applications produit|pour éolienne,pour centrale,||||LIST
+1000130|Domaine|industriel||||SIMPLE
+1000131|Type|de mesure,de courant,||||LIST
+1000131|Construction|encapsulé||||SIMPLE
+1000131|Autres caractéristiques|ouvrable,sur rail DIN,||||LIST
+1000131|Courant||0|6,000|A|MIN_MAX
+1000132|Type|de mesure,de courant,||||LIST
+1000132|Construction|encapsulé||||SIMPLE
+1000132|Autres caractéristiques|ouvrable,sur rail DIN,||||LIST
+1000132|Courant||50|4,000|A|MIN_MAX
+1000133|Type|de courant,de mesure,||||LIST
+1000133|Construction|encapsulé||||SIMPLE
+1000133|Autres caractéristiques|toroïdal,embrochable,en boîtier plastique,basse tension,||||LIST
+1000133|Courant||50|2,500|A|MIN_MAX
+1000133|Tension primaire||230|400|V|MIN_MAX
+1000133|Tension secondaire|690|||V|SIMPLE
+1000134|Type|de mesure,de courant,||||LIST
+1000134|Construction|encapsulé||||SIMPLE
+1000134|Autres caractéristiques|ouvrable,sur rail DIN,||||LIST
+1000134|Courant||0|6,000|A|MIN_MAX
+1000135|Type|de mesure,de courant,||||LIST
+1000135|Construction|encapsulé||||SIMPLE
+1000135|Autres caractéristiques|ouvrable,sur rail DIN,||||LIST
+1000135|Courant||50|4,000|A|MIN_MAX
+1000136|Type|de courant,de mesure,||||LIST
+1000136|Construction|encapsulé||||SIMPLE
+1000136|Autres caractéristiques|toroïdal,embrochable,en boîtier plastique,basse tension,||||LIST
+1000136|Courant||50|2,500|A|MIN_MAX
+1000136|Tension primaire||230|400|V|MIN_MAX
+1000136|Tension secondaire|690|||V|SIMPLE
+1000140|Spécification électrique|triphasé||||SIMPLE
+1000140|Construction|isolé à l'air||||SIMPLE
+1000140|Applications|pour distribution électrique||||SIMPLE
+1000140|Courant||83|833|A|MIN_MAX
+1000140|VAC||120|208|V|MIN_MAX
+1000176|Applications|industriel||||SIMPLE
+1000176|Puissance|120|||W|SIMPLE
+1000176|Tension|48|||V|SIMPLE
+1000176|Puissance kVA|||||SIMPLE
+1000177|Technologie|parallèle||||SIMPLE
+1000177|Spécification électrique|DC||||SIMPLE
+1000177|Applications|industriel||||SIMPLE
+1000177|Autre caractéristique|sur condensateur||||SIMPLE
+1000177|Tension|24|||V|SIMPLE
+1000177|Puissance kVA|5,2.5,|||kW|LIST
+1000178|Technologie|parallèle||||SIMPLE
+1000178|Spécification électrique|DC||||SIMPLE
+1000178|Applications|industriel||||SIMPLE
+1000178|Autre caractéristique|sur rail DIN||||SIMPLE
+1000178|Puissance kVA|||||SIMPLE
+1000179|Technologie|parallèle||||SIMPLE
+1000179|Spécification électrique|DC||||SIMPLE
+1000179|Applications|industriel||||SIMPLE
+1000179|Puissance kVA|||||SIMPLE
+1000180|Technologie|off-line||||SIMPLE
+1000180|Applications|industriel||||SIMPLE
+1000181|Technologie|off-line||||SIMPLE
+1000181|Spécification électrique|DC||||SIMPLE
+1000181|Applications|pour batterie||||SIMPLE
+1000181|Autre caractéristique|sur rail DIN||||SIMPLE
+1000181|Tension|24|||V|SIMPLE
+1000182|Type|lithium fer phosphate||||SIMPLE
+1000182|Forme|modulaire||||SIMPLE
+1000182|Autres caractéristiques|sans entretien||||SIMPLE
+1000182|Tension|48|||V|SIMPLE
+1000183|Type|plomb||||SIMPLE
+1000183|Forme|de bloc||||SIMPLE
+1000183|Tension|24|||V|SIMPLE
+1000184|Type|plomb||||SIMPLE
+1000184|Forme|de bloc||||SIMPLE
+1000185|Type|plomb||||SIMPLE
+1000185|Forme|de bloc||||SIMPLE
+1000186|Type|plomb||||SIMPLE
+1000186|Forme|de bloc||||SIMPLE
+1000187|Spécifications|sur rail DIN,AC/DC,modulaire,||||LIST
+1000190|Type de relais|électromécanique||||SIMPLE
+1000190|Autres caractéristiques|pour circuit imprimé||||SIMPLE
+1000191|Type de relais|électromécanique||||SIMPLE
+1000191|Autres caractéristiques|pour circuit imprimé||||SIMPLE
+1000192|Type de relais|électromécanique||||SIMPLE
+1000192|Autres caractéristiques|pour circuit imprimé||||SIMPLE
+1000193|Type de relais|électromécanique||||SIMPLE
+1000193|Autres caractéristiques|pour circuit imprimé||||SIMPLE
+1000194|Type de relais|électromécanique||||SIMPLE
+1000194|Autres caractéristiques|miniature||||SIMPLE
+1000195|Type de relais|électromécanique||||SIMPLE
+1000196|Type|numérique||||SIMPLE
+1000196|Spécification électrique|contre les courts-circuits||||SIMPLE
+1000196|Mode de fonctionnement|modulaire||||SIMPLE
+1000196|Autres caractéristiques|miniature||||SIMPLE
+1000196|Applications|pour l'électronique||||SIMPLE
+1000196|Courant||1|8|A|MIN_MAX
+1000196|VDC|24|||V|SIMPLE
+1000197|Type|numérique||||SIMPLE
+1000197|Spécification électrique|contre les courts-circuits,pour surcharge,contre les surintensités,haute densité,||||LIST
+1000197|Mode de fonctionnement|modulaire||||SIMPLE
+1000197|Autres caractéristiques|compact||||SIMPLE
+1000197|Courant||0.5|12|A|MIN_MAX
+1000197|VDC|24|||V|SIMPLE
+1000198|Type|magnéto-thermique||||SIMPLE
+1000198|Mode de fonctionnement|modulaire||||SIMPLE
+1000198|Courant||0|1,600|A|MIN_MAX
+1000199|Mode de fonctionnement|modulaire||||SIMPLE
+1000199|Autres caractéristiques|à boîtier moulé||||SIMPLE
+1000199|Applications|de protection moteur||||SIMPLE
+1000199|Courant||0.1|25|A|MIN_MAX
+1000200|Type|de type 1,de type 2,de type 3,||||LIST
+1000200|Autres caractéristiques|à varistance,triphasé,monophasé,||||LIST
+1000200|Courant|12,500,|||A|SIMPLE
+1000200|Tension|230,400,|||V|LIST
+1000201|Type|de type 1,de type 2,de type 3,||||LIST
+1000201|Autres caractéristiques|à varistance,triphasé,monophasé,||||LIST
+1000201|Courant|12,500,|||A|SIMPLE
+1000201|Tension|230,400,|||V|LIST
+1000202|Type|de type 1,de type 2,de type 3,||||LIST
+1000202|Autres caractéristiques|à varistance,triphasé,monophasé,||||LIST
+1000202|Courant|12,500,|||A|SIMPLE
+1000202|Tension|230,400,|||V|LIST
+1000203|Type|de type 1,de type 2,de type 3,||||LIST
+1000203|Autres caractéristiques|à varistance,triphasé,monophasé,||||LIST
+1000203|Courant|100,000,|||A|SIMPLE
+1000203|Tension|230,400,|||V|LIST
+1000209|Technologie|à piston||||SIMPLE
+1000210|Technologie|à membrane||||SIMPLE
+1000210|Autres caractéristiques|hydropneumatique||||SIMPLE
+1000141|Type|numérique||||SIMPLE
+1000141|Spécification électrique|contre les courts-circuits||||SIMPLE
+1000141|Mode de fonctionnement|modulaire||||SIMPLE
+1000141|Autres caractéristiques|miniature||||SIMPLE
+1000141|Applications|pour l'électronique||||SIMPLE
+1000141|Courant||1|8|A|MIN_MAX
+1000141|VDC|24|||V|SIMPLE
+1000142|Type|numérique||||SIMPLE
+1000142|Spécification électrique|contre les courts-circuits,pour surcharge,contre les surintensités,haute densité,||||LIST
+1000142|Mode de fonctionnement|modulaire||||SIMPLE
+1000142|Autres caractéristiques|compact||||SIMPLE
+1000142|Courant||0.5|12|A|MIN_MAX
+1000142|VDC|24|||V|SIMPLE
+1000143|Type|magnéto-thermique||||SIMPLE
+1000143|Mode de fonctionnement|modulaire||||SIMPLE
+1000143|Courant||0|1,600|A|MIN_MAX
+1000144|Mode de fonctionnement|modulaire||||SIMPLE
+1000144|Autres caractéristiques|à boîtier moulé||||SIMPLE
+1000144|Applications|de protection moteur||||SIMPLE
+1000144|Courant||0.1|25|A|MIN_MAX
+1000145|Type|AC/DC||||SIMPLE
+1000145|Autres caractéristiques|sur rail DIN,à découpage,CE,||||LIST
+1000145|Tension d'entrée|85,264,|||V|LIST
+1000145|Tension de sortie|24|||V|SIMPLE
+1000145|Courant|5|||A|SIMPLE
+1000146|Type|AC/DC||||SIMPLE
+1000146|Autres caractéristiques|sur rail DIN,à découpage,CE,||||LIST
+1000146|Tension d'entrée|85,264,|||V|LIST
+1000146|Tension de sortie|24|||V|SIMPLE
+1000146|Courant|10|||A|SIMPLE
+1000147|Type|AC/DC||||SIMPLE
+1000147|Sortie|à sortie simple||||SIMPLE
+1000147|Autres caractéristiques|sur rail DIN,monophasée,à découpage,CE,||||LIST
+1000147|Tension d'entrée|93,264,|||V|LIST
+1000147|Tension de sortie|24|||V|SIMPLE
+1000148|Type|AC/DC||||SIMPLE
+1000148|Autres caractéristiques|CE,sur rail DIN,monophasée,pour applications industrielles,à découpage,||||LIST
+1000148|Tension d'entrée|93,264,|||V|LIST
+1000148|Tension de sortie|24|||V|SIMPLE
+1000149|Type|AC/DC||||SIMPLE
+1000149|Autres caractéristiques|pour applications industrielles,sur rail DIN,monophasée,CE,||||LIST
+1000149|Tension d'entrée|264,93,|||V|LIST
+1000149|Tension de sortie|24|||V|SIMPLE
+1000150|Type|AC/DC||||SIMPLE
+1000150|Autres caractéristiques|rackable,numérique,||||LIST
+1000151|Type|AC/DC||||SIMPLE
+1000151|Sortie|à sortie simple||||SIMPLE
+1000151|Autres caractéristiques|châssis fermé,haute puissance,à découpage,||||LIST
+1000152|Type|AC/DC||||SIMPLE
+1000152|Autres caractéristiques|châssis fermé,haute puissance,à découpage,||||LIST
+1000153|Type|AC/DC||||SIMPLE
+1000153|Sortie|à deux sorties||||SIMPLE
+1000153|Autres caractéristiques|à découpage||||SIMPLE
+1000153|Puissance||12|130|W|MIN_MAX
+1000153|Tension d'entrée||110|240|V|MIN_MAX
+1000153|Tension de sortie|12,24,|||V|LIST
+1000154|Type|AC/DC||||SIMPLE
+1000154|Sortie|régulée||||SIMPLE
+1000154|Autres caractéristiques|châssis fermé,modulaire,avec protection contre les courts-circuits,à découpage,||||LIST
+1000154|Puissance|25|||W|SIMPLE
+1000154|Tension d'entrée||100|240|V|MIN_MAX
+1000154|Tension de sortie|12|||V|SIMPLE
+1000154|Courant|2.1|||A|SIMPLE
+1000155|Type|AC/DC||||SIMPLE
+1000155|Sortie|ajustable||||SIMPLE
+1000155|Autres caractéristiques|pour applications industrielles,compacte,modulaire,sur rail DIN,encastrable,monophasée,à découpage,||||LIST
+1000155|Puissance||30|100|W|MIN_MAX
+1000155|Tension d'entrée||85|264|V|MIN_MAX
+1000155|Tension de sortie||12|24|V|MIN_MAX
+1000155|Courant||1.1|6.5|A|MIN_MAX
+1000156|Type|AC/DC||||SIMPLE
+1000156|Sortie|ajustable||||SIMPLE
+1000156|Autres caractéristiques|robuste,type frontale,sur rail DIN,à découpage,||||LIST
+1000156|Tension d'entrée||90|264|V|MIN_MAX
+1000156|Tension de sortie|24|||V|SIMPLE
+1000156|Courant||1.25|40|A|MIN_MAX
+1000157|Type|DC/DC||||SIMPLE
+1000157|Autres caractéristiques|sur rail DIN||||SIMPLE
+1000157|Puissance||6|10|W|MIN_MAX
+1000157|Tension d'entrée|9.2,36,|||V|LIST
+1000157|Tension de sortie|12,24,|||V|LIST
+1000159|Configuration|sur rail DIN||||SIMPLE
+1000159|Autres caractéristiques|isolé||||SIMPLE
+1000159|Tension d'entrée|220,48,|||V|LIST
+1000159|Tension de sortie|12|||V|SIMPLE
+1000160|Configuration|sur rail DIN||||SIMPLE
+1000160|Spécification électrique|abaisseur||||SIMPLE
+1000160|Autres caractéristiques|isolé||||SIMPLE
+1000160|Tension d'entrée|||||SIMPLE
+1000160|Tension de sortie|24|||V|SIMPLE
+1000161|Configuration|sur rail DIN||||SIMPLE
+1000161|Spécification électrique|abaisseur||||SIMPLE
+1000161|Autres caractéristiques|isolé||||SIMPLE
+1000161|Tension d'entrée|24|||V|SIMPLE
+1000161|Tension de sortie|12|||V|SIMPLE
+1000162|Configuration|sur rail DIN||||SIMPLE
+1000162|Autres caractéristiques|à découpage||||SIMPLE
+1000162|Tension d'entrée|900,300,|||V|LIST
+1000162|Tension de sortie|24|||V|SIMPLE
+1000163|Configuration|encapsulé||||SIMPLE
+1000163|Spécification électrique|abaisseur||||SIMPLE
+1000163|Autres caractéristiques|isolé||||SIMPLE
+1000163|Tension d'entrée||9|36|V|MIN_MAX
+1000163|Tension de sortie||2|32|V|MIN_MAX
+1000164|Configuration|SMD||||SIMPLE
+1000164|Spécification électrique|abaisseur||||SIMPLE
+1000164|Autres caractéristiques|isolé||||SIMPLE
+1000164|Puissance||0.5|150|W|MIN_MAX
+1000165|Spécification électrique|sinusoïdal,monophasé,||||LIST
+1000165|Applications|pour applications solaires||||SIMPLE
+1000165|Puissance||3,300|8,000|W|MIN_MAX

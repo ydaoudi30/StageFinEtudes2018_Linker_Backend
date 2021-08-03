@@ -1,0 +1,90 @@
+product_id|label|value|value_min|value_max|unit|type
+1000451|Technologie|à rouleaux croisés||||SIMPLE
+1000451|Autres caractéristiques|en aluminium,silencieux,inoxydable,||||LIST
+1000451|Longueur de rail||300|4,000|mm|MIN_MAX
+1000451|Charge||300|4,700|N|MIN_MAX
+1000453|Type|planétaire,à vis sans fin,à train d'engrenages,||||LIST
+1000453|Type d'arbre|coaxial,orthogonal,à arbres parallèles,||||LIST
+1000453|Autres caractéristiques|pour moteur DC||||SIMPLE
+1000453|Couple|100 - 200 Nm,20 - 50 Nm,50 - 100 Nm,0.5 - 1 Nm,1 - 5 Nm,10 - 20 Nm,5 - 10 Nm,||||LIST
+1000453|Couple||0.5|120|Nm|MIN_MAX
+1000454|Type|planétaire||||SIMPLE
+1000454|Type d'arbre|coaxial||||SIMPLE
+1000454|Performance|silencieux||||SIMPLE
+1000454|Autres caractéristiques|robuste||||SIMPLE
+1000454|Vitesse de rotation||0|6,000|rpm|MIN_MAX
+1000455|Type|planétaire,à vis sans fin,à train d'engrenages,||||LIST
+1000455|Type d'arbre|coaxial,orthogonal,à arbres parallèles,||||LIST
+1000455|Autres caractéristiques|pour moteur DC||||SIMPLE
+1000455|Couple|100 - 200 Nm,20 - 50 Nm,50 - 100 Nm,0.5 - 1 Nm,1 - 5 Nm,10 - 20 Nm,5 - 10 Nm,||||LIST
+1000455|Couple||0.5|120|Nm|MIN_MAX
+1000701|Applications|pour air comprimé||||SIMPLE
+1000702|Fluide|à huile||||SIMPLE
+1000702|Actionnement|électrique||||SIMPLE
+1000702|Amorçage|immergée||||SIMPLE
+1000702|Technologie|centrifuge||||SIMPLE
+1000702|Autres caractéristiques|en ligne,en fonte,de puisard,pour système de lubrification,||||LIST
+1000702|Débit||80|1,000|m³/h|MIN_MAX
+1000702|Hauteur||Min: 100'00"" (30.48 m)|Max: 330'00"" (100.58 m)||MIN_MAX
+1000703|Type|sans fil||||SIMPLE
+1000703|Modèle|modèle pistolet||||SIMPLE
+1000703|Autres caractéristiques|à contrôle de couple,à chocs,||||LIST
+1000703|Tension|2|||V|SIMPLE
+1000703|Vitesse de rotation||Min: 200 rad.min-1 (31.8 rpm)|Max: 400 rad.min-1 (63.7 rpm)||MIN_MAX
+1000703|Couple||0.4|3|Nm|MIN_MAX
+1000704|Type|coupantes||||SIMPLE
+1000704|Applications|pour l'électronique||||SIMPLE
+1000704|Autres caractéristiques|isolantes||||SIMPLE
+1000705|Type|universelles||||SIMPLE
+1000705|Applications|pour câbles||||SIMPLE
+1000706|Actionnement|manuels||||SIMPLE
+1000706|Type|à cliquet||||SIMPLE
+1000706|Diamètre||8|22|mm|MIN_MAX
+1000707|Actionnement|hydraulique,manuel,||||LIST
+1000707|Applications|pour borne de câbles||||SIMPLE
+1000707|Profile de sertissage||50|300|mm²|MIN_MAX
+1000708|Type|à LED||||SIMPLE
+1000708|Application|d'inspection||||SIMPLE
+1000708|Autres caractéristiques|antidéflagrante||||SIMPLE
+1000708|Puissance||53|70|W|MIN_MAX
+1000709|Type|à LED||||SIMPLE
+1000709|Application|d'inspection||||SIMPLE
+1000709|Autres caractéristiques|antidéflagrante||||SIMPLE
+1000709|Puissance||53|70|W|MIN_MAX
+1000710|Type|à LED||||SIMPLE
+1000710|Application|d'inspection||||SIMPLE
+1000710|Autres caractéristiques|antidéflagrante||||SIMPLE
+1000710|Puissance||53|70|W|MIN_MAX
+1000711|Matériau|en polyamide||||SIMPLE
+1000712|Matériau|métallisé||||SIMPLE
+1000712|Autres caractéristiques|à coller||||SIMPLE
+1000713|Forme|rond||||SIMPLE
+1000713|Type|mâle||||SIMPLE
+1000713|Matériau|en nylon||||SIMPLE
+1000714|Type|de choc||||SIMPLE
+1000714|Technologie|mécanique||||SIMPLE
+1000714|Applications|pour machine||||SIMPLE
+1000714|Force||3|37|N|MIN_MAX
+1000714|Course||0|76|mm|MIN_MAX
+1000715|Type|de choc||||SIMPLE
+1000715|Technologie|mécanique||||SIMPLE
+1000715|Autres caractéristiques|réglable||||SIMPLE
+1000715|Force|3,000,|||N|LIST
+1000716|Type|de choc||||SIMPLE
+1000716|Technologie|mécanique||||SIMPLE
+1000716|Force|4,000,|||N|LIST
+1000717|Type|de choc||||SIMPLE
+1000717|Technologie|mécanique||||SIMPLE
+1000717|Force||0.9|3,000|N|MIN_MAX
+1000718|Type|de choc||||SIMPLE
+1000718|Technologie|mécanique||||SIMPLE
+1000718|Applications|pour machine||||SIMPLE
+1000718|Force||3|37|N|MIN_MAX
+1000718|Course||0|76|mm|MIN_MAX
+1000719|Type|de choc||||SIMPLE
+1000719|Technologie|mécanique||||SIMPLE
+1000719|Autres caractéristiques|réglable||||SIMPLE
+1000719|Force|3,000,|||N|LIST
+1000720|Type|de choc||||SIMPLE
+1000720|Technologie|mécanique||||SIMPLE
+1000720|Force|4,000,|||N|LIST

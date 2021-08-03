@@ -1,0 +1,307 @@
+product_id|label|value|value_min|value_max|unit|type
+1000141|Autres caractéristiques|4 x PCI||||SIMPLE
+1000142|Spécifications|de connexion||||SIMPLE
+1000143|Réseau|Ethernet,pour fibre optique,||||LIST
+1000143|Autres caractéristiques|monomode,multimode,SFP,||||LIST
+1000144|Réseau|RFID||||SIMPLE
+1000144|Autres caractéristiques|durcie,compacte,||||LIST
+1000144|Fréquence|125|||kHz|SIMPLE
+1000145|Réseau|RFID||||SIMPLE
+1000145|Type|cylindrique||||SIMPLE
+1000145|Autres caractéristiques|durcie||||SIMPLE
+1000145|Fréquence|13.6|||MHz|SIMPLE
+1000146|Réseau|UHF,RFID,||||LIST
+1000146|Autres caractéristiques|durcie,longue portée,||||LIST
+1000146|Fréquence||865|928|MHz|MIN_MAX
+1000147|Réseau|GSM,2G,Bluetooth,WiFi,||||LIST
+1000147|Type|interne||||SIMPLE
+1000147|Autres caractéristiques|d'extérieur,compacte,||||LIST
+1000147|Fréquence||824|2,400|MHz|MIN_MAX
+1000147|Gain|2.2,2.14,|||dB|LIST
+1000148|Réseau|2.4 et 5 GHz,WLAN,||||LIST
+1000148|Type|externe,omnidirectionnelle,||||LIST
+1000148|Fréquence|5,2.4,|||GHz|LIST
+1000148|Gain||5|8|dB|MIN_MAX
+1000149|Fonction|de commande||||SIMPLE
+1000149|Technologie|électrique||||SIMPLE
+1000149|Type|1 pédale||||SIMPLE
+1000150|Type|permanent||||SIMPLE
+1000150|Montage|fileté||||SIMPLE
+1000150|Niveau de protection|ATEX||||SIMPLE
+1000150|Autres caractéristiques|de signalisation||||SIMPLE
+1000151|Configuration|à main||||SIMPLE
+1000151|Connectique|USB||||SIMPLE
+1000151|Fréquence|125|||kHz|SIMPLE
+1000152|Connectique|ethernet||||SIMPLE
+1000152|Autres caractéristiques|UHF||||SIMPLE
+1000152|Fréquence||865|928|MHz|MIN_MAX
+1000153|Configuration|compact||||SIMPLE
+1000154|Actionnement|mécanique||||SIMPLE
+1000154|Type|angulaire||||SIMPLE
+1000154|Nombre de mâchoires|à 2 mâchoires||||SIMPLE
+1000154|Force de préhension||40|80|N|MIN_MAX
+1000155|Actionnement|mécanique||||SIMPLE
+1000155|Type|parallèle||||SIMPLE
+1000155|Nombre de mâchoires|à 2 mâchoires||||SIMPLE
+1000155|Options|compacte||||SIMPLE
+1000155|Course||2|12.5|mm|MIN_MAX
+1000155|Force de préhension||13.5|483|N|MIN_MAX
+1000156|Actionnement|mécanique||||SIMPLE
+1000156|Type|parallèle||||SIMPLE
+1000156|Nombre de mâchoires|à 2 mâchoires||||SIMPLE
+1000156|Options|à double effet,étanche,||||LIST
+1000156|Course||3|20|mm|MIN_MAX
+1000156|Force de préhension||48|1,932|N|MIN_MAX
+1000158|Spécifications|type pick and place||||SIMPLE
+1000159|Spécifications|type pick and place||||SIMPLE
+1000160|Type d'écran|à écran tactile||||SIMPLE
+1000160|Taille d'écran|12""||||SIMPLE
+1000160|Résolution|1024 x 768||||SIMPLE
+1000160|Processeur|Intel® Atom N270||||SIMPLE
+1000160|Autres caractéristiques|sans ventilateur,en boîtier plastique,||||LIST
+1000160|Applications|industriel||||SIMPLE
+1000161|Type d'écran|LCD||||SIMPLE
+1000161|Résolution|1024 x 768,800 x 600,||||LIST
+1000161|Processeur|Intel® Atom N270||||SIMPLE
+1000161|Applications|industriel||||SIMPLE
+1000162|Technologie|TFT,tactile,||||LIST
+1000162|Résolution|1024 x 768||||SIMPLE
+1000162|Montage|encastrable||||SIMPLE
+1000162|Taille d'écran||6|15|in|MIN_MAX
+1000163|Technologie|tactile||||SIMPLE
+1000163|Résolution|1024 x 768||||SIMPLE
+1000163|Montage|encastrable||||SIMPLE
+1000164|Technologie|LCD,tactile,||||LIST
+1000164|Résolution|800 x 600,640 x 480,||||LIST
+1000164|Montage|encastrable||||SIMPLE
+1000164|Applications|industriel||||SIMPLE
+1000164|Taille d'écran||3.5|12.1|in|MIN_MAX
+1000165|Nombre de touches|16 touches||||SIMPLE
+1000165|Montage|encastrable||||SIMPLE
+1000166|Type|de données||||SIMPLE
+1000166|Réseau|Bluetooth||||SIMPLE
+1000166|Montage|d'extérieur||||SIMPLE
+1000167|Type|de données||||SIMPLE
+1000167|Réseau|GSM,GPRS,Ethernet,IP,edge,||||LIST
+1000167|Application|industriel||||SIMPLE
+1000167|Montage|sur rail DIN||||SIMPLE
+1000167|Autres caractéristiques|avec VPN||||SIMPLE
+1000168|Réseau|WAN,LAN,internet,3G,||||LIST
+1000168|Autres caractéristiques|haut débit,VPN,||||LIST
+1000169|Type|administrable||||SIMPLE
+1000169|Nombre de ports|8 ports||||SIMPLE
+1000169|Autres caractéristiques|redondant||||SIMPLE
+1000169|Applications|industriel||||SIMPLE
+1000170|Type|non administrable||||SIMPLE
+1000170|Nombre de ports|5,8,|||ports|LIST
+1000171|Interface|à écran tactile||||SIMPLE
+1000171|Montage|encastrable||||SIMPLE
+1000171|Processeur|VIA||||SIMPLE
+1000171|Applications|de contrôle,machine,||||LIST
+1000171|Taille d'écran|21.5|||in|SIMPLE
+1000172|Spécifications|électronique||||SIMPLE
+1000174|Spécifications|AS-i||||SIMPLE
+1000175|Spécifications|pour applications mobiles,compact,||||LIST
+1000736|Forme|circulaire||||SIMPLE
+1000736|Matériau*|en polyuréthane||||SIMPLE
+1000737|Type|torique||||SIMPLE
+1000737|Matériau*|en caoutchouc||||SIMPLE
+1000737|Autres caractéristiques|liquide sans COV||||SIMPLE
+1000738|Type|torique||||SIMPLE
+1000738|Forme|circulaire||||SIMPLE
+1000738|Matériau*|en PTFE||||SIMPLE
+1000738|Autres caractéristiques|haute température,résistant aux produits chimiques,||||LIST
+1000739|Type|plat,torique,||||LIST
+1000739|.application|pour câble||||SIMPLE
+1000740|Type|plat||||SIMPLE
+1000740|Autres caractéristiques|liquide sans COV||||SIMPLE
+1000741|Type|plat,torique,||||LIST
+1000741|.application|pour câble||||SIMPLE
+1000743|Actionnement|entraîné par moteur||||SIMPLE
+1000743|Applications|pour machine-outil||||SIMPLE
+1000743|Diamètre||65|220|mm|MIN_MAX
+1000744|Configuration|horizontale||||SIMPLE
+1000744|Diamètre|20,32,16,25,|||mm|LIST
+1000745|Forme|carré||||SIMPLE
+1000746|Interface|à écran tactile||||SIMPLE
+1000746|Montage|à montage VESA||||SIMPLE
+1000746|Résolution|800 x 480,1024 x 768,480 x 272,||||LIST
+1000746|Processeur|ARM Cortex-A8||||SIMPLE
+1000746|Autres caractéristiques|TFT LCD,TCP/IP,Modbus,||||LIST
+1000746|Applications|de contrôle||||SIMPLE
+1000746|Taille d'écran|10,4.3,7,|||in|LIST
+1000747|Spécifications|avec pompe à engrenages,à colle,||||LIST
+1000748|Matière traitée|pour cuivre||||SIMPLE
+1000748|Technologie|à fil||||SIMPLE
+1000748|Produit traité|de câbles||||SIMPLE
+1000748|Type de commande|CNC||||SIMPLE
+1000748|Autres caractéristiques|automatique||||SIMPLE
+1000749|Actionnement|manuelle||||SIMPLE
+1000749|Application|pour goulottes||||SIMPLE
+1000749|Type|à levier||||SIMPLE
+1000749|Longueur de travail|280|||mm|SIMPLE
+1000750|Type|de polymères||||SIMPLE
+1000751|Affichage|numérique||||SIMPLE
+1000751|Type|programmable||||SIMPLE
+1000751|Utilisation|de refroidissement,de chauffage,||||LIST
+1000751|Autres caractéristiques|configurable||||SIMPLE
+1000751|Température maximale||0|50|°C|MIN_MAX
+1000752|Affichage|à affichage numérique||||SIMPLE
+1000752|Type|programmable||||SIMPLE
+1000753|Produit à dénuder|de fils électriques||||SIMPLE
+1000753|Technologie|à lâme||||SIMPLE
+1000753|Autres caractéristiques|électrique||||SIMPLE
+1000754|Domaine|industriel||||SIMPLE
+1000754|Autres caractéristiques|à membrane||||SIMPLE
+1000754|Pression de sortie||4|13|bar|MIN_MAX
+1000755|Caractéristiques du gaz|pur||||SIMPLE
+1000755|Domaine|de laboratoire||||SIMPLE
+1000755|Autres caractéristiques|à membrane||||SIMPLE
+1000755|Pression de sortie||5|13|bar|MIN_MAX
+1000756|Applications|pour meulage||||SIMPLE
+1000757|Structure|ouverte||||SIMPLE
+1000757|Applications|pour pièces détachées||||SIMPLE
+1000757|Filtration|à filtre||||SIMPLE
+1000758|Fonction|de dosage||||SIMPLE
+1000758|Produit|à graisse||||SIMPLE
+1000758|Mode de fonctionnement|automatique||||SIMPLE
+1000759|Mobilité|mobile||||SIMPLE
+1000759|Applications|de soudage||||SIMPLE
+1000759|Filtration|à cartouche||||SIMPLE
+1000759|Autres caractéristiques|compact||||SIMPLE
+1000759|Puissance|||||SIMPLE
+1000760|Produit traité|pour flexible hydraulique||||SIMPLE
+1000760|Mode de fonctionnement|semi-automatique||||SIMPLE
+1000760|Autres caractéristiques|portable||||SIMPLE
+1000761|Produit traité|de câbles||||SIMPLE
+1000761|Mode de fonctionnement|totalement automatique||||SIMPLE
+1000762|Mode de fonctionnement|manuelle||||SIMPLE
+1000762|Application|pour raccord||||SIMPLE
+1000763|Applications produits|pour métal||||SIMPLE
+1000763|Nombre de composants|monocomposant||||SIMPLE
+1000763|Caractéristiques techniques|anaérobie||||SIMPLE
+1000763|Domaine|industrielle||||SIMPLE
+1000764|Composant chimique|cyanoacrylate||||SIMPLE
+1000764|Applications produits|pour bois||||SIMPLE
+1000764|Nombre de composants|monocomposant||||SIMPLE
+1000764|Caractéristiques techniques|instantanée||||SIMPLE
+1000764|Domaine|industrielle||||SIMPLE
+1000765|Composant chimique|époxy||||SIMPLE
+1000765|Applications produits|pour caoutchouc,pour bois,||||LIST
+1000765|Nombre de composants|monocomposant||||SIMPLE
+1000765|Caractéristiques techniques|élastique||||SIMPLE
+1000765|Domaine|industrielle||||SIMPLE
+1000766|Composant chimique|en polyuréthane||||SIMPLE
+1000766|Nombre de composants|monocomposant||||SIMPLE
+1000766|Caractéristiques techniques|à polymérisation par UV||||SIMPLE
+1000766|Domaine|industrielle||||SIMPLE
+1000767|Composant chimique|silicone RTV||||SIMPLE
+1000767|Nombre de composants|monocomposant||||SIMPLE
+1000767|Caractéristiques techniques|haute température||||SIMPLE
+1000767|Domaine|industrielle||||SIMPLE
+1000768|Composant chimique|en polyuréthane||||SIMPLE
+1000768|Nombre de composants|monocomposant||||SIMPLE
+1000768|Caractéristiques techniques|à polymérisation par UV||||SIMPLE
+1000768|Domaine|industrielle||||SIMPLE
+1000769|Type de résine|époxy||||SIMPLE
+1000769|Applications|pour applications électroniques||||SIMPLE
+1000421|AC/DC|DC||||SIMPLE
+1000421|Type|brushless||||SIMPLE
+1000421|Voltage|230V,400V,||||LIST
+1000421|Autres caractéristiques|compact,IP65,IP67,à grande vitesse,||||LIST
+1000421|Couple||0.4|11.5|Nm|MIN_MAX
+1000421|Puissance||0.7|11|kW|MIN_MAX
+1000421|Vitesse de rotation||7,000|17,000|rpm|MIN_MAX
+1000421|Diamètre|24,11,19,32,|||mm|LIST
+1000422|AC/DC|CC||||SIMPLE
+1000422|Voltage|24V||||SIMPLE
+1000422|Autres caractéristiques|robuste||||SIMPLE
+1000422|Couple||0.14|19.2|Nm|MIN_MAX
+1000422|Vitesse de rotation|4,800,|||rpm|SIMPLE
+1000423|AC/DC|CC||||SIMPLE
+1000423|Autres caractéristiques|4 pôles||||SIMPLE
+1000423|Couple||0.05|13|Nm|MIN_MAX
+1000423|Vitesse de rotation||2,000|3,000|rpm|MIN_MAX
+1000424|AC/DC|CC||||SIMPLE
+1000424|Type|synchrone||||SIMPLE
+1000424|Voltage|100 V||||SIMPLE
+1000424|Couple||1.4|30|Nm|MIN_MAX
+1000424|Puissance|||||SIMPLE
+1000424|Vitesse de rotation|9,000,|||rpm|SIMPLE
+1000425|AC/DC|DC||||SIMPLE
+1000425|Type|synchrone||||SIMPLE
+1000425|Voltage|12V||||SIMPLE
+1000425|Couple||1|120|Nm|MIN_MAX
+1000425|Puissance|||||SIMPLE
+1000425|Vitesse de rotation|23,040,|||rpm|SIMPLE
+1000426|Type|ironless||||SIMPLE
+1000426|Autres caractéristiques|compact||||SIMPLE
+1000426|Puissance|82,47,|||W|LIST
+1000426|Force|202.5,108.5,|||N|LIST
+1000427|Montage|fixe||||SIMPLE
+1000427|Puissance||370|4,000|W|MIN_MAX
+1000428|Autres caractéristiques|de moteur||||SIMPLE
+1000429|Type|à aimants permanents||||SIMPLE
+1000429|Autres caractéristiques|pour moteur||||SIMPLE
+1000429|Intensité|3,16,32,8,4,|||A|LIST
+1000430|Autres caractéristiques|pour moteur,4,|||quadrants|LIST
+1000430|Puissance||0|9,000|W|MIN_MAX
+1000430|Intensité|32,8,16,4,|||A|LIST
+1000431|Type|numérique||||SIMPLE
+1000431|Autres caractéristiques|4 quadrants||||SIMPLE
+1000431|Intensité||1|2,700|A|MIN_MAX
+1000432|AC/DC|DC||||SIMPLE
+1000432|Nombre d'axes|mono-axe,multiaxe,||||LIST
+1000432|Applications produit|pour servomoteur||||SIMPLE
+1000432|Intensité||2|30|A|MIN_MAX
+1000433|AC/DC|à courant continu||||SIMPLE
+1000433|Applications produit|pour servomoteur||||SIMPLE
+1000433|Puissance de sortie||0|6.5|kW|MIN_MAX
+1000434|AC/DC|AC||||SIMPLE
+1000434|Nombre d'axes|multiaxe||||SIMPLE
+1000434|Applications produit|de positionnement||||SIMPLE
+1000435|Nombre d'axes|multiaxe,mono-axe,||||LIST
+1000435|Moteur|servomoteur,linéaire,synchrone,asynchrone,||||LIST
+1000435|Technologie|électronique||||SIMPLE
+1000436|Nombre d'axes|multiaxe||||SIMPLE
+1000436|Moteur|servomoteur,brushless,||||LIST
+1000436|Signal|numérique,pour bus de terrain,||||LIST
+1000437|Nombre d'axes|multiaxe||||SIMPLE
+1000438|Nombre d'axes|multiaxe||||SIMPLE
+1000438|Applications produit|pour actionneur||||SIMPLE
+1000439|Moteur|pas à pas||||SIMPLE
+1000439|Autres caractéristiques|compact,en boucle fermée,||||LIST
+1000440|Moteur|pas à pas||||SIMPLE
+1000440|Autres caractéristiques|numérique||||SIMPLE
+1000441|Moteur|pas à pas||||SIMPLE
+1000441|Autres caractéristiques|numérique||||SIMPLE
+1000442|Moteur|brushless||||SIMPLE
+1000442|AC/DC|DC||||SIMPLE
+1000442|Autres caractéristiques|programmable,régulateur de vitesse,24-48 V,12-48V,CANopen,||||LIST
+1000442|Entrée / sortie|à 6 entrées analogiques||||SIMPLE
+1000442|Tension d'entrée||9|75|V|MIN_MAX
+1000442|Courant|17|||A|SIMPLE
+1000443|Spécifications|hydraulique pour vérin pneumatique||||SIMPLE
+1000444|Type|de moteur||||SIMPLE
+1000444|Spécification électrique|monophasé||||SIMPLE
+1000444|Autres caractéristiques|pour compresseur||||SIMPLE
+1000445|Autres caractéristiques|4 x PCI||||SIMPLE
+1000446|Autres caractéristiques|4 x PCI||||SIMPLE
+1000447|Autres caractéristiques|4 x PCI||||SIMPLE
+1000448|Technologie|à piston||||SIMPLE
+1000448|Autres caractéristiques|à cylindrée variable||||SIMPLE
+1000448|Couple|95,175,127,255,|||Nm|LIST
+1000448|Vitesse de rotation||3,700|7,900|rpm|MIN_MAX
+1000448|Pression||0|420|bar|MIN_MAX
+1000448|Cylindrée||12|80|cm³|MIN_MAX
+1000449|Technologie|à palettes||||SIMPLE
+1000449|Autres caractéristiques|à cylindrée fixe||||SIMPLE
+1000449|Couple||60.5|372|Nm|MIN_MAX
+1000449|Vitesse de rotation|500,2,000,1,000,3,600,3,,141.59 rad.min-1),||||LIST
+1000449|Pression||0|230|bar|MIN_MAX
+1000450|Technologie|à piston axial||||SIMPLE
+1000450|Autres caractéristiques|à cylindrée fixe,à axe incliné,||||LIST
+1000450|Couple||7.8|384.1|Nm|MIN_MAX
+1000450|Vitesse de rotation||0|14,000|rpm|MIN_MAX
+1000450|Pression||0|420|bar|MIN_MAX
+1000450|Cylindrée||5|19|cm³|MIN_MAX

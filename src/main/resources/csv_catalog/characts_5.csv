@@ -1,0 +1,403 @@
+product_id|label|value|value_min|value_max|unit|type
+1000256|Type|à bascule||||SIMPLE
+1000256|Configuration des contacts|multipolaire||||SIMPLE
+1000256|Autres caractéristiques|action momentanée||||SIMPLE
+1000256|Courant|6|||A|SIMPLE
+1000256|Tension|24|||V|SIMPLE
+1000257|Type|de sélection,à bascule,||||LIST
+1000257|Configuration des contacts|multipolaire||||SIMPLE
+1000257|Courant|0.1|||A|SIMPLE
+1000257|Tension|48|||V|SIMPLE
+1000258|Type|rotatif,de sélection,||||LIST
+1000258|Configuration des contacts|multipolaire||||SIMPLE
+1000258|Autres caractéristiques|électromécanique||||SIMPLE
+1000258|Tension||6|380|V|MIN_MAX
+1000259|Type|à levier||||SIMPLE
+1000259|Configuration des contacts|unipolaire,2,|||pôles|LIST
+1000259|Niveau de protection|IP40||||SIMPLE
+1000259|Courant|2|||A|SIMPLE
+1000259|Tension|24|||V|SIMPLE
+1000260|Type|tactile||||SIMPLE
+1000260|Configuration des contacts|unipolaire,2,|||pôles|LIST
+1000260|Autres caractéristiques|action momentanée||||SIMPLE
+1000260|Niveau de protection|IP40||||SIMPLE
+1000260|Courant|5|||A|SIMPLE
+1000260|Tension|250|||V|SIMPLE
+1000261|Fonction|multifonction||||SIMPLE
+1000261|Montage|à montage sur rail DIN||||SIMPLE
+1000261|Applications produit|pour applications industrielles||||SIMPLE
+1000261|Autres caractéristiques|ajustable||||SIMPLE
+1000261|Tension||12|240|V|MIN_MAX
+1000262|Fonction|multifonction||||SIMPLE
+1000262|Montage|à montage sur rail DIN||||SIMPLE
+1000262|Autres caractéristiques|ajustable||||SIMPLE
+1000262|Tension||12|230|V|MIN_MAX
+1000263|Technologie|numérique||||SIMPLE
+1000263|Fonction|multifonction||||SIMPLE
+1000263|Montage|à montage sur rail DIN||||SIMPLE
+1000263|Autres caractéristiques|programmable||||SIMPLE
+1000263|Tension||12|240|V|MIN_MAX
+1000264|Technologie|numérique||||SIMPLE
+1000264|Fonction|multifonction||||SIMPLE
+1000264|Montage|monté en panneau||||SIMPLE
+1000264|Tension||24|240|V|MIN_MAX
+1000265|Montage|à montage sur rail DIN||||SIMPLE
+1000266|Technologie|électronique||||SIMPLE
+1000266|Fonction|multifonction||||SIMPLE
+1000266|Montage|sur rail DIN||||SIMPLE
+1000267|Technologie|pneumatique||||SIMPLE
+1000268|Montage|à montage sur rail DIN||||SIMPLE
+1000268|Autres caractéristiques|ajustable||||SIMPLE
+1000269|Spécifications|sur rail DIN,AC/DC,modulaire,||||LIST
+1000272|Type de relais|électromécanique||||SIMPLE
+1000272|Autres caractéristiques|pour circuit imprimé||||SIMPLE
+1000273|Type de relais|électromécanique||||SIMPLE
+1000273|Autres caractéristiques|pour circuit imprimé||||SIMPLE
+1000274|Autres caractéristiques|miniature||||SIMPLE
+1000275|Type de relais|électromécanique||||SIMPLE
+1000275|Autres caractéristiques|miniature||||SIMPLE
+1000276|Type|avec actionneur à ressort||||SIMPLE
+1000276|Courant||1|30|A|MIN_MAX
+1000276|VDC|28|||V|SIMPLE
+1000276|VAC|115|||V|SIMPLE
+1000277|Type|numérique||||SIMPLE
+1000277|Spécification électrique|contre les courts-circuits||||SIMPLE
+1000277|Mode de fonctionnement|modulaire||||SIMPLE
+1000277|Autres caractéristiques|miniature||||SIMPLE
+1000277|Applications|pour l'électronique||||SIMPLE
+1000277|Courant||1|8|A|MIN_MAX
+1000277|VDC|24|||V|SIMPLE
+1000278|Type|magnéto-thermique||||SIMPLE
+1000278|Mode de fonctionnement|modulaire||||SIMPLE
+1000278|Courant||0|1,600|A|MIN_MAX
+1000279|Mode de fonctionnement|modulaire||||SIMPLE
+1000279|Courant||2|10|A|MIN_MAX
+1000279|VDC|24|||V|SIMPLE
+1000280|Type|de type 1,de type 2,de type 3,||||LIST
+1000280|Autres caractéristiques|à varistance,triphasé,monophasé,||||LIST
+1000280|Courant|100,000,|||A|SIMPLE
+1000280|Tension|230,400,|||V|LIST
+1000806|Technologie|à cartouche||||SIMPLE
+1000806|Décolmatage|décolmatage à jet pulsé||||SIMPLE
+1000806|Autres caractéristiques|modulaire||||SIMPLE
+1000807|Technologie|à cartouche||||SIMPLE
+1000807|Décolmatage|décolmatage à jet pulsé||||SIMPLE
+1000807|Autres caractéristiques|modulaire||||SIMPLE
+1000807|Débit|8,500,|||m³/h|SIMPLE
+1000808|Spécifications|aspiration centrale||||SIMPLE
+1000809|Montage|mobile||||SIMPLE
+1000809|Type|à filtre HEPA||||SIMPLE
+1000809|Autres caractéristiques|pour UTA||||SIMPLE
+1000809|Débit d'air||82|280|m³/h|MIN_MAX
+1000809|Puissance||42|82|W|MIN_MAX
+1000810|Fluide|à air||||SIMPLE
+1000810|Élément filtrant|à sac||||SIMPLE
+1000810|Autre caractéristique|en V,écologique,||||LIST
+1000810|Pression de fonctionnement|||||SIMPLE
+1000810|Débit||1,700|3,400|m³/h|MIN_MAX
+1000811|Fluide|à air||||SIMPLE
+1000811|Élément filtrant|à sac||||SIMPLE
+1000811|Autre caractéristique|en V,écologique,||||LIST
+1000811|Pression de fonctionnement|||||SIMPLE
+1000811|Débit||1,700|3,400|m³/h|MIN_MAX
+1000812|Fluide|à air||||SIMPLE
+1000812|Élément filtrant|à cartouche,à sac,||||LIST
+1000812|Autre caractéristique|d'évent||||SIMPLE
+1000812|Pression de fonctionnement|||||SIMPLE
+1000812|Débit|2,000,|||m³/h|SIMPLE
+1000813|Fluide|à air||||SIMPLE
+1000813|Élément filtrant|en panneaux||||SIMPLE
+1000813|Autre caractéristique|de process,HEPA,||||LIST
+1000813|Pression de fonctionnement|||||SIMPLE
+1000813|Débit||151|1,356|m³/h|MIN_MAX
+1000814|Fluide|à air||||SIMPLE
+1000814|Élément filtrant|en panneaux||||SIMPLE
+1000814|Autre caractéristique|compact,haute efficacité,avec boîtier en plastique,pour compresseur,||||LIST
+1000814|Débit|1,490,|||ft³/min|SIMPLE
+1000815|Fluide|à liquide,à gaz,||||LIST
+1000815|Élément filtrant|à cartouche||||SIMPLE
+1000815|Autre caractéristique|pour applications biopharmaceutiques||||SIMPLE
+1000815|Taille de filtration||0.1|100|µm|MIN_MAX
+1000816|Fluide|à gaz||||SIMPLE
+1000816|Élément filtrant|à cartouche||||SIMPLE
+1000816|Autre caractéristique|haute performance,stérile,||||LIST
+1000816|Pression de fonctionnement|||||SIMPLE
+1000816|Débit||0.6|49.5|l/min|MIN_MAX
+1000817|Fluide|à air,à gaz,||||LIST
+1000817|Élément filtrant|à poche||||SIMPLE
+1000817|Autre caractéristique|à particules||||SIMPLE
+1000817|Débit||800|3,400|m³/h|MIN_MAX
+1000818|Fluide|à air,à eau,||||LIST
+1000818|Élément filtrant|à cartouche||||SIMPLE
+1000818|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000818|Taille de filtration||1|450|µm|MIN_MAX
+1000818|Pression de fonctionnement|79,69,134,155,,145.798,|||psi)|LIST
+1000819|Fluide|à air||||SIMPLE
+1000819|Autre caractéristique|écologique,à particules,||||LIST
+1000819|Pression de fonctionnement|||||SIMPLE
+1000819|Débit||0|2,000|l/min|MIN_MAX
+1000820|Fluide|à air||||SIMPLE
+1000820|Autre caractéristique|à grande capacité,à visser,à particules,||||LIST
+1000820|Taille de filtration|3,5,|||µm|LIST
+1000820|Pression de fonctionnement|0.7,0.35,|||bar|LIST
+1000820|Débit|1,500,|||l/min|SIMPLE
+1000821|Fluide|à air||||SIMPLE
+1000821|Élément filtrant|en panneaux||||SIMPLE
+1000821|Autre caractéristique|de process,HEPA,||||LIST
+1000821|Pression de fonctionnement|||||SIMPLE
+1000821|Débit||151|1,356|m³/h|MIN_MAX
+1000822|Fluide|à air||||SIMPLE
+1000822|Élément filtrant|à cartouche,à sac,||||LIST
+1000822|Autre caractéristique|d'évent||||SIMPLE
+1000822|Pression de fonctionnement|||||SIMPLE
+1000822|Débit|2,000,|||m³/h|SIMPLE
+1000823|Élement filtré|à air||||SIMPLE
+1000824|Technologie|à cartouche||||SIMPLE
+1000824|Élement filtré|à air||||SIMPLE
+1000825|Media|pour gaz||||SIMPLE
+1000825|Type de filtration|de dessalement||||SIMPLE
+1000825|Matériau|en synthétique||||SIMPLE
+1000825|Applications|pour turbine à gaz||||SIMPLE
+1000826|Type de filtre|à cartouche||||SIMPLE
+1000826|Fluide|pour huile||||SIMPLE
+1000826|Matériau|en aluminium||||SIMPLE
+1000827|Media|à air||||SIMPLE
+1000827|Type de filtration|au charbon actif||||SIMPLE
+1000827|Applications|à usage général||||SIMPLE
+1000827|Domaine|industrielle||||SIMPLE
+1000827|Taille des particules||0.01|40|µm|MIN_MAX
+1000828|Media|pour solvant||||SIMPLE
+1000828|Type de filtration|pour filtration fine||||SIMPLE
+1000828|Matériau|en métal||||SIMPLE
+1000829|Application|d'huile||||SIMPLE
+1000829|Technologie|à matériau filtrant||||SIMPLE
+1000829|Autres caractéristiques|pour montage sur machine,compact,||||LIST
+1000829|Débit|2,038,|||m³/h|SIMPLE
+1000830|Mobilité|mobile||||SIMPLE
+1000830|Applications|de soudage||||SIMPLE
+1000830|Filtration|à cartouche||||SIMPLE
+1000830|Autres caractéristiques|compact||||SIMPLE
+1000830|Puissance|||||SIMPLE
+1000831|Installation|pour armoire électrique||||SIMPLE
+1000831|Configuration|axial||||SIMPLE
+1000831|Fonction|d'évacuation||||SIMPLE
+1000831|Autres caractéristiques|à filtre,à bruit réduit,||||LIST
+1000831|Débit d'air||14|470|m³/h|MIN_MAX
+1000832|Fluide|à air,à eau,||||LIST
+1000832|Élément filtrant|à cartouche||||SIMPLE
+1000832|Autre caractéristique|en T,en acier inoxydable,en laiton,||||LIST
+1000832|Taille de filtration||1|450|µm|MIN_MAX
+1000832|Pression de fonctionnement|79,69,134,155,,145.798,|||psi)|LIST
+1000836|Media|pour gaz||||SIMPLE
+1000836|Type de filtration|de dessalement||||SIMPLE
+1000836|Matériau|en synthétique||||SIMPLE
+1000836|Applications|pour turbine à gaz||||SIMPLE
+1000837|Élément séparé|d'hydrocarbure||||SIMPLE
+1000837|Autres caractéristiques|de surface||||SIMPLE
+1000838|Élément séparé|d'hydrocarbure||||SIMPLE
+1000839|Élément séparé|d'hydrocarbure||||SIMPLE
+1000840|Spécifications|pour aviation,à faible intensité,||||LIST
+1000491|Fluide|pour peinture||||SIMPLE
+1000491|Technologie|à engrenage interne||||SIMPLE
+1000491|Autres caractéristiques|pour fluide visqueux,en fonte,de transfert,||||LIST
+1000491|Débit||0|250|m³/h|MIN_MAX
+1000491|Pression||0|16|bar|MIN_MAX
+1000492|Fluide|d'acide,pour solvant,pour peinture,||||LIST
+1000492|Amorçage|auto-amorçante||||SIMPLE
+1000492|Technologie|à palettes||||SIMPLE
+1000492|Autres caractéristiques|pour produits à haute viscosité,en acier inoxydable,de chargement,de déchargement,||||LIST
+1000492|Débit|348,227,946,|||l/min|LIST
+1000493|Fluide|pour produits chimiques||||SIMPLE
+1000493|Actionnement|électrique||||SIMPLE
+1000493|Amorçage|à amorçage standard||||SIMPLE
+1000493|Technologie|centrifuge||||SIMPLE
+1000493|Domaine|sanitaire||||SIMPLE
+1000493|Autres caractéristiques|de refoulement,pour fluide agressif,||||LIST
+1000493|Débit||0|500|m³/h|MIN_MAX
+1000493|Hauteur|||||SIMPLE
+1000494|Fluide|pour produits chimiques,pour produits alimentaires,||||LIST
+1000494|Technologie|à engrenage interne||||SIMPLE
+1000494|Domaine|pour applications pharmaceutiques||||SIMPLE
+1000494|Autres caractéristiques|pour fluide corrosif,en acier inoxydable,de manutention,||||LIST
+1000494|Débit||0|170|m³/h|MIN_MAX
+1000494|Pression||0|16|bar|MIN_MAX
+1000495|Fluide|pour acide,pour produits alimentaires,||||LIST
+1000495|Amorçage|auto-amorçante||||SIMPLE
+1000495|Technologie|à palettes||||SIMPLE
+1000495|Autres caractéristiques|en acier inoxydable,pour eau glycolée,de manutention,||||LIST
+1000495|Débit||15|999|l/min|MIN_MAX
+1000495|Pression|||||SIMPLE
+1000496|Fluide|pour boisson||||SIMPLE
+1000496|Actionnement|électrique||||SIMPLE
+1000496|Technologie|à piston plongeur||||SIMPLE
+1000496|Autres caractéristiques|de dosage||||SIMPLE
+1000496|Débit||0|300|l/h|MIN_MAX
+1000497|Fluide|pour produits alimentaires||||SIMPLE
+1000497|Actionnement|électrique||||SIMPLE
+1000497|Technologie|centrifuge||||SIMPLE
+1000497|Autres caractéristiques|monobloc,mono-étagée,en acier inoxydable,||||LIST
+1000498|Fluide|pour produits alimentaires||||SIMPLE
+1000498|Technologie|à membrane||||SIMPLE
+1000498|Autres caractéristiques|en métal||||SIMPLE
+1000499|Fluide|à boue||||SIMPLE
+1000499|Amorçage|auto-amorçante||||SIMPLE
+1000499|Technologie|à palettes||||SIMPLE
+1000499|Autres caractéristiques|pour fluide haute viscosité,de manutention,de process,de transfert,||||LIST
+1000499|Débit||14|132|m³/h|MIN_MAX
+1000499|Pression|17.2,13.8,|||bar|LIST
+1000500|Fluide|à boue||||SIMPLE
+1000500|Actionnement|électrique||||SIMPLE
+1000500|Autres caractéristiques|de dosage||||SIMPLE
+1000500|Débit||0|68|l/h|MIN_MAX
+1000500|Pression||0|Max: 5,000,000 Pa (725.189 psi)|Pa|MIN_MAX
+1000501|Fluide|à boue||||SIMPLE
+1000501|Amorçage|auto-amorçante||||SIMPLE
+1000501|Technologie|à membrane||||SIMPLE
+1000501|Autres caractéristiques|en métal,de distribution,||||LIST
+1000502|Fluide|à graisse,à carburant,||||LIST
+1000502|Technologie|à engrenage interne||||SIMPLE
+1000502|Domaine|pour applications pétrochimiques,pour l'industrie pétrochimique,||||LIST
+1000502|Autres caractéristiques|en acier au carbone,de transfert,||||LIST
+1000502|Débit||0|170|m³/h|MIN_MAX
+1000502|Pression||0|16|bar|MIN_MAX
+1000503|Fluide|à huile||||SIMPLE
+1000503|Actionnement|électrique||||SIMPLE
+1000503|Technologie|à engrenage interne||||SIMPLE
+1000503|Autres caractéristiques|pour fluide haute viscosité,en fonte,de transfert,||||LIST
+1000503|Débit||0|170|m³/h|MIN_MAX
+1000503|Pression||0|16|bar|MIN_MAX
+1000504|Fluide|à huile||||SIMPLE
+1000504|Actionnement|électrique||||SIMPLE
+1000504|Amorçage|immergée||||SIMPLE
+1000504|Technologie|centrifuge||||SIMPLE
+1000504|Autres caractéristiques|en ligne,en fonte,de puisard,pour système de lubrification,||||LIST
+1000504|Débit||80|1,000|m³/h|MIN_MAX
+1000504|Hauteur||Min: 100'00"" (30.48 m)|Max: 330'00"" (100.58 m)||MIN_MAX
+1000505|Fluide|à eau,à huile,||||LIST
+1000505|Actionnement|à moteur hydraulique||||SIMPLE
+1000505|Technologie|à vis||||SIMPLE
+1000505|Autres caractéristiques|à forte charge,verticale,de suralimentation,en acier inoxydable,||||LIST
+1000505|Débit|,059.44,|||ft³/h)|LIST
+1000505|Pression|||||SIMPLE
+1000506|Fluide|pour GPL||||SIMPLE
+1000506|Actionnement|électrique||||SIMPLE
+1000506|Technologie|centrifuge||||SIMPLE
+1000506|Autres caractéristiques|pour puit profond,de suralimentation,||||LIST
+1000506|Débit||60|600|m³/h|MIN_MAX
+1000507|Fluide|à graisse,à carburant,||||LIST
+1000507|Technologie|à engrenage interne||||SIMPLE
+1000507|Domaine|pour applications pétrochimiques,pour l'industrie pétrochimique,||||LIST
+1000507|Autres caractéristiques|en acier au carbone,de transfert,||||LIST
+1000507|Débit||0|170|m³/h|MIN_MAX
+1000507|Pression||0|16|bar|MIN_MAX
+1000508|Fluide|pour solvant,pour biocarburant,pour diesel,||||LIST
+1000508|Amorçage|auto-amorçante||||SIMPLE
+1000508|Technologie|à palettes||||SIMPLE
+1000508|Autres caractéristiques|pour pétrole,en fonte,de transfert,||||LIST
+1000508|Débit||197|1,533|l/min|MIN_MAX
+1000508|Pression|||||SIMPLE
+1000509|Fluide|pour boisson||||SIMPLE
+1000509|Actionnement|électrique||||SIMPLE
+1000509|Technologie|à membrane||||SIMPLE
+1000509|Autres caractéristiques|de dosage||||SIMPLE
+1000509|Débit||0|105|l/h|MIN_MAX
+1000510|Fluide|pour produits alimentaires||||SIMPLE
+1000510|Technologie|à membrane||||SIMPLE
+1000510|Autres caractéristiques|en métal||||SIMPLE
+1000511|Fluide|pour eau douce,pour eau de mer,||||LIST
+1000511|Actionnement|électrique||||SIMPLE
+1000511|Amorçage|auto-amorçante||||SIMPLE
+1000511|Technologie|centrifuge||||SIMPLE
+1000511|Autres caractéristiques|verticale,pour fluide agressif,anti-incendie,||||LIST
+1000511|Débit|3,800,|||m³/h|SIMPLE
+1000512|Fluide|pour eau douce,pour eau de mer,||||LIST
+1000512|Actionnement|électrique||||SIMPLE
+1000512|Amorçage|auto-amorçante||||SIMPLE
+1000512|Technologie|centrifuge||||SIMPLE
+1000512|Autres caractéristiques|mono-étagée,normalisée,pour fluide agressif,anti-incendie,montage horizontal,||||LIST
+1000512|Débit||10|1,800|m³/h|MIN_MAX
+1000513|Fluide|pour eau chaude,pour eaux de refroidissement,pour eau douce,||||LIST
+1000513|Actionnement|électrique||||SIMPLE
+1000513|Technologie|centrifuge||||SIMPLE
+1000513|Domaine|pour applications offshore,pour applications marines,||||LIST
+1000513|Autres caractéristiques|mono-étagée,en ligne,verticale,en fonte,en bronze,de circulation,||||LIST
+1000513|Débit||2|160|m³/h|MIN_MAX
+1000514|Fluide|à boue,pour eaux usées,pour produits chimiques,pour produits alimentaires,||||LIST
+1000514|Actionnement|électrique||||SIMPLE
+1000514|Technologie|à vortex,centrifuge,||||LIST
+1000514|Autres caractéristiques|de manutention||||SIMPLE
+1000514|Débit||0|340|m³/h|MIN_MAX
+1000515|Fluide|pour produits alimentaires||||SIMPLE
+1000515|Amorçage|auto-amorçante||||SIMPLE
+1000515|Technologie|à anneau liquide,centrifuge,||||LIST
+1000516|Technologie|à palettes||||SIMPLE
+1000516|Autres caractéristiques|à débit fixe,à cylindrée fixe,||||LIST
+1000516|Débit||16.2|150|l/min|MIN_MAX
+1000516|Pression||0|275|bar|MIN_MAX
+1000516|Puissance||1.3|54.4|kW|MIN_MAX
+1000517|Fluide|à huile||||SIMPLE
+1000517|Actionnement|électrique||||SIMPLE
+1000517|Technologie|à engrenage interne||||SIMPLE
+1000517|Autres caractéristiques|pour fluide haute viscosité,en fonte,de transfert,||||LIST
+1000517|Débit||0|170|m³/h|MIN_MAX
+1000517|Pression||0|16|bar|MIN_MAX
+1000518|Fluide|pour produits chimiques||||SIMPLE
+1000518|Actionnement|électrique||||SIMPLE
+1000518|Technologie|à engrenage interne||||SIMPLE
+1000518|Autres caractéristiques|en fonte,de transfert,||||LIST
+1000518|Débit||0|50|m³/h|MIN_MAX
+1000518|Pression||0|16|bar|MIN_MAX
+1000519|Fluide|pour ammoniac,pour GPL,||||LIST
+1000519|Actionnement|électrique||||SIMPLE
+1000519|Amorçage|auto-amorçante||||SIMPLE
+1000519|Technologie|à palettes||||SIMPLE
+1000519|Autres caractéristiques|de remplissage,de transfert,||||LIST
+1000519|Débit|37.9,49.2,30.3,22.7,|||l/min|LIST
+1000519|Pression||0|6.8|bar|MIN_MAX
+1000520|Fluide|pour boisson||||SIMPLE
+1000520|Actionnement|électrique||||SIMPLE
+1000520|Technologie|à piston plongeur,à membrane,||||LIST
+1000520|Autres caractéristiques|de process,de dosage,||||LIST
+1000520|Débit||0|3.7|m³/h|MIN_MAX
+1000521|Fluide|pour produits alimentaires||||SIMPLE
+1000521|Technologie|à vis excentrée||||SIMPLE
+1000521|Autres caractéristiques|de nettoyage||||SIMPLE
+1000522|Fluide|pour produits alimentaires||||SIMPLE
+1000522|Technologie|à membrane||||SIMPLE
+1000522|Autres caractéristiques|en métal||||SIMPLE
+1000523|Technologie|à anneau liquide,centrifuge,||||LIST
+1000523|Lubrification|lubrifiée||||SIMPLE
+1000523|Nombre d'étages|mono-étagée||||SIMPLE
+1000523|Autres caractéristiques|compacte,en acier inoxydable,||||LIST
+1000523|Applications|eau||||SIMPLE
+1000523|Débit||20|85|m³/h|MIN_MAX
+1000524|Lubrification|sans huile||||SIMPLE
+1000524|Nombre d'étages|mono-étagé||||SIMPLE
+1000524|Autres caractéristiques|compact,pneumatique,||||LIST
+1000525|Lubrification|sans huile||||SIMPLE
+1000525|Nombre d'étages|mono-étagé||||SIMPLE
+1000456|Type|planétaire,à vis sans fin,à train d'engrenages,||||LIST
+1000456|Type d'arbre|coaxial,orthogonal,à arbres parallèles,||||LIST
+1000456|Autres caractéristiques|pour moteur DC||||SIMPLE
+1000456|Couple|100 - 200 Nm,20 - 50 Nm,50 - 100 Nm,0.5 - 1 Nm,1 - 5 Nm,10 - 20 Nm,5 - 10 Nm,||||LIST
+1000456|Couple||0.5|120|Nm|MIN_MAX
+1000457|Type|planétaire||||SIMPLE
+1000457|Type d'arbre|coaxial||||SIMPLE
+1000457|Performance|silencieux||||SIMPLE
+1000457|Autres caractéristiques|robuste||||SIMPLE
+1000457|Vitesse de rotation||0|6,000|rpm|MIN_MAX
+1000458|Type|planétaire,à vis sans fin,à train d'engrenages,||||LIST
+1000458|Type d'arbre|coaxial,orthogonal,à arbres parallèles,||||LIST
+1000458|Autres caractéristiques|pour moteur DC||||SIMPLE
+1000458|Couple|100 - 200 Nm,20 - 50 Nm,50 - 100 Nm,0.5 - 1 Nm,1 - 5 Nm,10 - 20 Nm,5 - 10 Nm,||||LIST
+1000458|Couple||0.5|120|Nm|MIN_MAX
+1000459|Type|pneumatique||||SIMPLE
+1000459|Technologie|à simple effet,à tige,||||LIST
+1000459|Autres caractéristiques|compact,ISO 21287,en acier,||||LIST
+1000459|Course||1|25|mm|MIN_MAX
+1000459|Force||59|4,510|N|MIN_MAX
+1000460|Type|pneumatique||||SIMPLE
+1000460|Technologie|à simple effet,à recirculation de billes,||||LIST
+1000460|Autres caractéristiques|standard,rond,à détection de position,en acier inoxydable,en aluminium,||||LIST
+1000460|Course||1|50|mm|MIN_MAX
+1000460|Force||24|1,763|N|MIN_MAX
